@@ -1,1 +1,78 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i covid-19-forskriften</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2021-05-11-1474</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2021-05-11-1474</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Helse- og omsorgsdepartementet</li></ul></dd><dt class="subunit">Etat</dt><dd class="subunit"><ul><li>Helserettsavdelingen</li></ul></dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2021-05-11</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2020-03-27-470</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/1994-08-05-55/§4-3</li><li>forskrift/2020-03-27-470/§25</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2021-05-12 11:20</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2021-0760</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i covid-19-forskriften</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i covid-19-forskriften</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Helse- og omsorgsdepartementet 11. mai 2021 med hjemmel i lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer § 4-3 første ledd, jf. forskrift 27. mars 2020 nr. 470 om smitteverntiltak mv. ved koronautbruddet (covid-19-forskriften) § 25.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2021-05-11-1474</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i covid-19-forskriften<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2021-05-11-1474" id="dokument"><h1>Forskrift om endring i covid-19-forskriften</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2021-05-11-1474/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift 27. mars 2020 nr. 470 om smitteverntiltak mv. ved koronautbruddet (covid-19-forskriften) gjøres følgende endring:</article> <article class="defaultP" margin-top="true">§ 6a bokstav c skal lyde:</article><article class="legalP" id="kapittel-1-ledd-2">de som i Norge stiger på fartøy som krysser Norges territorialgrenser og kun oppholder seg i fartøyet til de ankommer Norge igjen, uten at passasjerer eller mannskap har gått om bord eller vært i land i utenlandsk havn. Unntaket gjelder selv om fartøyet tar om bord samfunnskritisk personell og personer som gjennomfører varetransport fra utenlandsk havn. Rederiet skal tilrettelegge og kunne fremlegge dokumentasjon for at de som går om bord holdes adskilt fra øvrige passasjerer og unngår nærkontakt med mannskapet. Rederiet skal kontrollere dokumentasjon fra de som går om bord i utenlandsk havn og fastsette et maksimalt antall passasjerer som kan være om bord for at det skal være smittevernfaglig forsvarlig.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2021-05-11-1474/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Forskriften trer i kraft straks.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i covid-19-forskriften</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2021-05-11-1474</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2021-05-11-1474</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Helse- og omsorgsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="subunit">Etat</dt>
+        <dd class="subunit">
+          <ul>
+            <li>Helserettsavdelingen</li>
+          </ul>
+        </dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2021-05-11</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2020-03-27-470</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/1994-08-05-55/&#xA7;4-3</li>
+            <li>forskrift/2020-03-27-470/&#xA7;25</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2021-05-12 11:20</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2021-0760</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i covid-19-forskriften</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i covid-19-forskriften</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Helse- og omsorgsdepartementet 11. mai 2021 med hjemmel i lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer &#xA7; 4-3 f&#xF8;rste ledd, jf. forskrift 27. mars 2020 nr. 470 om smitteverntiltak mv. ved koronautbruddet (covid-19-forskriften) &#xA7; 25.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2021-05-11-1474</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i covid-19-forskriften<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2021-05-11-1474" id="dokument">
+      <h1>Forskrift om endring i covid-19-forskriften</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2021-05-11-1474/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift 27. mars 2020 nr. 470 om smitteverntiltak mv. ved koronautbruddet (covid-19-forskriften) gj&#xF8;res f&#xF8;lgende endring:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 6a bokstav c skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">de som i Norge stiger p&#xE5; fart&#xF8;y som krysser Norges territorialgrenser og kun oppholder seg i fart&#xF8;yet til de ankommer Norge igjen, uten at passasjerer eller mannskap har g&#xE5;tt om bord eller v&#xE6;rt i land i utenlandsk havn. Unntaket gjelder selv om fart&#xF8;yet tar om bord samfunnskritisk personell og personer som gjennomf&#xF8;rer varetransport fra utenlandsk havn. Rederiet skal tilrettelegge og kunne fremlegge dokumentasjon for at de som g&#xE5;r om bord holdes adskilt fra &#xF8;vrige passasjerer og unng&#xE5;r n&#xE6;rkontakt med mannskapet. Rederiet skal kontrollere dokumentasjon fra de som g&#xE5;r om bord i utenlandsk havn og fastsette et maksimalt antall passasjerer som kan v&#xE6;re om bord for at det skal v&#xE6;re smittevernfaglig forsvarlig.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2021-05-11-1474/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Forskriften trer i kraft straks.</article>
+      </section>
+    </main>
+  </body>
+</html>

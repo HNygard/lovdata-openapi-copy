@@ -1,1 +1,82 @@
-<!DOCTYPE html><html lang="no"><head><title>Lov om endringer i folketrygdloven (ny uføretrygd og alderspensjon til uføre)</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">LOV-2011-12-16-59</dd><dt class="dokid">DokumentID</dt><dd class="dokid">NL/lov/2011-12-16-59</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Arbeids- og inkluderingsdepartementet</li></ul></dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2015-01-01, 2012-02-01</dd><dt class="lastChangeInForce">Ikrafttredelse av siste endring</dt><dd class="lastChangeInForce">2014-12-19</dd><dt class="lastChangedBy">Sist endret ved</dt><dd class="lastChangedBy"><a href="lov/2014-12-19-73">lov/2014-12-19-73</a></dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li><a href="lov/1997-02-28-19">lov/1997-02-28-19</a></li></ul></dd><dt class="legalArea">Rettsområde</dt><dd class="legalArea"><ul><li><a href="legal-areas/24" title="Pensjons- og trygderett">Pensjons- og trygderett</a></li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2011-12-16 15:40</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endringslov til folketrygdloven (ny uføretrygd)</dd><dt class="title">Tittel</dt><dd class="title">Lov om endringer i folketrygdloven (ny uføretrygd og alderspensjon til uføre)</dd><dt class="refid">RefID</dt><dd class="refid">lov/2011-12-16-59</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li><a href="#dokument">Lov om endringer i folketrygdloven (ny uføretrygd og alderspensjon til uføre)</a><ul class="tocSubUl"><li><a href="#kapittel-1">II</a></li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="NL/lov/2011-12-16-59" id="dokument"><h1>Lov om endringer i folketrygdloven (ny uføretrygd og alderspensjon til uføre)</h1><section class="section" data-name="kapII" id="kapittel-1" data-lovdata-URL="NL/lov/2011-12-16-59/KAPITTEL_1"><h2>II</h2><article class="legalP" id="kapittel-1-ledd-1">Loven trer i kraft fra den tid Kongen bestemmer.<sup class="footnotereference" data-footnotereferencevalue="1" data-unique-footnote-counter="1">1</sup></article><article class="legalP" id="kapittel-1-ledd-2">Ny § 19-9 a gis virkning for personer som tar ut alderspensjon tidligst fra 1. januar 2011.</article><article class="legalP" id="kapittel-1-ledd-3">Uførepensjon fra folketrygden omregnes til uføretrygd etter de nye reglene med virkning fra den dato loven trer i kraft. Dette gjelder også der uførepensjon innvilges på et senere tidspunkt, men med virkningstidspunkt før loven trer i kraft.</article><article class="legalP" id="kapittel-1-ledd-4">Departementet gir forskrifter om<ol class="defaultList" type="a"><li data-name="a." value="1"><article class="listArticle" id="kapittel-1-ledd-4-punkt-1"><article class="legalP" id="kapittel-1-ledd-4-punkt-1-ledd-1">omregning av uførepensjon til uføretrygd og</article></article></li><li data-name="b." value="2"><article class="listArticle" id="kapittel-1-ledd-4-punkt-2"><article class="legalP" id="kapittel-1-ledd-4-punkt-2-ledd-1">fastsetting av pensjonspoeng og pensjonsopptjening for inntektsåret før loven trer i kraft.</article></article></li></ol></article><footer class="footnotes"><article class="footnote" data-name="1" data-unique-footnote-counter="1"><span class="footnoteLabel">1</span> Iflg. <a href="forskrift/2011-12-16-1249">res. 16 des 2011 nr. 1249</a> trådte folketrygdloven ny § 19-9a og endringsloven del II ikr. 1 feb 2012.<br />Iflg. <a href="forskrift/2014-06-20-797">res. 20 juni 2014 nr. 797</a> trådte resten av loven ikr. 1 jan 2015.</article></footer></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Lov om endringer i folketrygdloven (ny uf&#xF8;retrygd og alderspensjon til uf&#xF8;re)</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">LOV-2011-12-16-59</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">NL/lov/2011-12-16-59</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Arbeids- og inkluderingsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2015-01-01, 2012-02-01</dd>
+        <dt class="lastChangeInForce">Ikrafttredelse av siste endring</dt>
+        <dd class="lastChangeInForce">2014-12-19</dd>
+        <dt class="lastChangedBy">Sist endret ved</dt>
+        <dd class="lastChangedBy">
+          <a href="lov/2014-12-19-73">lov/2014-12-19-73</a>
+        </dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>
+              <a href="lov/1997-02-28-19">lov/1997-02-28-19</a>
+            </li>
+          </ul>
+        </dd>
+        <dt class="legalArea">Rettsomr&#xE5;de</dt>
+        <dd class="legalArea">
+          <ul>
+            <li>
+              <a href="legal-areas/24" title="Pensjons- og trygderett">Pensjons- og trygderett</a>
+            </li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2011-12-16 15:40</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endringslov til folketrygdloven (ny uf&#xF8;retrygd)</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Lov om endringer i folketrygdloven (ny uf&#xF8;retrygd og alderspensjon til uf&#xF8;re)</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">lov/2011-12-16-59</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>
+              <a href="#dokument">Lov om endringer i folketrygdloven (ny uf&#xF8;retrygd og alderspensjon til uf&#xF8;re)</a>
+              <ul class="tocSubUl">
+                <li>
+                  <a href="#kapittel-1">II</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="NL/lov/2011-12-16-59" id="dokument">
+      <h1>Lov om endringer i folketrygdloven (ny uf&#xF8;retrygd og alderspensjon til uf&#xF8;re)</h1>
+      <section class="section" data-name="kapII" id="kapittel-1" data-lovdata-URL="NL/lov/2011-12-16-59/KAPITTEL_1">
+        <h2>II</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">Loven trer i kraft fra den tid Kongen bestemmer.<sup class="footnotereference" data-footnotereferencevalue="1" data-unique-footnote-counter="1">1</sup></article>
+        <article class="legalP" id="kapittel-1-ledd-2">Ny &#xA7; 19-9 a gis virkning for personer som tar ut alderspensjon tidligst fra 1. januar 2011.</article>
+        <article class="legalP" id="kapittel-1-ledd-3">Uf&#xF8;repensjon fra folketrygden omregnes til uf&#xF8;retrygd etter de nye reglene med virkning fra den dato loven trer i kraft. Dette gjelder ogs&#xE5; der uf&#xF8;repensjon innvilges p&#xE5; et senere tidspunkt, men med virkningstidspunkt f&#xF8;r loven trer i kraft.</article>
+        <article class="legalP" id="kapittel-1-ledd-4">Departementet gir forskrifter om<ol class="defaultList" type="a"><li data-name="a." value="1"><article class="listArticle" id="kapittel-1-ledd-4-punkt-1"><article class="legalP" id="kapittel-1-ledd-4-punkt-1-ledd-1">omregning av uf&#xF8;repensjon til uf&#xF8;retrygd og</article></article></li><li data-name="b." value="2"><article class="listArticle" id="kapittel-1-ledd-4-punkt-2"><article class="legalP" id="kapittel-1-ledd-4-punkt-2-ledd-1">fastsetting av pensjonspoeng og pensjonsopptjening for inntekts&#xE5;ret f&#xF8;r loven trer i kraft.</article></article></li></ol></article>
+        <footer class="footnotes">
+          <article class="footnote" data-name="1" data-unique-footnote-counter="1"><span class="footnoteLabel">1</span> Iflg. <a href="forskrift/2011-12-16-1249">res. 16 des 2011 nr. 1249</a> tr&#xE5;dte folketrygdloven ny &#xA7; 19-9a og endringsloven del II ikr. 1 feb 2012.<br/>Iflg. <a href="forskrift/2014-06-20-797">res. 20 juni 2014 nr. 797</a> tr&#xE5;dte resten av loven ikr. 1 jan 2015.</article>
+        </footer>
+      </section>
+    </main>
+  </body>
+</html>

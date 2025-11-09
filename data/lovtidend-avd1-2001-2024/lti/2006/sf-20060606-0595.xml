@@ -1,1 +1,78 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift om angreskjema.</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2006-06-06-595</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2006-06-06-595</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Barne- og likestillingsdepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2006 hefte 8 s 1026</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2006-07-01</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2001-02-27-221</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/2000-12-21-105/§10</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2006-06-13</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2006-0443</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i forskrift om angreskjema</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om angreskjema.</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Fastsatt av Barne- og likestillingsdepartementet 6. juni 2006 med hjemmel i lov 21. desember 2000 nr. 105 om opplysningsplikt og angrerett m.v. ved fjernsalg og salg utenfor fast utsalgssted (angrerettloven) § 10 første ledd.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2006-06-06-595</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om angreskjema.<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2006-06-06-595" id="dokument"><h1>Forskrift om endring i forskrift om angreskjema.</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2006-06-06-595/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift 27. februar 2001 nr. 221 om angreskjema gjøres følgende endringer:</article> <article class="defaultP" margin-top="true">§ 1 første ledd annet punktum oppheves.</article> <article class="defaultP" margin-top="true">§ 2 første ledd ny bokstav d) skal lyde:<ul class="defaultList"><li data-li-identifier="d)" data-name="d)"><article class="listArticle" id="kapittel-1-ledd-1-punkt-1"><article class="legalP" id="kapittel-1-ledd-1-punkt-1-ledd-1">Ved fjernsalg og salg utenfor fast utsalgssted av finansielle tjenester benyttes skjema D.</article></article></li></ul></article> <article class="defaultP" margin-top="true">Nåværende overgangsbestemmelse i § 2 tredje ledd oppheves.</article> <article class="defaultP" margin-top="true">§ 2 nytt tredje ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-2">Frem til 1. januar 2007 er det adgang til å benytte annet angreskjema enn angreskjema D, eller å gi opplysningene om angrerett for finansielle tjenester på annen fullgod måte.</article> <article class="defaultP" margin-top="true">Fotnoten til § 2 sjette ord «vedlegg» skal lyde:</article><article class="legalP" id="kapittel-1-ledd-3">Vedleggene er utelatt og kan fås ved henvendelse til Barne- og likestillingsdepartementet, Forbrukeravdelingen, tlf. 22242453. Skjemaene kan også finnes på Barne- og likestillingsdepartementets hjemmesider på Internett: http://www.odin.no/bld/norsk/dok/andre_dok/skjema/004061-100002/dokbn.html</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2006-06-06-595/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft 1. juli 2006.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift om angreskjema.</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2006-06-06-595</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2006-06-06-595</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Barne- og likestillingsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2006 hefte 8 s 1026</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2006-07-01</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2001-02-27-221</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/2000-12-21-105/&#xA7;10</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2006-06-13</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2006-0443</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i forskrift om angreskjema</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om angreskjema.</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Fastsatt av Barne- og likestillingsdepartementet 6. juni 2006 med hjemmel i lov 21. desember 2000 nr. 105 om opplysningsplikt og angrerett m.v. ved fjernsalg og salg utenfor fast utsalgssted (angrerettloven) &#xA7; 10 f&#xF8;rste ledd.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2006-06-06-595</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om angreskjema.<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2006-06-06-595" id="dokument">
+      <h1>Forskrift om endring i forskrift om angreskjema.</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2006-06-06-595/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift 27. februar 2001 nr. 221 om angreskjema gj&#xF8;res f&#xF8;lgende endringer:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 1 f&#xF8;rste ledd annet punktum oppheves.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 2 f&#xF8;rste ledd ny bokstav d) skal lyde:<ul class="defaultList"><li data-li-identifier="d)" data-name="d)"><article class="listArticle" id="kapittel-1-ledd-1-punkt-1"><article class="legalP" id="kapittel-1-ledd-1-punkt-1-ledd-1">Ved fjernsalg og salg utenfor fast utsalgssted av finansielle tjenester benyttes skjema D.</article></article></li></ul></article>
+        <article class="defaultP" margin-top="true">N&#xE5;v&#xE6;rende overgangsbestemmelse i &#xA7; 2 tredje ledd oppheves.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 2 nytt tredje ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">Frem til 1. januar 2007 er det adgang til &#xE5; benytte annet angreskjema enn angreskjema D, eller &#xE5; gi opplysningene om angrerett for finansielle tjenester p&#xE5; annen fullgod m&#xE5;te.</article>
+        <article class="defaultP" margin-top="true">Fotnoten til &#xA7; 2 sjette ord &#xAB;vedlegg&#xBB; skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-3">Vedleggene er utelatt og kan f&#xE5;s ved henvendelse til Barne- og likestillingsdepartementet, Forbrukeravdelingen, tlf. 22242453. Skjemaene kan ogs&#xE5; finnes p&#xE5; Barne- og likestillingsdepartementets hjemmesider p&#xE5; Internett: http://www.odin.no/bld/norsk/dok/andre_dok/skjema/004061-100002/dokbn.html</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2006-06-06-595/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft 1. juli 2006.</article>
+      </section>
+    </main>
+  </body>
+</html>

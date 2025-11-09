@@ -1,1 +1,80 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift om tilskudd til skogbruksplanlegging med miljøregistreringer</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2021-08-17-2516</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2021-08-17-2516</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Landbruks- og matdepartementet</li></ul></dd><dt class="subunit">Etat</dt><dd class="subunit"><ul><li>Avdeling for skog- og ressurspolitikk</li></ul></dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2021-08-17</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2004-02-04-449</li></ul></dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/2005-05-27-31/§19</li><li>lov/2005-05-27-31/§25</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2021-08-17 14:20</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2021-1466</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i forskrift om skogbruksplanlegging med miljøreg.</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om tilskudd til skogbruksplanlegging med miljøregistreringer</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Landbruks- og matdepartementet 17. august 2021 med hjemmel i lov 27. mai 2005 nr. 31 om skogbruk (skogbrukslova) § 19, jf. § 25.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2021-08-17-2516</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om tilskudd til skogbruksplanlegging med miljøregistreringer<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2021-08-17-2516" id="dokument"><h1>Forskrift om endring i forskrift om tilskudd til skogbruksplanlegging med miljøregistreringer</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2021-08-17-2516/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift 4. februar 2004 nr. 449 om tilskudd til skogbruksplanlegging med miljøregistreringer gjøres følgende endringer:</article> <article class="defaultP" margin-top="true">§ 4 første ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-2">Ved skogbruksplanlegging der det gis tilskudd skal fastsatte standarder og takstmetoder følges. Standardene omfatter dataformater og datadefinisjoner samt beregningsfunksjoner. Landbruksdirektoratet fastsetter og godkjenner slike standarder.</article> <article class="defaultP" margin-top="true">§ 11 andre ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-3">Ved avslutning av takstoppdrag skal digital kopi av alle data som er knyttet til opplistingen i § 6 oversendes til Norsk institutt for bioøkonomi for innlegging i en database for skog- og miljødata.</article> <article class="defaultP" margin-top="true">§ 12 første ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-4">Skogeier skal gjennom avtale for planoppdraget sikres rettigheter til informasjon som er registrert på vedkommendes skogeiendom. Landbruks- og matdepartementet, Statsforvalteren og kommunen skal gjennom avtale for planoppdraget sikres rettigheter til dataene som er listet opp i § 6. Jordskifterettene og Norsk institutt for bioøkonomi skal gjennom samme avtale sikres disposisjonsrett og distribusjonsrett til dataene. Data og kart overleveres på digital, eventuelt analog, form.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2021-08-17-2516/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Forskriften trer i kraft straks.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift om tilskudd til skogbruksplanlegging med milj&#xF8;registreringer</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2021-08-17-2516</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2021-08-17-2516</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Landbruks- og matdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="subunit">Etat</dt>
+        <dd class="subunit">
+          <ul>
+            <li>Avdeling for skog- og ressurspolitikk</li>
+          </ul>
+        </dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2021-08-17</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2004-02-04-449</li>
+          </ul>
+        </dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/2005-05-27-31/&#xA7;19</li>
+            <li>lov/2005-05-27-31/&#xA7;25</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2021-08-17 14:20</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2021-1466</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i forskrift om skogbruksplanlegging med milj&#xF8;reg.</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om tilskudd til skogbruksplanlegging med milj&#xF8;registreringer</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Landbruks- og matdepartementet 17. august 2021 med hjemmel i lov 27. mai 2005 nr. 31 om skogbruk (skogbrukslova) &#xA7; 19, jf. &#xA7; 25.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2021-08-17-2516</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om tilskudd til skogbruksplanlegging med milj&#xF8;registreringer<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2021-08-17-2516" id="dokument">
+      <h1>Forskrift om endring i forskrift om tilskudd til skogbruksplanlegging med milj&#xF8;registreringer</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2021-08-17-2516/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift 4. februar 2004 nr. 449 om tilskudd til skogbruksplanlegging med milj&#xF8;registreringer gj&#xF8;res f&#xF8;lgende endringer:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 4 f&#xF8;rste ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">Ved skogbruksplanlegging der det gis tilskudd skal fastsatte standarder og takstmetoder f&#xF8;lges. Standardene omfatter dataformater og datadefinisjoner samt beregningsfunksjoner. Landbruksdirektoratet fastsetter og godkjenner slike standarder.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 11 andre ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-3">Ved avslutning av takstoppdrag skal digital kopi av alle data som er knyttet til opplistingen i &#xA7; 6 oversendes til Norsk institutt for bio&#xF8;konomi for innlegging i en database for skog- og milj&#xF8;data.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 12 f&#xF8;rste ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-4">Skogeier skal gjennom avtale for planoppdraget sikres rettigheter til informasjon som er registrert p&#xE5; vedkommendes skogeiendom. Landbruks- og matdepartementet, Statsforvalteren og kommunen skal gjennom avtale for planoppdraget sikres rettigheter til dataene som er listet opp i &#xA7; 6. Jordskifterettene og Norsk institutt for bio&#xF8;konomi skal gjennom samme avtale sikres disposisjonsrett og distribusjonsrett til dataene. Data og kart overleveres p&#xE5; digital, eventuelt analog, form.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2021-08-17-2516/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Forskriften trer i kraft straks.</article>
+      </section>
+    </main>
+  </body>
+</html>

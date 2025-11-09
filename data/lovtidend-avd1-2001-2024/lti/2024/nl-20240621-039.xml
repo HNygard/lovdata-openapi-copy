@@ -1,1 +1,79 @@
-<!DOCTYPE html><html lang="nb"><head><title>Lov om endringer i lov om elektroniske tillitstjenester (adgang til innhenting av opplysninger fra Folkeregisteret)</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">LOV-2024-06-21-39</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/lov/2024-06-21-39</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Digitaliserings- og forvaltningsdepartementet</li></ul></dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2024-06-21</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>lov/2018-06-15-44</li></ul></dd><dt class="legalArea">Rettsområde</dt><dd class="legalArea"><ul><li>IKT- og medierett &gt; Elektronisk handel. E-signatur</li> <li>IKT- og medierett &gt; Personopplysninger</li> <li>IKT- og medierett &gt; Telekommunikasjon</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2024-06-21 12:10</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2024-0485</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endringslov til lov om elektroniske tillitstjenester</dd><dt class="title">Tittel</dt><dd class="title">Lov om endringer i lov om elektroniske tillitstjenester (adgang til innhenting av opplysninger fra Folkeregisteret)</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Prop. 52 L (2023–2024), Innst. 282 L (2023–2024), Lovvedtak 59 (2023–2024). Stortingets første og andre gangs behandling hhv. 14. og 23. mai 2024. Fremmet av Digitaliserings- og forvaltningsdepartementet.</dd><dt class="refid">RefID</dt><dd class="refid">lov/2024-06-21-39</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Lov om endringer i lov om elektroniske tillitstjenester (adgang til innhenting av opplysninger fra Folkeregisteret)<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/lov/2024-06-21-39" id="dokument"><h1>Lov om endringer i lov om elektroniske tillitstjenester (adgang til innhenting av opplysninger fra Folkeregisteret)</h1><article class="defaultP" data-text-size="small">Endring i følgende lov:<ul class="defaultList" data-text-size="small"><li><article class="listArticle" data-text-size="small" id="punkt-1"><article class="legalP" id="punkt-1-ledd-1">Lov 15. juni 2018 nr. 44 om gjennomføring av EUs forordning om elektronisk identifikasjon og tillitstjenester for elektroniske transaksjoner i det indre marked (lov om elektroniske tillitstjenester).</article></article></li></ul></article><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2024-06-21-39/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="document-change" data-document="lov/2018-06-15-44" id="kapittel-1-dokumentendring-1"><article class="change" data-add-new-part="lov/2018-06-15-44/§1a" id="kapittel-1-dokumentendring-1-endring-1"><article class="defaultP">I lov 15. juni 2018 nr. 44 om gjennomføring av EUs forordning om elektronisk identifikasjon og tillitstjenester for elektroniske transaksjoner i det indre marked skal ny § 1 a lyde:</article><article class="futureLegalArticle" data-name="§1a" id="kapittel-1-dokumentendring-1-endring-1-foreslåttparagraf-1"><span class="futureLegalArticleHeader"><span class="legalArticleValue">§ 1 a</span>. <span class="legalArticleTitle">Innhenting av opplysninger fra Folkeregisteret</span></span><article class="legalP" id="kapittel-1-dokumentendring-1-endring-1-foreslåttparagraf-1-ledd-1">Utstedere av elektroniske identitetsbevis kan uten hinder av taushetsplikt innhente opplysninger fra Folkeregisteret når det er nødvendig for å utføre oppgaver etter denne loven.</article><article class="legalP" id="kapittel-1-dokumentendring-1-endring-1-foreslåttparagraf-1-ledd-2">Departementet gir forskrift om hvilke opplysninger som kan innhentes.</article></article></article></article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2024-06-21-39/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Loven trer i kraft straks.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="nb">
+  <head>
+    <title>Lov om endringer i lov om elektroniske tillitstjenester (adgang til innhenting av opplysninger fra Folkeregisteret)</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">LOV-2024-06-21-39</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/lov/2024-06-21-39</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Digitaliserings- og forvaltningsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2024-06-21</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>lov/2018-06-15-44</li>
+          </ul>
+        </dd>
+        <dt class="legalArea">Rettsomr&#xE5;de</dt>
+        <dd class="legalArea">
+          <ul>
+            <li>IKT- og medierett &gt; Elektronisk handel. E-signatur</li>
+            <li>IKT- og medierett &gt; Personopplysninger</li>
+            <li>IKT- og medierett &gt; Telekommunikasjon</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2024-06-21 12:10</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2024-0485</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endringslov til lov om elektroniske tillitstjenester</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Lov om endringer i lov om elektroniske tillitstjenester (adgang til innhenting av opplysninger fra Folkeregisteret)</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Prop. 52 L (2023&#x2013;2024), Innst. 282 L (2023&#x2013;2024), Lovvedtak 59 (2023&#x2013;2024). Stortingets f&#xF8;rste og andre gangs behandling hhv. 14. og 23. mai 2024. Fremmet av Digitaliserings- og forvaltningsdepartementet.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">lov/2024-06-21-39</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Lov om endringer i lov om elektroniske tillitstjenester (adgang til innhenting av opplysninger fra Folkeregisteret)<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/lov/2024-06-21-39" id="dokument">
+      <h1>Lov om endringer i lov om elektroniske tillitstjenester (adgang til innhenting av opplysninger fra Folkeregisteret)</h1>
+      <article class="defaultP" data-text-size="small">Endring i f&#xF8;lgende lov:<ul class="defaultList" data-text-size="small"><li><article class="listArticle" data-text-size="small" id="punkt-1"><article class="legalP" id="punkt-1-ledd-1">Lov 15. juni 2018 nr. 44 om gjennomf&#xF8;ring av EUs forordning om elektronisk identifikasjon og tillitstjenester for elektroniske transaksjoner i det indre marked (lov om elektroniske tillitstjenester).</article></article></li></ul></article>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2024-06-21-39/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="document-change" data-document="lov/2018-06-15-44" id="kapittel-1-dokumentendring-1">
+          <article class="change" data-add-new-part="lov/2018-06-15-44/&#xA7;1a" id="kapittel-1-dokumentendring-1-endring-1">
+            <article class="defaultP">I lov 15. juni 2018 nr. 44 om gjennomf&#xF8;ring av EUs forordning om elektronisk identifikasjon og tillitstjenester for elektroniske transaksjoner i det indre marked skal ny &#xA7; 1 a lyde:</article>
+            <article class="futureLegalArticle" data-name="&#xA7;1a" id="kapittel-1-dokumentendring-1-endring-1-foresl&#xE5;ttparagraf-1">
+              <span class="futureLegalArticleHeader"><span class="legalArticleValue">&#xA7; 1 a</span>. <span class="legalArticleTitle">Innhenting av opplysninger fra Folkeregisteret</span></span>
+              <article class="legalP" id="kapittel-1-dokumentendring-1-endring-1-foresl&#xE5;ttparagraf-1-ledd-1">Utstedere av elektroniske identitetsbevis kan uten hinder av taushetsplikt innhente opplysninger fra Folkeregisteret n&#xE5;r det er n&#xF8;dvendig for &#xE5; utf&#xF8;re oppgaver etter denne loven.</article>
+              <article class="legalP" id="kapittel-1-dokumentendring-1-endring-1-foresl&#xE5;ttparagraf-1-ledd-2">Departementet gir forskrift om hvilke opplysninger som kan innhentes.</article>
+            </article>
+          </article>
+        </article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2024-06-21-39/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Loven trer i kraft straks.</article>
+      </section>
+    </main>
+  </body>
+</html>

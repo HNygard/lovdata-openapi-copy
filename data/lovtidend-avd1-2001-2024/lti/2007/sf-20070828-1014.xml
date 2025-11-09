@@ -1,1 +1,75 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift om kontroll med Salmonella i fjørfe, fjørfefôr, fjørfekjøtt og egg</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2007-08-28-1014</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2007-08-28-1014</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Helse- og omsorgsdepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2007 hefte 9 s 1336</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2007-08-28</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2007-06-08-603</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/2003-12-19-124/§19</li><li>forskrift/2003-12-19-1790</li><li>forskrift/2004-05-05-884</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2007-08-31 15:00</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2007-0812</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i forskrift om salmonella</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om kontroll med Salmonella i fjørfe, fjørfefôr, fjørfekjøtt og egg</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Fastsatt av Det sentrale Mattilsynet ved hovedkontoret 28. august 2007 med hjemmel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 19 jf. delegeringsvedtak 19. desember 2003 nr. 1790 og delegeringsvedtak 5. mai 2004 nr. 884.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2007-08-28-1014</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om kontroll med Salmonella i fjørfe, fjørfefôr, fjørfekjøtt og egg<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2007-08-28-1014" id="dokument"><h1>Forskrift om endring i forskrift om kontroll med Salmonella i fjørfe, fjørfefôr, fjørfekjøtt og egg</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2007-08-28-1014/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift 8. juni 2007 nr. 603 om kontroll med Salmonella i fjørfe, fjørfefôr, fjørfekjøtt og egg gjøres følgende endring:</article> <article class="defaultP" margin-top="true">§ 13 skal lyde:</article><article class="legalP" id="kapittel-1-ledd-2">Forbud mot vaksinasjon mot <i>Salmonella</i> og bruk av antibakterielle midler som tiltak følger av forskrift 28. august 2007 nr. 1013 om gjennomføring av forordning (EF) nr. 1177/2006 av 1. august 2006 om implementering av forordning (EF) nr. 2160/2003 for så vidt angår krav vedrørende anvendelse av særlige bekjempelsesmetoder som ledd i de nasjonale Salmonella kontrollprogrammer og forskrift 20. desember 1999 nr. 1310 om vaksinasjon av husdyr, vilt, fisk og andre akvatiske dyr (vaksinasjonsforskriften) § 5.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2007-08-28-1014/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Endringen trer i kraft straks.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift om kontroll med Salmonella i fj&#xF8;rfe, fj&#xF8;rfef&#xF4;r, fj&#xF8;rfekj&#xF8;tt og egg</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2007-08-28-1014</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2007-08-28-1014</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Helse- og omsorgsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2007 hefte 9 s 1336</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2007-08-28</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2007-06-08-603</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/2003-12-19-124/&#xA7;19</li>
+            <li>forskrift/2003-12-19-1790</li>
+            <li>forskrift/2004-05-05-884</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2007-08-31 15:00</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2007-0812</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i forskrift om salmonella</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om kontroll med Salmonella i fj&#xF8;rfe, fj&#xF8;rfef&#xF4;r, fj&#xF8;rfekj&#xF8;tt og egg</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Fastsatt av Det sentrale Mattilsynet ved hovedkontoret 28. august 2007 med hjemmel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) &#xA7; 19 jf. delegeringsvedtak 19. desember 2003 nr. 1790 og delegeringsvedtak 5. mai 2004 nr. 884.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2007-08-28-1014</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om kontroll med Salmonella i fj&#xF8;rfe, fj&#xF8;rfef&#xF4;r, fj&#xF8;rfekj&#xF8;tt og egg<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2007-08-28-1014" id="dokument">
+      <h1>Forskrift om endring i forskrift om kontroll med Salmonella i fj&#xF8;rfe, fj&#xF8;rfef&#xF4;r, fj&#xF8;rfekj&#xF8;tt og egg</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2007-08-28-1014/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift 8. juni 2007 nr. 603 om kontroll med Salmonella i fj&#xF8;rfe, fj&#xF8;rfef&#xF4;r, fj&#xF8;rfekj&#xF8;tt og egg gj&#xF8;res f&#xF8;lgende endring:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 13 skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">Forbud mot vaksinasjon mot <i>Salmonella</i> og bruk av antibakterielle midler som tiltak f&#xF8;lger av forskrift 28. august 2007 nr. 1013 om gjennomf&#xF8;ring av forordning (EF) nr. 1177/2006 av 1. august 2006 om implementering av forordning (EF) nr. 2160/2003 for s&#xE5; vidt ang&#xE5;r krav vedr&#xF8;rende anvendelse av s&#xE6;rlige bekjempelsesmetoder som ledd i de nasjonale Salmonella kontrollprogrammer og forskrift 20. desember 1999 nr. 1310 om vaksinasjon av husdyr, vilt, fisk og andre akvatiske dyr (vaksinasjonsforskriften) &#xA7; 5.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2007-08-28-1014/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Endringen trer i kraft straks.</article>
+      </section>
+    </main>
+  </body>
+</html>

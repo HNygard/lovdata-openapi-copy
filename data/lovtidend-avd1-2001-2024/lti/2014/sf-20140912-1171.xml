@@ -1,1 +1,80 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift om sikkerhet ved lekeplassutstyr</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2014-09-12-1171</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2014-09-12-1171</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Justis- og beredskapsdepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2014 hefte 13 s 1995</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2014-09-15</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/1996-07-19-703</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/1976-06-11-79/§4</li><li>forskrift/2003-09-01-1161</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2014-09-16 14:25</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2014-0841</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i lekeplassforskriften</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om sikkerhet ved lekeplassutstyr</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Direktoratet for samfunnssikkerhet og beredskap 12. september 2014 med hjemmel i lov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester (produktkontrolloven) § 4, jf. delegeringsvedtak 1. september 2003 nr. 1161.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2014-09-12-1171</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om sikkerhet ved lekeplassutstyr<ul class="tocSubUl"><li>I<ul class="tocSubUl"><li>§ 5. Anerkjente normer</li></ul></li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2014-09-12-1171" id="dokument"><h1>Forskrift om endring i forskrift om sikkerhet ved lekeplassutstyr</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2014-09-12-1171/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift 19. juli 1996 nr. 703 om sikkerhet ved lekeplassutstyr er det vedtatt følgende endringer:</article> <article class="defaultP" margin-top="true">§ 5 skal lyde:</article><article class="futureLegalArticle" data-name="§5" id="kapittel-1-foreslåttparagraf-1"><span class="futureLegalArticleHeader"><span class="legalArticleValue">§ 5</span>. <span class="legalArticleTitle">Anerkjente normer</span></span><article class="legalP" id="kapittel-1-foreslåttparagraf-1-ledd-1">Utstyr som er i samsvar med anerkjente normer vil oppfylle kravene i forskriften, med mindre forskriften inneholder strengere bestemmelser. For risikoaspekter som ikke er inkludert i anerkjente normer, gjelder produktkontrolloven § 3b.</article></article> <article class="defaultP" margin-top="true">§ 6 åttende ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-2">Åpninger og avstander, som barn har tilgang til, skal ha en slik utforming at de ikke utgjør fare for fastklemming.</article> <article class="defaultP" margin-top="true">Vedlegg II og III slettes.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2014-09-12-1171/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft 15. september 2014.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift om sikkerhet ved lekeplassutstyr</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2014-09-12-1171</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2014-09-12-1171</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Justis- og beredskapsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2014 hefte 13 s 1995</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2014-09-15</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/1996-07-19-703</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/1976-06-11-79/&#xA7;4</li>
+            <li>forskrift/2003-09-01-1161</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2014-09-16 14:25</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2014-0841</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i lekeplassforskriften</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om sikkerhet ved lekeplassutstyr</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Direktoratet for samfunnssikkerhet og beredskap 12. september 2014 med hjemmel i lov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester (produktkontrolloven) &#xA7; 4, jf. delegeringsvedtak 1. september 2003 nr. 1161.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2014-09-12-1171</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om sikkerhet ved lekeplassutstyr<ul class="tocSubUl"><li>I<ul class="tocSubUl"><li>&#xA7; 5. Anerkjente normer</li></ul></li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2014-09-12-1171" id="dokument">
+      <h1>Forskrift om endring i forskrift om sikkerhet ved lekeplassutstyr</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2014-09-12-1171/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift 19. juli 1996 nr. 703 om sikkerhet ved lekeplassutstyr er det vedtatt f&#xF8;lgende endringer:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 5 skal lyde:</article>
+        <article class="futureLegalArticle" data-name="&#xA7;5" id="kapittel-1-foresl&#xE5;ttparagraf-1">
+          <span class="futureLegalArticleHeader"><span class="legalArticleValue">&#xA7; 5</span>. <span class="legalArticleTitle">Anerkjente normer</span></span>
+          <article class="legalP" id="kapittel-1-foresl&#xE5;ttparagraf-1-ledd-1">Utstyr som er i samsvar med anerkjente normer vil oppfylle kravene i forskriften, med mindre forskriften inneholder strengere bestemmelser. For risikoaspekter som ikke er inkludert i anerkjente normer, gjelder produktkontrolloven &#xA7; 3b.</article>
+        </article>
+        <article class="defaultP" margin-top="true">&#xA7; 6 &#xE5;ttende ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">&#xC5;pninger og avstander, som barn har tilgang til, skal ha en slik utforming at de ikke utgj&#xF8;r fare for fastklemming.</article>
+        <article class="defaultP" margin-top="true">Vedlegg II og III slettes.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2014-09-12-1171/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft 15. september 2014.</article>
+      </section>
+    </main>
+  </body>
+</html>

@@ -1,1 +1,77 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift om likeverdig behandling av barnehager i forhold til offentlige tilskudd.</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2005-06-24-690</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2005-06-24-690</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Barne- og familiedepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2005 hefte 9 s 1454</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2005-08-01</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2004-03-19-539</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/1995-05-05-19/§7b</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2005-06-28</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2005-0646</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i forskrift om behandling av barnehager</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om likeverdig behandling av barnehager i forhold til offentlige tilskudd.</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Fastsatt ved kgl.res. 24. juni 2005 med hjemmel i lov 5. mai 1995 nr. 19 om barnehager (barnehageloven) § 7b. Fremmet av Barne- og familiedepartementet.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2005-06-24-690</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om likeverdig behandling av barnehager i forhold til offentlige tilskudd.<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2005-06-24-690" id="dokument"><h1>Forskrift om endring i forskrift om likeverdig behandling av barnehager i forhold til offentlige tilskudd.</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2005-06-24-690/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift 19. mars 2004 nr. 539 om likeverdig behandling av barnehager i forhold til offentlige tilskudd gjøres følgende endring:</article> <article class="defaultP" margin-top="true">§ 3 skal lyde:</article><article class="legalP" id="kapittel-1-ledd-2">Det er kommunen som skal sørge for at alle godkjente barnehager i kommunen mottar offentlig tilskudd på en samlet sett likeverdig måte.</article><article class="legalP" id="kapittel-1-ledd-3">Kommunen skal dekke kostnader til ordinær drift i barnehagene som ikke dekkes av andre offentlig tilskudd og foreldrebetaling. Settes foreldrebetalingen i ikke-kommunale barnehager lavere enn foreldrebetalingen i kommunens egne barnehager, har kommunen ikke plikt til å dekke differansen.</article><article class="legalP" id="kapittel-1-ledd-4">Kommunen har plikt til å gi tilskudd slik at det samlede offentlige tilskuddet utgjør minst 85 prosent av det tilsvarende barnehager eid av kommunen i gjennomsnitt mottar i offentlige tilskudd.</article><article class="legalP" id="kapittel-1-ledd-5">Kommunen har ikke plikt til å dekke kostnadsvekst som overstiger normal pris- og kostnadsvekst for kommunesektoren, dersom betingelsene i denne paragrafs tredje ledd er oppfylt.</article><article class="legalP" id="kapittel-1-ledd-6">Kommunen har ikke plikt til å gi tilskudd slik at den samlede offentlige finansieringen av barnehagen overstiger det tilsvarende barnehager eid av kommunen i gjennomsnitt mottar i offentlige tilskudd.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2005-06-24-690/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Endringen trer i kraft 1. august 2005.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift om likeverdig behandling av barnehager i forhold til offentlige tilskudd.</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2005-06-24-690</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2005-06-24-690</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Barne- og familiedepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2005 hefte 9 s 1454</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2005-08-01</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2004-03-19-539</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/1995-05-05-19/&#xA7;7b</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2005-06-28</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2005-0646</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i forskrift om behandling av barnehager</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om likeverdig behandling av barnehager i forhold til offentlige tilskudd.</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Fastsatt ved kgl.res. 24. juni 2005 med hjemmel i lov 5. mai 1995 nr. 19 om barnehager (barnehageloven) &#xA7; 7b. Fremmet av Barne- og familiedepartementet.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2005-06-24-690</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om likeverdig behandling av barnehager i forhold til offentlige tilskudd.<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2005-06-24-690" id="dokument">
+      <h1>Forskrift om endring i forskrift om likeverdig behandling av barnehager i forhold til offentlige tilskudd.</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2005-06-24-690/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift 19. mars 2004 nr. 539 om likeverdig behandling av barnehager i forhold til offentlige tilskudd gj&#xF8;res f&#xF8;lgende endring:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 3 skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">Det er kommunen som skal s&#xF8;rge for at alle godkjente barnehager i kommunen mottar offentlig tilskudd p&#xE5; en samlet sett likeverdig m&#xE5;te.</article>
+        <article class="legalP" id="kapittel-1-ledd-3">Kommunen skal dekke kostnader til ordin&#xE6;r drift i barnehagene som ikke dekkes av andre offentlig tilskudd og foreldrebetaling. Settes foreldrebetalingen i ikke-kommunale barnehager lavere enn foreldrebetalingen i kommunens egne barnehager, har kommunen ikke plikt til &#xE5; dekke differansen.</article>
+        <article class="legalP" id="kapittel-1-ledd-4">Kommunen har plikt til &#xE5; gi tilskudd slik at det samlede offentlige tilskuddet utgj&#xF8;r minst 85 prosent av det tilsvarende barnehager eid av kommunen i gjennomsnitt mottar i offentlige tilskudd.</article>
+        <article class="legalP" id="kapittel-1-ledd-5">Kommunen har ikke plikt til &#xE5; dekke kostnadsvekst som overstiger normal pris- og kostnadsvekst for kommunesektoren, dersom betingelsene i denne paragrafs tredje ledd er oppfylt.</article>
+        <article class="legalP" id="kapittel-1-ledd-6">Kommunen har ikke plikt til &#xE5; gi tilskudd slik at den samlede offentlige finansieringen av barnehagen overstiger det tilsvarende barnehager eid av kommunen i gjennomsnitt mottar i offentlige tilskudd.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2005-06-24-690/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Endringen trer i kraft 1. august 2005.</article>
+      </section>
+    </main>
+  </body>
+</html>

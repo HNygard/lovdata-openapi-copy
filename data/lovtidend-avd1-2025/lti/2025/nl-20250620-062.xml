@@ -1,1 +1,75 @@
-<!DOCTYPE html><html lang="no"><head><title>Lov om endring i helseforetaksloven</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">LOV-2025-06-20-62</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/lov/2025-06-20-62</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Finansdepartementet</li></ul></dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2025-06-20</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>lov/2001-06-15-93</li></ul></dd><dt class="legalArea">Rettsområde</dt><dd class="legalArea"><ul><li>Helse- og omsorgsrett &gt; Helseforetak</li> <li>Selskaper, fond og foreninger</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2025-06-20 12:45</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2025-0693</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endringslov til helseforetaksloven</dd><dt class="title">Tittel</dt><dd class="title">Lov om endring i helseforetaksloven</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Prop. 145 LS (2024–2025), Innst. 516 L (2024–2025), Lovvedtak 140 (2024–2025). Stortingets første og andre gongs behandling hvv. 17. og 20. juni 2025. Fremja av Finansdepartementet.</dd><dt class="refid">RefID</dt><dd class="refid">lov/2025-06-20-62</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Lov om endring i helseforetaksloven<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/lov/2025-06-20-62" id="dokument"><h1>Lov om endring i helseforetaksloven</h1><article class="defaultP" data-text-size="small">Endring i følgjande lov:<ul class="defaultList" data-text-size="small"><li><article class="listArticle" data-text-size="small" id="punkt-1"><article class="legalP" id="punkt-1-ledd-1">Lov 15. juni 2001 nr. 93 om helseforetak m.m. (helseforetaksloven).</article></article></li></ul></article><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2025-06-20-62/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="document-change" data-document="lov/2001-06-15-93" id="kapittel-1-dokumentendring-1"><article class="defaultP">I lov 15. juni 2001 nr. 93 om helseforetak m.m. vert det gjort følgjande endring:</article> <article class="change" data-change-part="lov/2001-06-15-93/§43/ledd/1" id="kapittel-1-dokumentendring-1-endring-1"><article class="defaultP">§ 43 fyrste ledd skal lyde:</article><article class="legalP" id="kapittel-1-dokumentendring-1-endring-1-ledd-1">Regnskapslovens bestemmelser gjelder for foretak. Departementet kan i forskrift utfylle eller fravike bestemmelser i regnskapsloven om regnskapsføring av pensjonsforhold.</article></article></article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2025-06-20-62/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Endringa under I tek til å gjelde straks.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Lov om endring i helseforetaksloven</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">LOV-2025-06-20-62</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/lov/2025-06-20-62</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Finansdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2025-06-20</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>lov/2001-06-15-93</li>
+          </ul>
+        </dd>
+        <dt class="legalArea">Rettsomr&#xE5;de</dt>
+        <dd class="legalArea">
+          <ul>
+            <li>Helse- og omsorgsrett &gt; Helseforetak</li>
+            <li>Selskaper, fond og foreninger</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2025-06-20 12:45</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2025-0693</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endringslov til helseforetaksloven</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Lov om endring i helseforetaksloven</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Prop. 145 LS (2024&#x2013;2025), Innst. 516 L (2024&#x2013;2025), Lovvedtak 140 (2024&#x2013;2025). Stortingets f&#xF8;rste og andre gongs behandling hvv. 17. og 20. juni 2025. Fremja av Finansdepartementet.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">lov/2025-06-20-62</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Lov om endring i helseforetaksloven<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/lov/2025-06-20-62" id="dokument">
+      <h1>Lov om endring i helseforetaksloven</h1>
+      <article class="defaultP" data-text-size="small">Endring i f&#xF8;lgjande lov:<ul class="defaultList" data-text-size="small"><li><article class="listArticle" data-text-size="small" id="punkt-1"><article class="legalP" id="punkt-1-ledd-1">Lov 15. juni 2001 nr. 93 om helseforetak m.m. (helseforetaksloven).</article></article></li></ul></article>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2025-06-20-62/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="document-change" data-document="lov/2001-06-15-93" id="kapittel-1-dokumentendring-1">
+          <article class="defaultP">I lov 15. juni 2001 nr. 93 om helseforetak m.m. vert det gjort f&#xF8;lgjande endring:</article>
+          <article class="change" data-change-part="lov/2001-06-15-93/&#xA7;43/ledd/1" id="kapittel-1-dokumentendring-1-endring-1">
+            <article class="defaultP">&#xA7; 43 fyrste ledd skal lyde:</article>
+            <article class="legalP" id="kapittel-1-dokumentendring-1-endring-1-ledd-1">Regnskapslovens bestemmelser gjelder for foretak. Departementet kan i forskrift utfylle eller fravike bestemmelser i regnskapsloven om regnskapsf&#xF8;ring av pensjonsforhold.</article>
+          </article>
+        </article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2025-06-20-62/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Endringa under I tek til &#xE5; gjelde straks.</article>
+      </section>
+    </main>
+  </body>
+</html>

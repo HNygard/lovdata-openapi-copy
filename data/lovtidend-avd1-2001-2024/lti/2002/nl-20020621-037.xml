@@ -1,1 +1,70 @@
-<!DOCTYPE html><html lang="no"><head><title>Lov om endring i lov 28. august 1992 nr. 103 om pengespill mv.</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">LOV-2002-06-21-37</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/lov/2002-06-21-37</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Kultur- og kirkedepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2002 hefte 6</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2002-06-21</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>lov/1992-08-28-103</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2002-06-21</dd><dt class="lastupdated">Rettet</dt><dd class="lastupdated">2003-06-19 (hjemmelsfelt)</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2002-0475</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endringslov til pengespilloven</dd><dt class="title">Tittel</dt><dd class="title">Lov om endring i lov 28. august 1992 nr. 103 om pengespill mv.</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Dok.nr.8:16 (2001–2002), Innst.O.nr.44 (2001–2002) og Besl.O.nr.52 (2001–2002). Odels- og lagtingsvedtak hhv. 21. og 28. mai 2002. Fremmet av Kultur- og kirkedepartementet.</dd><dt class="refid">RefID</dt><dd class="refid">lov/2002-06-21-37</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Lov om endring i lov 28. august 1992 nr. 103 om pengespill mv.<ul class="tocSubUl"><li>I</li><li>II Ikrafttredelses- og overgangsbestemmelser</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/lov/2002-06-21-37" id="dokument"><h1>Lov om endring i lov 28. august 1992 nr. 103 om pengespill mv.</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2002-06-21-37/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I lov 28. august 1992 nr. 103 om pengespill mv. gjøres følgende endring:</article> <article class="defaultP" margin-top="true">§ 10 skal lyde:</article><article class="legalP" id="kapittel-1-ledd-2">Etter at det er foretatt fondsavsetninger, skal selskapets overskudd fordeles med en halvdel til idrettsformål og en halvdel til kulturformål. Midlene til idrettsformål fordeles av Kongen. Av midlene til kulturformål fordeles 2/3 av Stortinget og 1/3 av Kongen.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2002-06-21-37/KAPITTEL_2"><h2 data-text-align="center">II Ikrafttredelses- og overgangsbestemmelser</h2><article class="legalP" id="kapittel-2-ledd-1">Denne lov trer i kraft straks.</article><article class="legalP" id="kapittel-2-ledd-2">Endringen i § 10 får ikke virkning for fordelingen i 2002 av overskuddet for 2001.</article><article class="legalP" id="kapittel-2-ledd-3">Overskuddet for 2002 fordeles i 2003 med 4/18 til vitenskapelige formål, 7/18 til idrettsformål og 7/18 til kulturformål. Av midlene til kulturformål fordeles 6/7 av Stortinget og 1/7 av Kongen.</article><article class="legalP" id="kapittel-2-ledd-4">Overskuddet for 2003 fordeles i 2004 med 2/18 til vitenskapelige formål, 8/18 til idrettsformål og 8/18 til kulturformål. Av midlene til kulturformål fordeles 3/4 av Stortinget og 1/4 av Kongen.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Lov om endring i lov 28. august 1992 nr. 103 om pengespill mv.</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">LOV-2002-06-21-37</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/lov/2002-06-21-37</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Kultur- og kirkedepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2002 hefte 6</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2002-06-21</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>lov/1992-08-28-103</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2002-06-21</dd>
+        <dt class="lastupdated">Rettet</dt>
+        <dd class="lastupdated">2003-06-19 (hjemmelsfelt)</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2002-0475</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endringslov til pengespilloven</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Lov om endring i lov 28. august 1992 nr. 103 om pengespill mv.</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Dok.nr.8:16 (2001&#x2013;2002), Innst.O.nr.44 (2001&#x2013;2002) og Besl.O.nr.52 (2001&#x2013;2002). Odels- og lagtingsvedtak hhv. 21. og 28. mai 2002. Fremmet av Kultur- og kirkedepartementet.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">lov/2002-06-21-37</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Lov om endring i lov 28. august 1992 nr. 103 om pengespill mv.<ul class="tocSubUl"><li>I</li><li>II Ikrafttredelses- og overgangsbestemmelser</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/lov/2002-06-21-37" id="dokument">
+      <h1>Lov om endring i lov 28. august 1992 nr. 103 om pengespill mv.</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2002-06-21-37/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I lov 28. august 1992 nr. 103 om pengespill mv. gj&#xF8;res f&#xF8;lgende endring:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 10 skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">Etter at det er foretatt fondsavsetninger, skal selskapets overskudd fordeles med en halvdel til idrettsform&#xE5;l og en halvdel til kulturform&#xE5;l. Midlene til idrettsform&#xE5;l fordeles av Kongen. Av midlene til kulturform&#xE5;l fordeles 2/3 av Stortinget og 1/3 av Kongen.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2002-06-21-37/KAPITTEL_2">
+        <h2 data-text-align="center">II Ikrafttredelses- og overgangsbestemmelser</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Denne lov trer i kraft straks.</article>
+        <article class="legalP" id="kapittel-2-ledd-2">Endringen i &#xA7; 10 f&#xE5;r ikke virkning for fordelingen i 2002 av overskuddet for 2001.</article>
+        <article class="legalP" id="kapittel-2-ledd-3">Overskuddet for 2002 fordeles i 2003 med 4/18 til vitenskapelige form&#xE5;l, 7/18 til idrettsform&#xE5;l og 7/18 til kulturform&#xE5;l. Av midlene til kulturform&#xE5;l fordeles 6/7 av Stortinget og 1/7 av Kongen.</article>
+        <article class="legalP" id="kapittel-2-ledd-4">Overskuddet for 2003 fordeles i 2004 med 2/18 til vitenskapelige form&#xE5;l, 8/18 til idrettsform&#xE5;l og 8/18 til kulturform&#xE5;l. Av midlene til kulturform&#xE5;l fordeles 3/4 av Stortinget og 1/4 av Kongen.</article>
+      </section>
+    </main>
+  </body>
+</html>

@@ -1,1 +1,75 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om oppheving av forskrift for boring etter petroleumsforekomster i indre norske farvann, norsk sjøterritorium og den del av kontinentalsokkelen som er undergitt norsk statshøyhet, mv.</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2014-12-16-1756</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2014-12-16-1756</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Arbeids- og sosialdepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2014 hefte 17 s 2815</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2014-12-16</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/1975-08-29-1</li><li>forskrift/1991-01-22-71</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/1996-11-29-72/§10-18</li><li>lov/2005-06-17-62/§1-3</li><li>forskrift/2010-02-12-158/§68</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2014-12-23 14:30</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2014-1256</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Opph. av forskrift om boring i indre norske farvann</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om oppheving av forskrift for boring etter petroleumsforekomster i indre norske farvann, norsk sjøterritorium og den del av kontinentalsokkelen som er undergitt norsk statshøyhet, mv.</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Petroleumstilsynet 16. desember 2014 med hjemmel i lov 29. november 1996 nr. 72 om petroleumsvirksomhet § 10-18, lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) § 1-3 og forskrift 12. februar 2010 nr. 158 om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg (rammeforskriften) § 68.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2014-12-16-1756</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om oppheving av forskrift for boring etter petroleumsforekomster i indre norske farvann, norsk sjøterritorium og den del av kontinentalsokkelen som er undergitt norsk statshøyhet, mv.<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2014-12-16-1756" id="dokument"><h1>Forskrift om oppheving av forskrift for boring etter petroleumsforekomster i indre norske farvann, norsk sjøterritorium og den del av kontinentalsokkelen som er undergitt norsk statshøyhet, mv.</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2014-12-16-1756/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">Forskrift 29. august 1975 nr. 1 for boring etter petroleumsforekomster i indre norske farvann, norsk sjøterritorium og den del av kontinentalsokkelen som er undergitt norsk statshøyhet oppheves.</article><article class="legalP" id="kapittel-1-ledd-2">Veiledning 22. januar 1991 nr. 71 om vurdering av pusteutstyr til bruk ved bemannede undervannsoperasjoner i petroleumsvirksomheten oppheves.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2014-12-16-1756/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Forskriften trer i kraft straks.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om oppheving av forskrift for boring etter petroleumsforekomster i indre norske farvann, norsk sj&#xF8;territorium og den del av kontinentalsokkelen som er undergitt norsk statsh&#xF8;yhet, mv.</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2014-12-16-1756</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2014-12-16-1756</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Arbeids- og sosialdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2014 hefte 17 s 2815</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2014-12-16</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/1975-08-29-1</li>
+            <li>forskrift/1991-01-22-71</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/1996-11-29-72/&#xA7;10-18</li>
+            <li>lov/2005-06-17-62/&#xA7;1-3</li>
+            <li>forskrift/2010-02-12-158/&#xA7;68</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2014-12-23 14:30</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2014-1256</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Opph. av forskrift om boring i indre norske farvann</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om oppheving av forskrift for boring etter petroleumsforekomster i indre norske farvann, norsk sj&#xF8;territorium og den del av kontinentalsokkelen som er undergitt norsk statsh&#xF8;yhet, mv.</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Petroleumstilsynet 16. desember 2014 med hjemmel i lov 29. november 1996 nr. 72 om petroleumsvirksomhet &#xA7; 10-18, lov 17. juni 2005 nr. 62 om arbeidsmilj&#xF8;, arbeidstid og stillingsvern mv. (arbeidsmilj&#xF8;loven) &#xA7; 1-3 og forskrift 12. februar 2010 nr. 158 om helse, milj&#xF8; og sikkerhet i petroleumsvirksomheten og p&#xE5; enkelte landanlegg (rammeforskriften) &#xA7; 68.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2014-12-16-1756</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om oppheving av forskrift for boring etter petroleumsforekomster i indre norske farvann, norsk sj&#xF8;territorium og den del av kontinentalsokkelen som er undergitt norsk statsh&#xF8;yhet, mv.<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2014-12-16-1756" id="dokument">
+      <h1>Forskrift om oppheving av forskrift for boring etter petroleumsforekomster i indre norske farvann, norsk sj&#xF8;territorium og den del av kontinentalsokkelen som er undergitt norsk statsh&#xF8;yhet, mv.</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2014-12-16-1756/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">Forskrift 29. august 1975 nr. 1 for boring etter petroleumsforekomster i indre norske farvann, norsk sj&#xF8;territorium og den del av kontinentalsokkelen som er undergitt norsk statsh&#xF8;yhet oppheves.</article>
+        <article class="legalP" id="kapittel-1-ledd-2">Veiledning 22. januar 1991 nr. 71 om vurdering av pusteutstyr til bruk ved bemannede undervannsoperasjoner i petroleumsvirksomheten oppheves.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2014-12-16-1756/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Forskriften trer i kraft straks.</article>
+      </section>
+    </main>
+  </body>
+</html>

@@ -1,1 +1,70 @@
-<!DOCTYPE html><html lang="no"><head><title>Lov om endringar i lov om elektronisk signatur.</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">LOV-2002-12-20-110</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/lov/2002-12-20-110</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Nærings- og handelsdepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2002 hefte 18</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">Kongen fastset.</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>lov/2001-06-15-81</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2002-12-20</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2002-1114</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endringslov til e-signaturloven</dd><dt class="title">Tittel</dt><dd class="title">Lov om endringar i lov om elektronisk signatur.</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Ot.prp.nr.103 (2001–2002), Innst.O.nr.4 (2002–2003) og Besl.O.nr.12 (2002–2003). Odels- og lagtingsvedtak hhv. 7. og 14. november 2002. Fremja av Nærings- og handelsdepartementet.</dd><dt class="refid">RefID</dt><dd class="refid">lov/2002-12-20-110</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Lov om endringar i lov om elektronisk signatur.<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/lov/2002-12-20-110" id="dokument"><h1>Lov om endringar i lov om elektronisk signatur.</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2002-12-20-110/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I lov 15. juni 2001 nr. 81 om elektronisk signatur vert det gjort følgjande endringar:</article> <article class="defaultP" margin-top="true">§ 3 første ledd nr. 1 skal lyde:</article><article class="legalP" id="kapittel-1-ledd-2">elektronisk signatur: data i elektronisk form som er knyttet til andre elektroniske data og som brukes som autentiseringsmetode,</article> <article class="defaultP" margin-top="true">§ 7 andre ledd andre punktum skal lyde:</article><article class="legalP" id="kapittel-1-ledd-3">I den utstrekning ikke annet følger av denne lov, kommer personopplysningsloven §§ 42-47 med forskrifter til anvendelse ved Datatilsynets kontroll etter første punktum.</article> <article class="defaultP" margin-top="true">§ 25 skal lyde:</article><article class="legalP" id="kapittel-1-ledd-4">Sertifikater fra sertifikatutstedere som er etablert innen EØS, anses som kvalifiserte sertifikater i henhold til denne lov dersom de oppfyller kravene til et kvalifisert sertifikat i det landet der utstederen er etablert.</article><article class="legalP" id="kapittel-1-ledd-5">Kvalifiserte sertifikater fra sertifikatutstedere som er etablert i land utenfor EØS, skal gis rettslig anerkjennelse på lik linje med kvalifiserte sertifikater fra sertifikatutstedere innen EØS dersom:<ul class="defaultList"><li data-li-identifier="a)" data-name="a)"><article class="listArticle" id="kapittel-1-ledd-5-punkt-1"><article class="legalP" id="kapittel-1-ledd-5-punkt-1-ledd-1">utstederen oppfyller kravene i en EØS-stat og har blitt godkjent i henhold til en frivillig godkjenningsordning i den staten,</article></article></li><li data-li-identifier="b)" data-name="b)"><article class="listArticle" id="kapittel-1-ledd-5-punkt-2"><article class="legalP" id="kapittel-1-ledd-5-punkt-2-ledd-1">en sertifikatutsteder som er etablert innen EØS, og som oppfyller kravene i etableringsstaten, garanterer for utstederen, eller</article></article></li><li data-li-identifier="c)" data-name="c)"><article class="listArticle" id="kapittel-1-ledd-5-punkt-3"><article class="legalP" id="kapittel-1-ledd-5-punkt-3-ledd-1">sertifikatet eller utstederen er anerkjent i henhold til multilaterale eller bilaterale avtaler mellom Norge eller EU og tredjeland eller internasjonale organisasjoner.</article></article></li></ul></article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2002-12-20-110/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Lova gjeld frå den tid Kongen fastset.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Lov om endringar i lov om elektronisk signatur.</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">LOV-2002-12-20-110</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/lov/2002-12-20-110</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>N&#xE6;rings- og handelsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2002 hefte 18</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">Kongen fastset.</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>lov/2001-06-15-81</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2002-12-20</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2002-1114</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endringslov til e-signaturloven</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Lov om endringar i lov om elektronisk signatur.</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Ot.prp.nr.103 (2001&#x2013;2002), Innst.O.nr.4 (2002&#x2013;2003) og Besl.O.nr.12 (2002&#x2013;2003). Odels- og lagtingsvedtak hhv. 7. og 14. november 2002. Fremja av N&#xE6;rings- og handelsdepartementet.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">lov/2002-12-20-110</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Lov om endringar i lov om elektronisk signatur.<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/lov/2002-12-20-110" id="dokument">
+      <h1>Lov om endringar i lov om elektronisk signatur.</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2002-12-20-110/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I lov 15. juni 2001 nr. 81 om elektronisk signatur vert det gjort f&#xF8;lgjande endringar:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 3 f&#xF8;rste ledd nr. 1 skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">elektronisk signatur: data i elektronisk form som er knyttet til andre elektroniske data og som brukes som autentiseringsmetode,</article>
+        <article class="defaultP" margin-top="true">&#xA7; 7 andre ledd andre punktum skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-3">I den utstrekning ikke annet f&#xF8;lger av denne lov, kommer personopplysningsloven &#xA7;&#xA7; 42-47 med forskrifter til anvendelse ved Datatilsynets kontroll etter f&#xF8;rste punktum.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 25 skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-4">Sertifikater fra sertifikatutstedere som er etablert innen E&#xD8;S, anses som kvalifiserte sertifikater i henhold til denne lov dersom de oppfyller kravene til et kvalifisert sertifikat i det landet der utstederen er etablert.</article>
+        <article class="legalP" id="kapittel-1-ledd-5">Kvalifiserte sertifikater fra sertifikatutstedere som er etablert i land utenfor E&#xD8;S, skal gis rettslig anerkjennelse p&#xE5; lik linje med kvalifiserte sertifikater fra sertifikatutstedere innen E&#xD8;S dersom:<ul class="defaultList"><li data-li-identifier="a)" data-name="a)"><article class="listArticle" id="kapittel-1-ledd-5-punkt-1"><article class="legalP" id="kapittel-1-ledd-5-punkt-1-ledd-1">utstederen oppfyller kravene i en E&#xD8;S-stat og har blitt godkjent i henhold til en frivillig godkjenningsordning i den staten,</article></article></li><li data-li-identifier="b)" data-name="b)"><article class="listArticle" id="kapittel-1-ledd-5-punkt-2"><article class="legalP" id="kapittel-1-ledd-5-punkt-2-ledd-1">en sertifikatutsteder som er etablert innen E&#xD8;S, og som oppfyller kravene i etableringsstaten, garanterer for utstederen, eller</article></article></li><li data-li-identifier="c)" data-name="c)"><article class="listArticle" id="kapittel-1-ledd-5-punkt-3"><article class="legalP" id="kapittel-1-ledd-5-punkt-3-ledd-1">sertifikatet eller utstederen er anerkjent i henhold til multilaterale eller bilaterale avtaler mellom Norge eller EU og tredjeland eller internasjonale organisasjoner.</article></article></li></ul></article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2002-12-20-110/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Lova gjeld fr&#xE5; den tid Kongen fastset.</article>
+      </section>
+    </main>
+  </body>
+</html>

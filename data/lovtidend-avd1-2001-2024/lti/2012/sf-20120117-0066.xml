@@ -1,1 +1,192 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2012-01-17-66</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2012-01-17-66</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Fiskeridepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2012 hefte 3 s 445</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2012-01-17</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2009-12-21-1743</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/2008-06-06-37/§34</li><li>lov/2008-06-06-37/§35</li><li>lov/2008-06-06-37/§36</li><li>lov/2008-06-06-37/§37</li><li>lov/2008-06-06-37/§39</li><li>lov/2008-06-06-37/§43</li><li>forskrift/2009-12-21-1743/§22</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2012-01-27 15:40</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2012-0066</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i forskrift om posisjonsrapportering mv.</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Fiskeridirektoratet 17. januar 2012 med hjemmel i lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressurser (havressurslova) § 34, § 35, § 36, § 37, § 39 og § 43, jf. forskrift 21. desember 2009 nr. 1743 om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy § 22.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2012-01-17-66</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2012-01-17-66" id="dokument"><h1>Forskrift om endring i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2012-01-17-66/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift 21. desember 2009 nr. 1743 om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy gjøres følgende endringer:</article> <article class="defaultP" margin-top="true">§ 3 første ledd (endret) skal lyde:</article><article class="legalP" id="kapittel-1-ledd-2">Norske fiske- og fangstfartøy som omfattes av § 7 skal ha posisjonsrapporteringsutstyr om bord som tilfredsstiller kravene i forskrift 24. mars 2010 nr. 454 om krav til utstyr og installasjon av posisjonsrapporteringsutstyr.</article> <article class="defaultP" margin-top="true">§ 5 tredje ledd (nytt) skal lyde:</article><article class="legalP" id="kapittel-1-ledd-3">Dersom returmeldingen angir meldingsstatus ACK innebærer dette en bekreftelse på at meldingen er mottatt av Fiskeridirektoratet, og at format og obligatoriske felt i meldingen er kontrollert og godkjent. Meldingsstatus ACK betyr ikke at meldingen for øvrig er kontrollert i forhold til om den er i samsvar med regelverket og de faktiske forhold.</article> <article class="defaultP" margin-top="true">§ 5 tredje ledd blir fjerde ledd.</article> <article class="defaultP" margin-top="true">§ 11 første ledd (endret) skal lyde:</article><article class="legalP" id="kapittel-1-ledd-4">Fartøy som nevnt i § 10 skal sende melding om havneavgang senest 2 timer etter havneavgang, men før fisket starter. Meldingen skal sendes uavhengig om fartøyet har landet fangst eller ikke.</article> <article class="defaultP" margin-top="true">§ 11 andre ledd dataelementene PD, PT, LA, LO og AC (endret) skal lyde: <table><thead><tr><th data-text-align="left" data-vertical-align="top"><i>Dataelement</i></th><th data-text-align="left" data-vertical-align="top"><i>Kode</i></th><th data-text-align="left" data-vertical-align="top"><i>Påkrevd/Valgfritt</i></th><th data-text-align="left" data-vertical-align="top"><i>Forklaring</i></th></tr></thead><tbody><tr><td data-text-align="left" data-vertical-align="top">Dato</td><td data-text-align="left" data-vertical-align="top">PD</td><td data-text-align="left" data-vertical-align="top">P</td><td data-text-align="left" data-vertical-align="top">Dato for fiskestart i UTC (ÅÅÅÅMMDD). Fartøy som kun skal drive omlasting skal angi antatt dato for første omlasting.</td></tr><tr><td data-text-align="left" data-vertical-align="top">Tid</td><td data-text-align="left" data-vertical-align="top">PT</td><td data-text-align="left" data-vertical-align="top">P</td><td data-text-align="left" data-vertical-align="top">Antatt tidspunkt for fiskestart i UTC (TTMM). Fartøy som kun skal drive omlasting skal angi antatt tidspunkt for første omlasting.</td></tr><tr><td data-text-align="left" data-vertical-align="top">Posisjon bredde</td><td data-text-align="left" data-vertical-align="top">LA</td><td data-text-align="left" data-vertical-align="top">P</td><td data-text-align="left" data-vertical-align="top">Antatt posisjon bredde for fiskestart. Fartøy som kun skal drive omlasting skal angi antatt posisjon bredde for første omlasting. N/SGGDD (WGS-84).</td></tr><tr><td data-text-align="left" data-vertical-align="top">Posisjon lengde</td><td data-text-align="left" data-vertical-align="top">LO</td><td data-text-align="left" data-vertical-align="top">P</td><td data-text-align="left" data-vertical-align="top">Antatt posisjon lengde for fiskestart. Fartøy som kun skal drive omlasting skal angi antatt posisjon lengde for første omlasting. E/WGGGDD (WGS-84).</td></tr><tr><td data-text-align="left" data-vertical-align="top">Fiskeriaktivitet</td><td data-text-align="left" data-vertical-align="top">AC</td><td data-text-align="left" data-vertical-align="top">P</td><td data-text-align="left" data-vertical-align="top">Se vedlegg 5.</td></tr></tbody></table></article> <article class="defaultP" margin-top="true">§ 12 andre ledd (endret) skal lyde:</article><article class="legalP" id="kapittel-1-ledd-5">Meldingen skal sendes uavhengig av om fartøyet har fisket siden forrige melding. Meldingen skal også sendes når Fiskeridirektoratet eller Kystvakten krever det, ved inspeksjon på sjø, før melding om havneanløp er sendt eller før fartøyet går inn i internasjonalt farvann eller annet lands sone. Etter at fisket er avsluttet og melding om havneanløp er sendt opphører plikten til å sende melding om fangst.</article> <article class="defaultP" margin-top="true">§ 12 tredje ledd dataelementene QI, AC og FO (endret) skal lyde: <table><thead><tr><th data-text-align="left" data-vertical-align="bottom"><i>Blokk A<br />Dataelement</i></th><th data-text-align="left" data-vertical-align="bottom"><i>Kode</i></th><th data-text-align="left" data-vertical-align="bottom"><i>Påkrevd/Valgfritt</i></th><th data-text-align="left" data-vertical-align="bottom"><i>Forklaring</i></th></tr></thead><tbody><tr><td data-text-align="left" data-vertical-align="top">Fiskeritillatelse</td><td data-text-align="left" data-vertical-align="top">QI</td><td data-text-align="left" data-vertical-align="top">P</td><td data-text-align="left" data-vertical-align="top">Se vedlegg 5.<br />Dersom det fiskes på flere fiskeritillatelser innenfor et døgn skal det sendes separate meldinger om fangst (DCA).</td></tr><tr><td data-text-align="left" data-vertical-align="top">Fiskeriaktivitet</td><td data-text-align="left" data-vertical-align="top">AC</td><td data-text-align="left" data-vertical-align="top">P</td><td data-text-align="left" data-vertical-align="top">Fartøyets hovedaktivitet. Se vedlegg 6.</td></tr></tbody></table><table><thead><tr><th data-text-align="left" data-vertical-align="bottom"><i>Blokk B<br />Dataelement</i></th><th data-text-align="left" data-vertical-align="bottom"><i>Kode</i></th><th data-text-align="left" data-vertical-align="bottom"><i>Påkrevd/Valgfritt</i></th><th data-text-align="left" data-vertical-align="bottom"><i>Forklaring</i></th></tr></thead><tbody><tr><td data-text-align="left" data-vertical-align="top">Innsats</td><td data-text-align="left" data-vertical-align="top">FO</td><td data-text-align="left" data-vertical-align="top">PD</td><td data-text-align="left" data-vertical-align="top">Antall krok eller totallengde garn (meter) samlet per døgn. PD: påkrevd dersom fartøyet fisker med line eller garn.</td></tr></tbody></table></article> <article class="defaultP" margin-top="true">§ 15 første ledd (endret) skal lyde:</article><article class="legalP" id="kapittel-1-ledd-6">Norske fiske- og fangstfartøy som foretar omlasting i farvann under norsk fiskerijurisdiksjon, i internasjonalt farvann og i andre lands soner er omfattet av reglene i dette kapittel. Med omlasting forstås enhver overføring av fangst på havet fra et fartøy til et annet fartøy, herunder også føring til og fra lås, steng mv.</article> <article class="defaultP" margin-top="true">§ 16 andre ledd (nytt) skal lyde:</article><article class="legalP" id="kapittel-1-ledd-7">Uten hinder av første ledd kan fartøy som nevnt i § 15 som skal avgi fangst ved at fangsten lås- eller stengsettes sende melding om omlasting til Fiskeridirektoratet senest 2 timer før omlastingen påbegynnes. Dette gjelder også dersom det skal gjennomføres en omlasting mellom norske fartøy for tilvirkning på det mottakende fartøy.</article> <article class="defaultP" margin-top="true">§ 16 andre og tredje ledd blir dermed tredje og fjerde ledd.</article> <article class="defaultP" margin-top="true">Vedlegg 5 (nytt) skal lyde:</article><span class="futuretitle" id="kapittel-1-foreslåttittel-1">Vedlegg 5. Fiskeritillatelse (QI)</span> <article class="defaultP" margin-top="true"><i>Fartøyets fiskeritillatelse</i><table><thead><tr><th data-text-align="left" data-vertical-align="top"><i>Kode</i></th><th data-text-align="center" data-vertical-align="top"><i>Definisjon</i></th></tr></thead><tbody><tr><td data-text-align="left" data-vertical-align="top">1</td><td data-text-align="left" data-vertical-align="top">Ordinær kvote</td></tr><tr><td data-text-align="left" data-vertical-align="top">2</td><td data-text-align="left" data-vertical-align="top">Forskningskvote</td></tr><tr><td data-text-align="left" data-vertical-align="top">3</td><td data-text-align="left" data-vertical-align="top">Skolekvote</td></tr><tr><td data-text-align="left" data-vertical-align="top">4</td><td data-text-align="left" data-vertical-align="top">Agnkvote</td></tr><tr><td data-text-align="left" data-vertical-align="top">5</td><td data-text-align="left" data-vertical-align="top">Annet</td></tr><tr><td data-text-align="left" data-vertical-align="top">6</td><td data-text-align="left" data-vertical-align="top">Slumpfiskkvote</td></tr><tr><td data-text-align="left" data-vertical-align="top">7</td><td data-text-align="left" data-vertical-align="top">Leiefartøykvote</td></tr></tbody></table></article> <article class="defaultP" margin-top="true">Vedlegg 6 (nytt) skal lyde:</article><span class="futuretitle" id="kapittel-1-foreslåttittel-2">Vedlegg 6. Fiskeriaktivitet (AC)</span> <article class="defaultP" margin-top="true"><i>Fartøyets hovedfiskeriaktivitet</i><table><thead><tr><th data-text-align="left" data-vertical-align="top"><i>Kode</i></th><th data-text-align="left" data-vertical-align="top"><i>Definisjon</i></th><th data-text-align="left" data-vertical-align="top"><i>Forklaring</i></th></tr></thead><tbody><tr><td data-text-align="left" data-vertical-align="top">FIS</td><td data-text-align="left" data-vertical-align="top">Fiske</td><td data-text-align="left" data-vertical-align="top">FIS skal anvendes når det er gjennomført fiskeoperasjoner innenfor døgnet det rapporteres for.</td></tr><tr><td data-text-align="left" data-vertical-align="top">REL</td><td data-text-align="left" data-vertical-align="top">Fangst relokalisering</td><td data-text-align="left" data-vertical-align="top">REL skal anvendes av det fartøy som pumper om bord fangst fra sjøen fisket av et annet fartøy. Det skal sendes en egen DCA melding dersom det er pumpet fra et annet fartøys redskap.</td></tr><tr><td data-text-align="left" data-vertical-align="top">SCR</td><td data-text-align="left" data-vertical-align="top">Vitenskapelig forskning</td><td data-text-align="left" data-vertical-align="top">SCR skal anvendes av fartøy som driver vitenskapelig forskning innenfor døgnet det rapporteres for.</td></tr><tr><td data-text-align="left" data-vertical-align="top">STE</td><td data-text-align="left" data-vertical-align="top">Stimer</td><td data-text-align="left" data-vertical-align="top">STE skal anvendes dersom fartøyet ikke har gjennomført fiskeoperasjoner innenfor døgnet det rapporteres for.</td></tr><tr><td data-text-align="left" data-vertical-align="top">TRX</td><td data-text-align="left" data-vertical-align="top">Omlasting</td><td data-text-align="left" data-vertical-align="top">TRX skal anvendes av fartøy som tar del i omlasting innenfor døgnet det rapporteres for, og som for øvrig ikke har gjennomført fiskeoperasjoner innenfor dette døgnet.</td></tr><tr><td data-text-align="left" data-vertical-align="top">SET</td><td data-text-align="left" data-vertical-align="top">Setting av redskap</td><td data-text-align="left" data-vertical-align="top">SET skal anvendes av fartøy som fisker med garn eller line i Norges økonomiske sone og territorialfarvann, og som kun skal sette redskap innenfor døgnet det rapporteres for.</td></tr></tbody></table></article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2012-01-17-66/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Denne forskrift trer i kraft straks.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfart&#xF8;y</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2012-01-17-66</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2012-01-17-66</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Fiskeridepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2012 hefte 3 s 445</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2012-01-17</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2009-12-21-1743</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/2008-06-06-37/&#xA7;34</li>
+            <li>lov/2008-06-06-37/&#xA7;35</li>
+            <li>lov/2008-06-06-37/&#xA7;36</li>
+            <li>lov/2008-06-06-37/&#xA7;37</li>
+            <li>lov/2008-06-06-37/&#xA7;39</li>
+            <li>lov/2008-06-06-37/&#xA7;43</li>
+            <li>forskrift/2009-12-21-1743/&#xA7;22</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2012-01-27 15:40</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2012-0066</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i forskrift om posisjonsrapportering mv.</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfart&#xF8;y</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Fiskeridirektoratet 17. januar 2012 med hjemmel i lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressurser (havressurslova) &#xA7; 34, &#xA7; 35, &#xA7; 36, &#xA7; 37, &#xA7; 39 og &#xA7; 43, jf. forskrift 21. desember 2009 nr. 1743 om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfart&#xF8;y &#xA7; 22.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2012-01-17-66</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfart&#xF8;y<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2012-01-17-66" id="dokument">
+      <h1>Forskrift om endring i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfart&#xF8;y</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2012-01-17-66/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift 21. desember 2009 nr. 1743 om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfart&#xF8;y gj&#xF8;res f&#xF8;lgende endringer:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 3 f&#xF8;rste ledd (endret) skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">Norske fiske- og fangstfart&#xF8;y som omfattes av &#xA7; 7 skal ha posisjonsrapporteringsutstyr om bord som tilfredsstiller kravene i forskrift 24. mars 2010 nr. 454 om krav til utstyr og installasjon av posisjonsrapporteringsutstyr.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 5 tredje ledd (nytt) skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-3">Dersom returmeldingen angir meldingsstatus ACK inneb&#xE6;rer dette en bekreftelse p&#xE5; at meldingen er mottatt av Fiskeridirektoratet, og at format og obligatoriske felt i meldingen er kontrollert og godkjent. Meldingsstatus ACK betyr ikke at meldingen for &#xF8;vrig er kontrollert i forhold til om den er i samsvar med regelverket og de faktiske forhold.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 5 tredje ledd blir fjerde ledd.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 11 f&#xF8;rste ledd (endret) skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-4">Fart&#xF8;y som nevnt i &#xA7; 10 skal sende melding om havneavgang senest 2 timer etter havneavgang, men f&#xF8;r fisket starter. Meldingen skal sendes uavhengig om fart&#xF8;yet har landet fangst eller ikke.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 11 andre ledd dataelementene PD, PT, LA, LO og AC (endret) skal lyde: <table><thead><tr><th data-text-align="left" data-vertical-align="top"><i>Dataelement</i></th><th data-text-align="left" data-vertical-align="top"><i>Kode</i></th><th data-text-align="left" data-vertical-align="top"><i>P&#xE5;krevd/Valgfritt</i></th><th data-text-align="left" data-vertical-align="top"><i>Forklaring</i></th></tr></thead><tbody><tr><td data-text-align="left" data-vertical-align="top">Dato</td><td data-text-align="left" data-vertical-align="top">PD</td><td data-text-align="left" data-vertical-align="top">P</td><td data-text-align="left" data-vertical-align="top">Dato for fiskestart i UTC (&#xC5;&#xC5;&#xC5;&#xC5;MMDD). Fart&#xF8;y som kun skal drive omlasting skal angi antatt dato for f&#xF8;rste omlasting.</td></tr><tr><td data-text-align="left" data-vertical-align="top">Tid</td><td data-text-align="left" data-vertical-align="top">PT</td><td data-text-align="left" data-vertical-align="top">P</td><td data-text-align="left" data-vertical-align="top">Antatt tidspunkt for fiskestart i UTC (TTMM). Fart&#xF8;y som kun skal drive omlasting skal angi antatt tidspunkt for f&#xF8;rste omlasting.</td></tr><tr><td data-text-align="left" data-vertical-align="top">Posisjon bredde</td><td data-text-align="left" data-vertical-align="top">LA</td><td data-text-align="left" data-vertical-align="top">P</td><td data-text-align="left" data-vertical-align="top">Antatt posisjon bredde for fiskestart. Fart&#xF8;y som kun skal drive omlasting skal angi antatt posisjon bredde for f&#xF8;rste omlasting. N/SGGDD (WGS-84).</td></tr><tr><td data-text-align="left" data-vertical-align="top">Posisjon lengde</td><td data-text-align="left" data-vertical-align="top">LO</td><td data-text-align="left" data-vertical-align="top">P</td><td data-text-align="left" data-vertical-align="top">Antatt posisjon lengde for fiskestart. Fart&#xF8;y som kun skal drive omlasting skal angi antatt posisjon lengde for f&#xF8;rste omlasting. E/WGGGDD (WGS-84).</td></tr><tr><td data-text-align="left" data-vertical-align="top">Fiskeriaktivitet</td><td data-text-align="left" data-vertical-align="top">AC</td><td data-text-align="left" data-vertical-align="top">P</td><td data-text-align="left" data-vertical-align="top">Se vedlegg 5.</td></tr></tbody></table></article>
+        <article class="defaultP" margin-top="true">&#xA7; 12 andre ledd (endret) skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-5">Meldingen skal sendes uavhengig av om fart&#xF8;yet har fisket siden forrige melding. Meldingen skal ogs&#xE5; sendes n&#xE5;r Fiskeridirektoratet eller Kystvakten krever det, ved inspeksjon p&#xE5; sj&#xF8;, f&#xF8;r melding om havneanl&#xF8;p er sendt eller f&#xF8;r fart&#xF8;yet g&#xE5;r inn i internasjonalt farvann eller annet lands sone. Etter at fisket er avsluttet og melding om havneanl&#xF8;p er sendt opph&#xF8;rer plikten til &#xE5; sende melding om fangst.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 12 tredje ledd dataelementene QI, AC og FO (endret) skal lyde: <table><thead><tr><th data-text-align="left" data-vertical-align="bottom"><i>Blokk A<br/>Dataelement</i></th><th data-text-align="left" data-vertical-align="bottom"><i>Kode</i></th><th data-text-align="left" data-vertical-align="bottom"><i>P&#xE5;krevd/Valgfritt</i></th><th data-text-align="left" data-vertical-align="bottom"><i>Forklaring</i></th></tr></thead><tbody><tr><td data-text-align="left" data-vertical-align="top">Fiskeritillatelse</td><td data-text-align="left" data-vertical-align="top">QI</td><td data-text-align="left" data-vertical-align="top">P</td><td data-text-align="left" data-vertical-align="top">Se vedlegg 5.<br/>Dersom det fiskes p&#xE5; flere fiskeritillatelser innenfor et d&#xF8;gn skal det sendes separate meldinger om fangst (DCA).</td></tr><tr><td data-text-align="left" data-vertical-align="top">Fiskeriaktivitet</td><td data-text-align="left" data-vertical-align="top">AC</td><td data-text-align="left" data-vertical-align="top">P</td><td data-text-align="left" data-vertical-align="top">Fart&#xF8;yets hovedaktivitet. Se vedlegg 6.</td></tr></tbody></table><table><thead><tr><th data-text-align="left" data-vertical-align="bottom"><i>Blokk B<br/>Dataelement</i></th><th data-text-align="left" data-vertical-align="bottom"><i>Kode</i></th><th data-text-align="left" data-vertical-align="bottom"><i>P&#xE5;krevd/Valgfritt</i></th><th data-text-align="left" data-vertical-align="bottom"><i>Forklaring</i></th></tr></thead><tbody><tr><td data-text-align="left" data-vertical-align="top">Innsats</td><td data-text-align="left" data-vertical-align="top">FO</td><td data-text-align="left" data-vertical-align="top">PD</td><td data-text-align="left" data-vertical-align="top">Antall krok eller totallengde garn (meter) samlet per d&#xF8;gn. PD: p&#xE5;krevd dersom fart&#xF8;yet fisker med line eller garn.</td></tr></tbody></table></article>
+        <article class="defaultP" margin-top="true">&#xA7; 15 f&#xF8;rste ledd (endret) skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-6">Norske fiske- og fangstfart&#xF8;y som foretar omlasting i farvann under norsk fiskerijurisdiksjon, i internasjonalt farvann og i andre lands soner er omfattet av reglene i dette kapittel. Med omlasting forst&#xE5;s enhver overf&#xF8;ring av fangst p&#xE5; havet fra et fart&#xF8;y til et annet fart&#xF8;y, herunder ogs&#xE5; f&#xF8;ring til og fra l&#xE5;s, steng mv.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 16 andre ledd (nytt) skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-7">Uten hinder av f&#xF8;rste ledd kan fart&#xF8;y som nevnt i &#xA7; 15 som skal avgi fangst ved at fangsten l&#xE5;s- eller stengsettes sende melding om omlasting til Fiskeridirektoratet senest 2 timer f&#xF8;r omlastingen p&#xE5;begynnes. Dette gjelder ogs&#xE5; dersom det skal gjennomf&#xF8;res en omlasting mellom norske fart&#xF8;y for tilvirkning p&#xE5; det mottakende fart&#xF8;y.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 16 andre og tredje ledd blir dermed tredje og fjerde ledd.</article>
+        <article class="defaultP" margin-top="true">Vedlegg 5 (nytt) skal lyde:</article>
+        <span class="futuretitle" id="kapittel-1-foresl&#xE5;ttittel-1">Vedlegg 5. Fiskeritillatelse (QI)</span>
+        <article class="defaultP" margin-top="true">
+          <i>Fart&#xF8;yets fiskeritillatelse</i>
+          <table>
+            <thead>
+              <tr>
+                <th data-text-align="left" data-vertical-align="top">
+                  <i>Kode</i>
+                </th>
+                <th data-text-align="center" data-vertical-align="top">
+                  <i>Definisjon</i>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td data-text-align="left" data-vertical-align="top">1</td>
+                <td data-text-align="left" data-vertical-align="top">Ordin&#xE6;r kvote</td>
+              </tr>
+              <tr>
+                <td data-text-align="left" data-vertical-align="top">2</td>
+                <td data-text-align="left" data-vertical-align="top">Forskningskvote</td>
+              </tr>
+              <tr>
+                <td data-text-align="left" data-vertical-align="top">3</td>
+                <td data-text-align="left" data-vertical-align="top">Skolekvote</td>
+              </tr>
+              <tr>
+                <td data-text-align="left" data-vertical-align="top">4</td>
+                <td data-text-align="left" data-vertical-align="top">Agnkvote</td>
+              </tr>
+              <tr>
+                <td data-text-align="left" data-vertical-align="top">5</td>
+                <td data-text-align="left" data-vertical-align="top">Annet</td>
+              </tr>
+              <tr>
+                <td data-text-align="left" data-vertical-align="top">6</td>
+                <td data-text-align="left" data-vertical-align="top">Slumpfiskkvote</td>
+              </tr>
+              <tr>
+                <td data-text-align="left" data-vertical-align="top">7</td>
+                <td data-text-align="left" data-vertical-align="top">Leiefart&#xF8;ykvote</td>
+              </tr>
+            </tbody>
+          </table>
+        </article>
+        <article class="defaultP" margin-top="true">Vedlegg 6 (nytt) skal lyde:</article>
+        <span class="futuretitle" id="kapittel-1-foresl&#xE5;ttittel-2">Vedlegg 6. Fiskeriaktivitet (AC)</span>
+        <article class="defaultP" margin-top="true">
+          <i>Fart&#xF8;yets hovedfiskeriaktivitet</i>
+          <table>
+            <thead>
+              <tr>
+                <th data-text-align="left" data-vertical-align="top">
+                  <i>Kode</i>
+                </th>
+                <th data-text-align="left" data-vertical-align="top">
+                  <i>Definisjon</i>
+                </th>
+                <th data-text-align="left" data-vertical-align="top">
+                  <i>Forklaring</i>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td data-text-align="left" data-vertical-align="top">FIS</td>
+                <td data-text-align="left" data-vertical-align="top">Fiske</td>
+                <td data-text-align="left" data-vertical-align="top">FIS skal anvendes n&#xE5;r det er gjennomf&#xF8;rt fiskeoperasjoner innenfor d&#xF8;gnet det rapporteres for.</td>
+              </tr>
+              <tr>
+                <td data-text-align="left" data-vertical-align="top">REL</td>
+                <td data-text-align="left" data-vertical-align="top">Fangst relokalisering</td>
+                <td data-text-align="left" data-vertical-align="top">REL skal anvendes av det fart&#xF8;y som pumper om bord fangst fra sj&#xF8;en fisket av et annet fart&#xF8;y. Det skal sendes en egen DCA melding dersom det er pumpet fra et annet fart&#xF8;ys redskap.</td>
+              </tr>
+              <tr>
+                <td data-text-align="left" data-vertical-align="top">SCR</td>
+                <td data-text-align="left" data-vertical-align="top">Vitenskapelig forskning</td>
+                <td data-text-align="left" data-vertical-align="top">SCR skal anvendes av fart&#xF8;y som driver vitenskapelig forskning innenfor d&#xF8;gnet det rapporteres for.</td>
+              </tr>
+              <tr>
+                <td data-text-align="left" data-vertical-align="top">STE</td>
+                <td data-text-align="left" data-vertical-align="top">Stimer</td>
+                <td data-text-align="left" data-vertical-align="top">STE skal anvendes dersom fart&#xF8;yet ikke har gjennomf&#xF8;rt fiskeoperasjoner innenfor d&#xF8;gnet det rapporteres for.</td>
+              </tr>
+              <tr>
+                <td data-text-align="left" data-vertical-align="top">TRX</td>
+                <td data-text-align="left" data-vertical-align="top">Omlasting</td>
+                <td data-text-align="left" data-vertical-align="top">TRX skal anvendes av fart&#xF8;y som tar del i omlasting innenfor d&#xF8;gnet det rapporteres for, og som for &#xF8;vrig ikke har gjennomf&#xF8;rt fiskeoperasjoner innenfor dette d&#xF8;gnet.</td>
+              </tr>
+              <tr>
+                <td data-text-align="left" data-vertical-align="top">SET</td>
+                <td data-text-align="left" data-vertical-align="top">Setting av redskap</td>
+                <td data-text-align="left" data-vertical-align="top">SET skal anvendes av fart&#xF8;y som fisker med garn eller line i Norges &#xF8;konomiske sone og territorialfarvann, og som kun skal sette redskap innenfor d&#xF8;gnet det rapporteres for.</td>
+              </tr>
+            </tbody>
+          </table>
+        </article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2012-01-17-66/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Denne forskrift trer i kraft straks.</article>
+      </section>
+    </main>
+  </body>
+</html>

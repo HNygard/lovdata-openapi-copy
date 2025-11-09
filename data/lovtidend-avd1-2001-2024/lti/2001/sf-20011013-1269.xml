@@ -1,1 +1,80 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om gjennomføring av JAR-E – konstruksjonsbestemmelser for motorer.</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2001-10-13-1269</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2001-10-13-1269</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Samferdselsdepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2001 hefte 14</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2001-10-13</dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/1993-06-11-101/§4-1</li><li>forskrift/1999-12-10-1273</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2001-11-16</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2001-1242</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Forskrift om gjennomføring av JAR-E</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om gjennomføring av JAR-E – konstruksjonsbestemmelser for motorer.</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Fastsatt av Luftfartstilsynet 13. oktober 2001 med hjemmel i lov av 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 4-1 annet ledd og delegeringsvedtak av 10. desember 1999 nr. 1273.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2001-10-13-1269</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om gjennomføring av JAR-E – konstruksjonsbestemmelser for motorer.<ul class="tocSubUl"><li>§ 1.</li><li>§ 2.</li><li>§ 3.</li><li>§ 4.</li><li>§ 5.</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2001-10-13-1269" id="dokument"><h1>Forskrift om gjennomføring av JAR-E – konstruksjonsbestemmelser for motorer.</h1><article class="legalArticle" data-lovdata-URL="LTI/forskrift/2001-10-13-1269/§1" data-name="§1" id="paragraf-1"><h2 class="legalArticleHeader"><span class="legalArticleValue">§ 1</span>.</h2><article class="legalP" id="paragraf-1-ledd-1">Joint Aviation Requirements (JAR) E, Engines, Change 10 av 15. august 1999 gjelder som norsk forskrift.</article><article class="legalP" id="paragraf-1-ledd-2">De deler av JAR-E som i JAR-E er angitt som veiledende gjelder ikke som norsk forskrift.</article></article><article class="legalArticle" data-lovdata-URL="LTI/forskrift/2001-10-13-1269/§2" data-name="§2" id="paragraf-2"><h2 class="legalArticleHeader"><span class="legalArticleValue">§ 2</span>.</h2><article class="legalP" id="paragraf-2-ledd-1">Formålet med denne forskriften er å sikre at motorer som anvendes i luftfartøyer er konstruert i henhold til internasjonale krav.</article></article><article class="legalArticle" data-lovdata-URL="LTI/forskrift/2001-10-13-1269/§3" data-name="§3" id="paragraf-3"><h2 class="legalArticleHeader"><span class="legalArticleValue">§ 3</span>.</h2><article class="legalP" id="paragraf-3-ledd-1">Luftfartstilsynet kan, når særlige grunner tilsier det, dispensere fra bestemmelsene i JAR-E når ikke annet er fastsatt.</article></article><article class="legalArticle" data-lovdata-URL="LTI/forskrift/2001-10-13-1269/§4" data-name="§4" id="paragraf-4"><h2 class="legalArticleHeader"><span class="legalArticleValue">§ 4</span>.</h2><article class="legalP" id="paragraf-4-ledd-1">Enkeltvedtak truffet av Luftfartstilsynet med hjemmel i denne forskrift og JAR-E kan påklages til Samferdselsdepartementet i henhold til forvaltningsloven.</article><article class="legalP" id="paragraf-4-ledd-2">Klagen sendes Luftfartstilsynet.</article></article><article class="legalArticle" data-lovdata-URL="LTI/forskrift/2001-10-13-1269/§5" data-name="§5" id="paragraf-5"><h2 class="legalArticleHeader"><span class="legalArticleValue">§ 5</span>.</h2><article class="legalP" id="paragraf-5-ledd-1">Denne forskrift trer i kraft straks.</article></article></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om gjennomf&#xF8;ring av JAR-E &#x2013; konstruksjonsbestemmelser for motorer.</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2001-10-13-1269</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2001-10-13-1269</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Samferdselsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2001 hefte 14</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2001-10-13</dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/1993-06-11-101/&#xA7;4-1</li>
+            <li>forskrift/1999-12-10-1273</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2001-11-16</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2001-1242</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Forskrift om gjennomf&#xF8;ring av JAR-E</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om gjennomf&#xF8;ring av JAR-E &#x2013; konstruksjonsbestemmelser for motorer.</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Fastsatt av Luftfartstilsynet 13. oktober 2001 med hjemmel i lov av 11. juni 1993 nr. 101 om luftfart (luftfartsloven) &#xA7; 4-1 annet ledd og delegeringsvedtak av 10. desember 1999 nr. 1273.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2001-10-13-1269</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om gjennomf&#xF8;ring av JAR-E &#x2013; konstruksjonsbestemmelser for motorer.<ul class="tocSubUl"><li>&#xA7; 1.</li><li>&#xA7; 2.</li><li>&#xA7; 3.</li><li>&#xA7; 4.</li><li>&#xA7; 5.</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2001-10-13-1269" id="dokument">
+      <h1>Forskrift om gjennomf&#xF8;ring av JAR-E &#x2013; konstruksjonsbestemmelser for motorer.</h1>
+      <article class="legalArticle" data-lovdata-URL="LTI/forskrift/2001-10-13-1269/&#xA7;1" data-name="&#xA7;1" id="paragraf-1">
+        <h2 class="legalArticleHeader"><span class="legalArticleValue">&#xA7; 1</span>.</h2>
+        <article class="legalP" id="paragraf-1-ledd-1">Joint Aviation Requirements (JAR) E, Engines, Change 10 av 15. august 1999 gjelder som norsk forskrift.</article>
+        <article class="legalP" id="paragraf-1-ledd-2">De deler av JAR-E som i JAR-E er angitt som veiledende gjelder ikke som norsk forskrift.</article>
+      </article>
+      <article class="legalArticle" data-lovdata-URL="LTI/forskrift/2001-10-13-1269/&#xA7;2" data-name="&#xA7;2" id="paragraf-2">
+        <h2 class="legalArticleHeader"><span class="legalArticleValue">&#xA7; 2</span>.</h2>
+        <article class="legalP" id="paragraf-2-ledd-1">Form&#xE5;let med denne forskriften er &#xE5; sikre at motorer som anvendes i luftfart&#xF8;yer er konstruert i henhold til internasjonale krav.</article>
+      </article>
+      <article class="legalArticle" data-lovdata-URL="LTI/forskrift/2001-10-13-1269/&#xA7;3" data-name="&#xA7;3" id="paragraf-3">
+        <h2 class="legalArticleHeader"><span class="legalArticleValue">&#xA7; 3</span>.</h2>
+        <article class="legalP" id="paragraf-3-ledd-1">Luftfartstilsynet kan, n&#xE5;r s&#xE6;rlige grunner tilsier det, dispensere fra bestemmelsene i JAR-E n&#xE5;r ikke annet er fastsatt.</article>
+      </article>
+      <article class="legalArticle" data-lovdata-URL="LTI/forskrift/2001-10-13-1269/&#xA7;4" data-name="&#xA7;4" id="paragraf-4">
+        <h2 class="legalArticleHeader"><span class="legalArticleValue">&#xA7; 4</span>.</h2>
+        <article class="legalP" id="paragraf-4-ledd-1">Enkeltvedtak truffet av Luftfartstilsynet med hjemmel i denne forskrift og JAR-E kan p&#xE5;klages til Samferdselsdepartementet i henhold til forvaltningsloven.</article>
+        <article class="legalP" id="paragraf-4-ledd-2">Klagen sendes Luftfartstilsynet.</article>
+      </article>
+      <article class="legalArticle" data-lovdata-URL="LTI/forskrift/2001-10-13-1269/&#xA7;5" data-name="&#xA7;5" id="paragraf-5">
+        <h2 class="legalArticleHeader"><span class="legalArticleValue">&#xA7; 5</span>.</h2>
+        <article class="legalP" id="paragraf-5-ledd-1">Denne forskrift trer i kraft straks.</article>
+      </article>
+    </main>
+  </body>
+</html>

@@ -1,1 +1,66 @@
-<!DOCTYPE html><html lang="no"><head><title>Lov om endring i folketrygdloven (tidsbegrenset uførestønad)</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">LOV-2009-06-05-33</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/lov/2009-06-05-33</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Arbeids- og inkluderingsdepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2009 hefte 6 s 831</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">Kongen bestemmer.</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>lov/1997-02-28-19</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2009-06-05 14:50</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2009-0449</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endringslov til folketrygdloven (uførestønad)</dd><dt class="title">Tittel</dt><dd class="title">Lov om endring i folketrygdloven (tidsbegrenset uførestønad)</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Ot.prp.nr.45 (2008–2009), Innst.O.nr.65 (2008–2009) og Besl.O.nr.82 (2008–2009). Odels- og lagtingsvedtak hhv. 15. og 28 mai 2009. Fremmet av Arbeids- og inkluderingsdepartementet.</dd><dt class="refid">RefID</dt><dd class="refid">lov/2009-06-05-33</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Lov om endring i folketrygdloven (tidsbegrenset uførestønad)<ul class="tocSubUl"><li>I</li><li>II Ikrafttredelse</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/lov/2009-06-05-33" id="dokument"><h1>Lov om endring i folketrygdloven (tidsbegrenset uførestønad)</h1><article class="defaultP" data-text-size="small">Endring i følgende lov:<ul class="defaultList" data-text-size="small"><li><article class="listArticle" data-text-size="small" id="punkt-1"><article class="legalP" id="punkt-1-ledd-1">Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven).</article></article></li></ul></article><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2009-06-05-33/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I lov 28. februar 1997 nr. 19 om folketrygd gjøres følgende endring:</article> <article class="defaultP" margin-top="true">§ 12-9 første ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-2">Dersom det etter en helhetsvurdering er sannsynlig at inntektsevnen kan bedres, skal det gis en tidsbegrenset uførestønad. Ved vurderingen skal det legges vekt på bl.a. sykdommens art, medisinske opplysninger, funksjonsvurderinger, restarbeidsevne, alder og tidligere tilknytning til arbeidslivet. Stønaden gis for en angitt periode på inntil fire år og skal revurderes før periodens utløp. Stønadsmottaker som har framsatt nytt krav om tidsbegrenset uførestønad eller uførepensjon, kan gis fortsatt stønad på samme vilkår fram til kravet er avgjort og har rett til slik stønad dersom kravet er framsatt innen tre måneder før vedtak om tidsbegrenset uførestønad utløper.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2009-06-05-33/KAPITTEL_2"><h2 data-text-align="center">II<br />Ikrafttredelse</h2><article class="legalP" id="kapittel-2-ledd-1">Loven trer i kraft fra det tidspunkt Kongen bestemmer.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Lov om endring i folketrygdloven (tidsbegrenset uf&#xF8;rest&#xF8;nad)</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">LOV-2009-06-05-33</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/lov/2009-06-05-33</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Arbeids- og inkluderingsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2009 hefte 6 s 831</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">Kongen bestemmer.</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>lov/1997-02-28-19</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2009-06-05 14:50</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2009-0449</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endringslov til folketrygdloven (uf&#xF8;rest&#xF8;nad)</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Lov om endring i folketrygdloven (tidsbegrenset uf&#xF8;rest&#xF8;nad)</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Ot.prp.nr.45 (2008&#x2013;2009), Innst.O.nr.65 (2008&#x2013;2009) og Besl.O.nr.82 (2008&#x2013;2009). Odels- og lagtingsvedtak hhv. 15. og 28 mai 2009. Fremmet av Arbeids- og inkluderingsdepartementet.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">lov/2009-06-05-33</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Lov om endring i folketrygdloven (tidsbegrenset uf&#xF8;rest&#xF8;nad)<ul class="tocSubUl"><li>I</li><li>II Ikrafttredelse</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/lov/2009-06-05-33" id="dokument">
+      <h1>Lov om endring i folketrygdloven (tidsbegrenset uf&#xF8;rest&#xF8;nad)</h1>
+      <article class="defaultP" data-text-size="small">Endring i f&#xF8;lgende lov:<ul class="defaultList" data-text-size="small"><li><article class="listArticle" data-text-size="small" id="punkt-1"><article class="legalP" id="punkt-1-ledd-1">Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven).</article></article></li></ul></article>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2009-06-05-33/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I lov 28. februar 1997 nr. 19 om folketrygd gj&#xF8;res f&#xF8;lgende endring:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 12-9 f&#xF8;rste ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">Dersom det etter en helhetsvurdering er sannsynlig at inntektsevnen kan bedres, skal det gis en tidsbegrenset uf&#xF8;rest&#xF8;nad. Ved vurderingen skal det legges vekt p&#xE5; bl.a. sykdommens art, medisinske opplysninger, funksjonsvurderinger, restarbeidsevne, alder og tidligere tilknytning til arbeidslivet. St&#xF8;naden gis for en angitt periode p&#xE5; inntil fire &#xE5;r og skal revurderes f&#xF8;r periodens utl&#xF8;p. St&#xF8;nadsmottaker som har framsatt nytt krav om tidsbegrenset uf&#xF8;rest&#xF8;nad eller uf&#xF8;repensjon, kan gis fortsatt st&#xF8;nad p&#xE5; samme vilk&#xE5;r fram til kravet er avgjort og har rett til slik st&#xF8;nad dersom kravet er framsatt innen tre m&#xE5;neder f&#xF8;r vedtak om tidsbegrenset uf&#xF8;rest&#xF8;nad utl&#xF8;per.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2009-06-05-33/KAPITTEL_2">
+        <h2 data-text-align="center">II<br/>Ikrafttredelse</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Loven trer i kraft fra det tidspunkt Kongen bestemmer.</article>
+      </section>
+    </main>
+  </body>
+</html>

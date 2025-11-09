@@ -1,1 +1,74 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift om jegerprøve.</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2001-01-03-2</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2001-01-03-2</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Miljøverndepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2001 hefte 1</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2001-01-03</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/1985-12-20-2246</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/1981-05-29-38/§39</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2001-01-31</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2001-0017</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i forskrift om jegerprøve</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om jegerprøve.</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Fastsatt av Direktoratet for naturforvaltning 3. januar 2001 med hjemmel i lov av 29. mai 1981 nr. 38 om viltet § 39.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2001-01-03-2</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om jegerprøve.<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2001-01-03-2" id="dokument"><h1>Forskrift om endring i forskrift om jegerprøve.</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2001-01-03-2/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift av 20. desember 1985 nr. 2246 om jegerprøve gjøres følgende endring:</article> <article class="defaultP" margin-top="true">§ 6 første og andre ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-2">Det praktiske kurset skal særlig gi instruksjon om jaktvåpnenes oppbygging og funksjon, sikkerhetsprinsipper, grunnleggende regler om human og sikker jakt og fangst, avstandsbedømmelse og skyting med haglgevær, innføring i jaktmoral, etikk og holdninger, artskunnskap, praktisk jakt, jaktmetoder og ettersøk, viltloven og andre aktuelle bestemmelser, fangst og ivaretakelse av viltet. Det skal skytes minst 15 skudd med haglgevær mot skyteskive og lerdue. Kurset skal følge et opplegg godkjent av Direktoratet for naturforvaltning.</article><article class="legalP" id="kapittel-1-ledd-3">Kurset skal være på 30 timer. Den ordinære undervisningen inkludert praktiske øvelser skal fordeles over ni dager. Kurset skal ledes av en instruktør utdannet etter retningslinjer fastsatt av Direktoratet for naturforvaltning. Dersom kursarrangør finner det uforholdsmessig kostbart for kursdeltakeren å holde kurset over ni dager, kan det i stedet holdes over færre dager.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2001-01-03-2/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Endringen trer i kraft straks.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift om jegerpr&#xF8;ve.</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2001-01-03-2</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2001-01-03-2</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Milj&#xF8;verndepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2001 hefte 1</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2001-01-03</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/1985-12-20-2246</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/1981-05-29-38/&#xA7;39</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2001-01-31</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2001-0017</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i forskrift om jegerpr&#xF8;ve</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om jegerpr&#xF8;ve.</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Fastsatt av Direktoratet for naturforvaltning 3. januar 2001 med hjemmel i lov av 29. mai 1981 nr. 38 om viltet &#xA7; 39.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2001-01-03-2</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om jegerpr&#xF8;ve.<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2001-01-03-2" id="dokument">
+      <h1>Forskrift om endring i forskrift om jegerpr&#xF8;ve.</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2001-01-03-2/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift av 20. desember 1985 nr. 2246 om jegerpr&#xF8;ve gj&#xF8;res f&#xF8;lgende endring:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 6 f&#xF8;rste og andre ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">Det praktiske kurset skal s&#xE6;rlig gi instruksjon om jaktv&#xE5;pnenes oppbygging og funksjon, sikkerhetsprinsipper, grunnleggende regler om human og sikker jakt og fangst, avstandsbed&#xF8;mmelse og skyting med haglgev&#xE6;r, innf&#xF8;ring i jaktmoral, etikk og holdninger, artskunnskap, praktisk jakt, jaktmetoder og etters&#xF8;k, viltloven og andre aktuelle bestemmelser, fangst og ivaretakelse av viltet. Det skal skytes minst 15 skudd med haglgev&#xE6;r mot skyteskive og lerdue. Kurset skal f&#xF8;lge et opplegg godkjent av Direktoratet for naturforvaltning.</article>
+        <article class="legalP" id="kapittel-1-ledd-3">Kurset skal v&#xE6;re p&#xE5; 30 timer. Den ordin&#xE6;re undervisningen inkludert praktiske &#xF8;velser skal fordeles over ni dager. Kurset skal ledes av en instrukt&#xF8;r utdannet etter retningslinjer fastsatt av Direktoratet for naturforvaltning. Dersom kursarrang&#xF8;r finner det uforholdsmessig kostbart for kursdeltakeren &#xE5; holde kurset over ni dager, kan det i stedet holdes over f&#xE6;rre dager.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2001-01-03-2/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Endringen trer i kraft straks.</article>
+      </section>
+    </main>
+  </body>
+</html>

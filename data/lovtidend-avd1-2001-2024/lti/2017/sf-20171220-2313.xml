@@ -1,1 +1,76 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift om bruk av kjøretøy</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2017-12-20-2313</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2017-12-20-2313</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Samferdselsdepartementet</li></ul></dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2018-01-01</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/1990-01-25-92</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/1965-06-18-4/§15</li><li>lov/1965-06-18-4/§17</li><li>lov/1965-06-18-4/§43</li><li>forskrift/1986-03-21-750</li><li>forskrift/1980-11-24-1</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2017-12-22 15:20</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2017-1509</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i forskrift om bruk av kjøretøy</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om bruk av kjøretøy</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Vegdirektoratet 20. desember 2017 med hjemmel i lov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven) § 15, § 17 og § 43, jf. delegeringsvedtak 21. mars 1986 nr. 750 og delegeringsvedtak 24. november 1980 nr. 1.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2017-12-20-2313</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om bruk av kjøretøy<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2017-12-20-2313" id="dokument"><h1>Forskrift om endring i forskrift om bruk av kjøretøy</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2017-12-20-2313/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift 25. januar 1990 nr. 92 om bruk av kjøretøy gjøres følgende endringer:</article> <article class="defaultP" margin-top="true">Ny nummer (6) i § 2-27 skal lyde:</article><article class="numberedLegalP" data-numerator="6" id="kapittel-1-nummer-1">(6) Ved opphør av disposisjonsrett som nevnt i trafikkopplæringsforskriften § 4-2 tredje ledd og/eller § 29-6 tiende ledd skal opplæringsinstitusjonen innen 3 dager gi skriftlig melding til regionvegkontoret om dette.</article> <article class="defaultP" margin-top="true">Ny bokstav f i § 2-29 (1) skal lyde:<ul class="defaultList"><li data-li-identifier="f)" data-name="f)"><article class="listArticle" id="kapittel-1-nummer-1-punkt-1"><article class="legalP" id="kapittel-1-nummer-1-punkt-1-ledd-1">Dokumentasjon som angitt i trafikkopplæringsforskriften § 4-2 tredje ledd og/eller § 29-6 tiende ledd som viser at opplæringsinstitusjon har disposisjonsrett over lærevogn klasse B og/eller førerprøvevogn klasse B, dersom kjøretøyet skal være godkjent for bruk til opplæring mot vederlag klasse B og/eller førerprøve klasse B.</article></article></li></ul></article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2017-12-20-2313/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Forskriften trer i kraft 1. januar 2018.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift om bruk av kj&#xF8;ret&#xF8;y</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2017-12-20-2313</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2017-12-20-2313</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Samferdselsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2018-01-01</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/1990-01-25-92</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/1965-06-18-4/&#xA7;15</li>
+            <li>lov/1965-06-18-4/&#xA7;17</li>
+            <li>lov/1965-06-18-4/&#xA7;43</li>
+            <li>forskrift/1986-03-21-750</li>
+            <li>forskrift/1980-11-24-1</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2017-12-22 15:20</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2017-1509</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i forskrift om bruk av kj&#xF8;ret&#xF8;y</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om bruk av kj&#xF8;ret&#xF8;y</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Vegdirektoratet 20. desember 2017 med hjemmel i lov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven) &#xA7; 15, &#xA7; 17 og &#xA7; 43, jf. delegeringsvedtak 21. mars 1986 nr. 750 og delegeringsvedtak 24. november 1980 nr. 1.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2017-12-20-2313</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om bruk av kj&#xF8;ret&#xF8;y<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2017-12-20-2313" id="dokument">
+      <h1>Forskrift om endring i forskrift om bruk av kj&#xF8;ret&#xF8;y</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2017-12-20-2313/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift 25. januar 1990 nr. 92 om bruk av kj&#xF8;ret&#xF8;y gj&#xF8;res f&#xF8;lgende endringer:</article>
+        <article class="defaultP" margin-top="true">Ny nummer (6) i &#xA7; 2-27 skal lyde:</article>
+        <article class="numberedLegalP" data-numerator="6" id="kapittel-1-nummer-1">(6) Ved opph&#xF8;r av disposisjonsrett som nevnt i trafikkoppl&#xE6;ringsforskriften &#xA7; 4-2 tredje ledd og/eller &#xA7; 29-6 tiende ledd skal oppl&#xE6;ringsinstitusjonen innen 3 dager gi skriftlig melding til regionvegkontoret om dette.</article>
+        <article class="defaultP" margin-top="true">Ny bokstav f i &#xA7; 2-29 (1) skal lyde:<ul class="defaultList"><li data-li-identifier="f)" data-name="f)"><article class="listArticle" id="kapittel-1-nummer-1-punkt-1"><article class="legalP" id="kapittel-1-nummer-1-punkt-1-ledd-1">Dokumentasjon som angitt i trafikkoppl&#xE6;ringsforskriften &#xA7; 4-2 tredje ledd og/eller &#xA7; 29-6 tiende ledd som viser at oppl&#xE6;ringsinstitusjon har disposisjonsrett over l&#xE6;revogn klasse B og/eller f&#xF8;rerpr&#xF8;vevogn klasse B, dersom kj&#xF8;ret&#xF8;yet skal v&#xE6;re godkjent for bruk til oppl&#xE6;ring mot vederlag klasse B og/eller f&#xF8;rerpr&#xF8;ve klasse B.</article></article></li></ul></article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2017-12-20-2313/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Forskriften trer i kraft 1. januar 2018.</article>
+      </section>
+    </main>
+  </body>
+</html>

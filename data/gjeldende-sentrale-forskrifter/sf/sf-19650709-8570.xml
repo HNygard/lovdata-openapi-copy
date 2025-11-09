@@ -1,1 +1,69 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om fastsettelse av vilkår for statens grunnkjøpsobligasjoner</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-1965-07-09-8570</dd><dt class="dokid">DokumentID</dt><dd class="dokid">SF/forskrift/1965-07-09-8570</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Finansdepartementet</li></ul></dd><dt class="subunit">Etat</dt><dd class="subunit"><ul><li>Økonomiavd.</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li><a href="lov/1814-05-17/§75">lov/1814-05-17/§75</a></li><li><a href="null">null</a></li></ul></dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Forskrift om vilkår, statens grunnkjøpsobl.</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om fastsettelse av vilkår for statens grunnkjøpsobligasjoner</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/1965-07-09-8570</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li><a href="#dokument">Forskrift om fastsettelse av vilkår for statens grunnkjøpsobligasjoner</a><ul class="tocSubUl"><li><a href="#kapittel-1">I</a></li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="SF/forskrift/1965-07-09-8570" id="dokument"><h1>Forskrift om fastsettelse av vilkår for statens grunnkjøpsobligasjoner</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="SF/forskrift/1965-07-09-8570/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">Med hjemmel i Stortingets vedtak av 4. mai 1965 gis Finansdepartementet fullmakt til å utstede grunnkjøpsobligasjoner til oppgjør for grunnervervelser for et beløp av inntil 100 mill. kroner med følgende vilkår:<ol class="defaultList" type="1"><li data-name="1." value="1"><article class="listArticle" id="kapittel-1-ledd-1-punkt-1"><article class="legalP" id="kapittel-1-ledd-1-punkt-1-ledd-1">Rentesats 4 3/4 pst. p.a. som beregnes fra det tidspunkt de enkelte obligasjoner blir effektive.</article></article></li><li data-name="2." value="2"><article class="listArticle" id="kapittel-1-ledd-1-punkt-2"><article class="legalP" id="kapittel-1-ledd-1-punkt-2-ledd-1">Løpetid. Obligasjonsserie A: 20 år – tilbakebetaling med like store halvårlige avdrag. Obligasjonsserie B: 15 år – avdrag ved halvårlige annuiteter. Obligasjonsserie C: 10 år – avdragsfritt, innløsning i sin helhet etter 10 år.</article></article></li><li data-name="3." value="3"><article class="listArticle" id="kapittel-1-ledd-1-punkt-3"><article class="legalP" id="kapittel-1-ledd-1-punkt-3-ledd-1">Obligasjonseierne kan til enhver tid oppsi obligasjonene til innløsning gjennom Norges Bank med 3 måneders varsel, dog slik at de ikke kan innløses tidligere enn 6 måneder etter utstedelsen.</article><article class="legalP" id="kapittel-1-ledd-1-punkt-3-ledd-2">Obligasjonene kan ikke omsettes eller pantsettes, men kan overføres ved arv.</article></article></li><li data-name="4." value="4"><article class="listArticle" id="kapittel-1-ledd-1-punkt-4"><article class="legalP" id="kapittel-1-ledd-1-punkt-4-ledd-1">Norges Bank utsteder sertifikater til obligasjonseierne, lydende på et bestemt antall grunnkjøpsobligasjoner a kr. 100,-. Obligasjonene innskrives på navn i register i Norges Bank, som på statens vegne utbetaler renter og avdrag på obligasjonene.</article></article></li></ol></article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om fastsettelse av vilk&#xE5;r for statens grunnkj&#xF8;psobligasjoner</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-1965-07-09-8570</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">SF/forskrift/1965-07-09-8570</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Finansdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="subunit">Etat</dt>
+        <dd class="subunit">
+          <ul>
+            <li>&#xD8;konomiavd.</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>
+              <a href="lov/1814-05-17/&#xA7;75">lov/1814-05-17/&#xA7;75</a>
+            </li>
+            <li>
+              <a href="null">null</a>
+            </li>
+          </ul>
+        </dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Forskrift om vilk&#xE5;r, statens grunnkj&#xF8;psobl.</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om fastsettelse av vilk&#xE5;r for statens grunnkj&#xF8;psobligasjoner</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/1965-07-09-8570</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>
+              <a href="#dokument">Forskrift om fastsettelse av vilk&#xE5;r for statens grunnkj&#xF8;psobligasjoner</a>
+              <ul class="tocSubUl">
+                <li>
+                  <a href="#kapittel-1">I</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="SF/forskrift/1965-07-09-8570" id="dokument">
+      <h1>Forskrift om fastsettelse av vilk&#xE5;r for statens grunnkj&#xF8;psobligasjoner</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="SF/forskrift/1965-07-09-8570/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">Med hjemmel i Stortingets vedtak av 4. mai 1965 gis Finansdepartementet fullmakt til &#xE5; utstede grunnkj&#xF8;psobligasjoner til oppgj&#xF8;r for grunnervervelser for et bel&#xF8;p av inntil 100 mill. kroner med f&#xF8;lgende vilk&#xE5;r:<ol class="defaultList" type="1"><li data-name="1." value="1"><article class="listArticle" id="kapittel-1-ledd-1-punkt-1"><article class="legalP" id="kapittel-1-ledd-1-punkt-1-ledd-1">Rentesats 4 3/4 pst. p.a. som beregnes fra det tidspunkt de enkelte obligasjoner blir effektive.</article></article></li><li data-name="2." value="2"><article class="listArticle" id="kapittel-1-ledd-1-punkt-2"><article class="legalP" id="kapittel-1-ledd-1-punkt-2-ledd-1">L&#xF8;petid. Obligasjonsserie A: 20 &#xE5;r &#x2013; tilbakebetaling med like store halv&#xE5;rlige avdrag. Obligasjonsserie B: 15 &#xE5;r &#x2013; avdrag ved halv&#xE5;rlige annuiteter. Obligasjonsserie C: 10 &#xE5;r &#x2013; avdragsfritt, innl&#xF8;sning i sin helhet etter 10 &#xE5;r.</article></article></li><li data-name="3." value="3"><article class="listArticle" id="kapittel-1-ledd-1-punkt-3"><article class="legalP" id="kapittel-1-ledd-1-punkt-3-ledd-1">Obligasjonseierne kan til enhver tid oppsi obligasjonene til innl&#xF8;sning gjennom Norges Bank med 3 m&#xE5;neders varsel, dog slik at de ikke kan innl&#xF8;ses tidligere enn 6 m&#xE5;neder etter utstedelsen.</article><article class="legalP" id="kapittel-1-ledd-1-punkt-3-ledd-2">Obligasjonene kan ikke omsettes eller pantsettes, men kan overf&#xF8;res ved arv.</article></article></li><li data-name="4." value="4"><article class="listArticle" id="kapittel-1-ledd-1-punkt-4"><article class="legalP" id="kapittel-1-ledd-1-punkt-4-ledd-1">Norges Bank utsteder sertifikater til obligasjonseierne, lydende p&#xE5; et bestemt antall grunnkj&#xF8;psobligasjoner a kr. 100,-. Obligasjonene innskrives p&#xE5; navn i register i Norges Bank, som p&#xE5; statens vegne utbetaler renter og avdrag p&#xE5; obligasjonene.</article></article></li></ol></article>
+      </section>
+    </main>
+  </body>
+</html>

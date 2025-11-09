@@ -1,1 +1,81 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift om verdipapirfonds handel med opsjoner og terminer.</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2001-07-31-867</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2001-07-31-867</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Finansdepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2001 hefte 9</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2001-08-01</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/1993-08-17-808</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/1981-06-12-52/§1-4</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2001-08-03</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2001-0935</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i forskrift om handel med opsjoner mv.</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om verdipapirfonds handel med opsjoner og terminer.</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Fastsatt av Finansdepartementet 31. juli 2001 med hjemmel i lov av 12. juni 1981 nr. 52 om verdipapirfond § 1-4.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2001-07-31-867</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om verdipapirfonds handel med opsjoner og terminer.<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2001-07-31-867" id="dokument"><h1>Forskrift om endring i forskrift om verdipapirfonds handel med opsjoner og terminer.</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2001-07-31-867/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift av 17. august 1993 nr. 808 om verdipapirfonds handel med opsjoner og terminer gjøres følgende endringer:</article> <article class="defaultP" margin-top="true">Hjemmelsfeltet skal lyde:</article><article class="legalP" id="kapittel-1-ledd-2">Fastsatt av Finansdepartementet 17. august 1993 med hjemmel i lov av 12. juni 1981 nr. 52 om verdipapirfond § 4-5 første ledd nr. 4.</article> <article class="defaultP" margin-top="true">§ 2 første ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-3">For å effektivisere forvaltningen av et verdipapirfond kan et forvaltningsselskap på vegne av fondet inngå opsjons- eller terminkontrakter på verdipapirer eller en gruppe av verdipapirer (indeks) dersom opsjonene og terminene er opptatt til offisiell notering på børs eller omsettes på et annet regulert marked som tilfredsstiller vilkårene i verdipapirfondloven § 4-6 første ledd.</article> <article class="defaultP" margin-top="true">§ 4 skal lyde:</article> <article class="defaultP" margin-top="true"><strong>§ 4.</strong> <i>Forholdet til verdipapirfondloven § 4-8 og § 4-9</i></article><article class="legalP" id="kapittel-1-ledd-4">Utstedelse av salgsopsjoner skal i forhold til § 4-8 og § 4-9 likestilles med kjøp av det underliggende verdipapiret.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2001-07-31-867/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft 1. august 2001.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift om verdipapirfonds handel med opsjoner og terminer.</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2001-07-31-867</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2001-07-31-867</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Finansdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2001 hefte 9</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2001-08-01</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/1993-08-17-808</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/1981-06-12-52/&#xA7;1-4</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2001-08-03</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2001-0935</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i forskrift om handel med opsjoner mv.</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om verdipapirfonds handel med opsjoner og terminer.</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Fastsatt av Finansdepartementet 31. juli 2001 med hjemmel i lov av 12. juni 1981 nr. 52 om verdipapirfond &#xA7; 1-4.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2001-07-31-867</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om verdipapirfonds handel med opsjoner og terminer.<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2001-07-31-867" id="dokument">
+      <h1>Forskrift om endring i forskrift om verdipapirfonds handel med opsjoner og terminer.</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2001-07-31-867/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift av 17. august 1993 nr. 808 om verdipapirfonds handel med opsjoner og terminer gj&#xF8;res f&#xF8;lgende endringer:</article>
+        <article class="defaultP" margin-top="true">Hjemmelsfeltet skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">Fastsatt av Finansdepartementet 17. august 1993 med hjemmel i lov av 12. juni 1981 nr. 52 om verdipapirfond &#xA7; 4-5 f&#xF8;rste ledd nr. 4.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 2 f&#xF8;rste ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-3">For &#xE5; effektivisere forvaltningen av et verdipapirfond kan et forvaltningsselskap p&#xE5; vegne av fondet inng&#xE5; opsjons- eller terminkontrakter p&#xE5; verdipapirer eller en gruppe av verdipapirer (indeks) dersom opsjonene og terminene er opptatt til offisiell notering p&#xE5; b&#xF8;rs eller omsettes p&#xE5; et annet regulert marked som tilfredsstiller vilk&#xE5;rene i verdipapirfondloven &#xA7; 4-6 f&#xF8;rste ledd.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 4 skal lyde:</article>
+        <article class="defaultP" margin-top="true">
+          <strong>&#xA7; 4.</strong>
+          <i>Forholdet til verdipapirfondloven &#xA7; 4-8 og &#xA7; 4-9</i>
+        </article>
+        <article class="legalP" id="kapittel-1-ledd-4">Utstedelse av salgsopsjoner skal i forhold til &#xA7; 4-8 og &#xA7; 4-9 likestilles med kj&#xF8;p av det underliggende verdipapiret.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2001-07-31-867/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft 1. august 2001.</article>
+      </section>
+    </main>
+  </body>
+</html>

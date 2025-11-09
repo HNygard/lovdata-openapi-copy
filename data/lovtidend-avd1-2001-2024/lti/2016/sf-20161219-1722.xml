@@ -1,1 +1,70 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om forbud mot fisket etter lodde i Barentshavet i 2017</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2016-12-19-1722</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2016-12-19-1722</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Nærings- og fiskeridepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2016 hefte 18 s 2922</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2017-01-01 – 2017-12-31</dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/2008-06-06-37/§16</li><li>forskrift/2001-10-16-4686</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2016-12-22 16:00</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2016-1393</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Forskrift om forbud mot fisket etter lodde i Barentshavet i 2017</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om forbud mot fisket etter lodde i Barentshavet i 2017</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Fiskeridirektoratet 19. desember 2016 med hjemmel i lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 16, jf. delegeringsvedtak 16. oktober 2001 nr. 4686.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2016-12-19-1722</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om forbud mot fisket etter lodde i Barentshavet i 2017<ul class="tocSubUl"><li>§ 1. Forbud</li><li>§ 2. Straff</li><li>§ 3. Ikrafttredelse</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2016-12-19-1722" id="dokument"><h1>Forskrift om forbud mot fisket etter lodde i Barentshavet i 2017</h1><article class="legalArticle" data-lovdata-URL="LTI/forskrift/2016-12-19-1722/§1" data-name="§1" id="paragraf-1"><h2 class="legalArticleHeader"><span class="legalArticleValue">§ 1</span>. <span class="legalArticleTitle">Forbud</span></h2><article class="legalP" id="paragraf-1-ledd-1">Det er forbudt for norske fartøy å fiske og lande lodde i det nordøstlige Atlanterhav og i Barentshavet (ICES' statistikkområder 1 og 2) i 2017.</article></article><article class="legalArticle" data-lovdata-URL="LTI/forskrift/2016-12-19-1722/§2" data-name="§2" id="paragraf-2"><h2 class="legalArticleHeader"><span class="legalArticleValue">§ 2</span>. <span class="legalArticleTitle">Straff</span></h2><article class="legalP" id="paragraf-2-ledd-1">Den som forsettlig eller uaktsomt overtreder bestemmelser gitt i eller i medhold av forskriften straffes i henhold til havressurslova § 61, § 64 og § 65. På samme måte straffes forsøk og medvirkning.</article></article><article class="legalArticle" data-lovdata-URL="LTI/forskrift/2016-12-19-1722/§3" data-name="§3" id="paragraf-3"><h2 class="legalArticleHeader"><span class="legalArticleValue">§ 3</span>. <span class="legalArticleTitle">Ikrafttredelse</span></h2><article class="legalP" id="paragraf-3-ledd-1">Forskriften trer i kraft 1. januar 2017 og gjelder til og med 31. desember 2017.</article></article></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om forbud mot fisket etter lodde i Barentshavet i 2017</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2016-12-19-1722</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2016-12-19-1722</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>N&#xE6;rings- og fiskeridepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2016 hefte 18 s 2922</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2017-01-01 &#x2013; 2017-12-31</dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/2008-06-06-37/&#xA7;16</li>
+            <li>forskrift/2001-10-16-4686</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2016-12-22 16:00</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2016-1393</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Forskrift om forbud mot fisket etter lodde i Barentshavet i 2017</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om forbud mot fisket etter lodde i Barentshavet i 2017</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Fiskeridirektoratet 19. desember 2016 med hjemmel i lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) &#xA7; 16, jf. delegeringsvedtak 16. oktober 2001 nr. 4686.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2016-12-19-1722</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om forbud mot fisket etter lodde i Barentshavet i 2017<ul class="tocSubUl"><li>&#xA7; 1. Forbud</li><li>&#xA7; 2. Straff</li><li>&#xA7; 3. Ikrafttredelse</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2016-12-19-1722" id="dokument">
+      <h1>Forskrift om forbud mot fisket etter lodde i Barentshavet i 2017</h1>
+      <article class="legalArticle" data-lovdata-URL="LTI/forskrift/2016-12-19-1722/&#xA7;1" data-name="&#xA7;1" id="paragraf-1">
+        <h2 class="legalArticleHeader"><span class="legalArticleValue">&#xA7; 1</span>. <span class="legalArticleTitle">Forbud</span></h2>
+        <article class="legalP" id="paragraf-1-ledd-1">Det er forbudt for norske fart&#xF8;y &#xE5; fiske og lande lodde i det nord&#xF8;stlige Atlanterhav og i Barentshavet (ICES' statistikkomr&#xE5;der 1 og 2) i 2017.</article>
+      </article>
+      <article class="legalArticle" data-lovdata-URL="LTI/forskrift/2016-12-19-1722/&#xA7;2" data-name="&#xA7;2" id="paragraf-2">
+        <h2 class="legalArticleHeader"><span class="legalArticleValue">&#xA7; 2</span>. <span class="legalArticleTitle">Straff</span></h2>
+        <article class="legalP" id="paragraf-2-ledd-1">Den som forsettlig eller uaktsomt overtreder bestemmelser gitt i eller i medhold av forskriften straffes i henhold til havressurslova &#xA7; 61, &#xA7; 64 og &#xA7; 65. P&#xE5; samme m&#xE5;te straffes fors&#xF8;k og medvirkning.</article>
+      </article>
+      <article class="legalArticle" data-lovdata-URL="LTI/forskrift/2016-12-19-1722/&#xA7;3" data-name="&#xA7;3" id="paragraf-3">
+        <h2 class="legalArticleHeader"><span class="legalArticleValue">&#xA7; 3</span>. <span class="legalArticleTitle">Ikrafttredelse</span></h2>
+        <article class="legalP" id="paragraf-3-ledd-1">Forskriften trer i kraft 1. januar 2017 og gjelder til og med 31. desember 2017.</article>
+      </article>
+    </main>
+  </body>
+</html>

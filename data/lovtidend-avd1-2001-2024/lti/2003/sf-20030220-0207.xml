@@ -1,1 +1,75 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift om periodisk kontroll og utekontroll av kjøretøy.</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2003-02-20-207</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2003-02-20-207</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Samferdselsdepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2003 hefte 3 s 401</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2003-02-20</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2002-08-08-875</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/1965-06-18-4/§19</li><li>lov/1965-06-18-4/§43</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2003-02-28</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2003-0192</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i forskrift om kontroll av kjøretøy</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om periodisk kontroll og utekontroll av kjøretøy.</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Fastsatt av Samferdselsdepartementet 20. februar 2003 med hjemmel i vegtrafikklov av 18. juni 1965 nr. 4 § 19 annet ledd og § 43.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2003-02-20-207</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om periodisk kontroll og utekontroll av kjøretøy.<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2003-02-20-207" id="dokument"><h1>Forskrift om endring i forskrift om periodisk kontroll og utekontroll av kjøretøy.</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2003-02-20-207/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift av 8. august 2002 nr. 875 om periodisk kontroll og utekontroll av kjøretøy gjøres følgende endringer:</article> <article class="defaultP" margin-top="true">I følgende bestemmelser skal begrepet «vegkontoret» endres til «regionvegkontoret»:<ul class="defaultList"><li><article class="listArticle" id="kapittel-1-ledd-1-punkt-1"><article class="legalP" id="kapittel-1-ledd-1-punkt-1-ledd-1">§ 3 siste ledd, § 4 første ledd nr. 2, § 4 annet og fjerde ledd, § 5 tredje og fjerde ledd, § 6 første, annet og tredje ledd, § 8 annet og tredje ledd og § 9 første, tredje og fjerde ledd.</article></article></li></ul></article> <article class="defaultP" margin-top="true">I § 10 annet ledd skal begrepet «trafikkstasjoner/vegkontor» endres til «trafikkstasjoner/regionvegkontor».</article> <article class="defaultP" margin-top="true">I § 10 fjerde ledd skal begrepet «trafikkstasjon/vegkontor» endres til «trafikkstasjon/regionvegkontor».</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2003-02-20-207/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft straks.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift om periodisk kontroll og utekontroll av kj&#xF8;ret&#xF8;y.</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2003-02-20-207</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2003-02-20-207</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Samferdselsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2003 hefte 3 s 401</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2003-02-20</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2002-08-08-875</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/1965-06-18-4/&#xA7;19</li>
+            <li>lov/1965-06-18-4/&#xA7;43</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2003-02-28</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2003-0192</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i forskrift om kontroll av kj&#xF8;ret&#xF8;y</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om periodisk kontroll og utekontroll av kj&#xF8;ret&#xF8;y.</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Fastsatt av Samferdselsdepartementet 20. februar 2003 med hjemmel i vegtrafikklov av 18. juni 1965 nr. 4 &#xA7; 19 annet ledd og &#xA7; 43.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2003-02-20-207</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om periodisk kontroll og utekontroll av kj&#xF8;ret&#xF8;y.<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2003-02-20-207" id="dokument">
+      <h1>Forskrift om endring i forskrift om periodisk kontroll og utekontroll av kj&#xF8;ret&#xF8;y.</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2003-02-20-207/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift av 8. august 2002 nr. 875 om periodisk kontroll og utekontroll av kj&#xF8;ret&#xF8;y gj&#xF8;res f&#xF8;lgende endringer:</article>
+        <article class="defaultP" margin-top="true">I f&#xF8;lgende bestemmelser skal begrepet &#xAB;vegkontoret&#xBB; endres til &#xAB;regionvegkontoret&#xBB;:<ul class="defaultList"><li><article class="listArticle" id="kapittel-1-ledd-1-punkt-1"><article class="legalP" id="kapittel-1-ledd-1-punkt-1-ledd-1">&#xA7; 3 siste ledd, &#xA7; 4 f&#xF8;rste ledd nr. 2, &#xA7; 4 annet og fjerde ledd, &#xA7; 5 tredje og fjerde ledd, &#xA7; 6 f&#xF8;rste, annet og tredje ledd, &#xA7; 8 annet og tredje ledd og &#xA7; 9 f&#xF8;rste, tredje og fjerde ledd.</article></article></li></ul></article>
+        <article class="defaultP" margin-top="true">I &#xA7; 10 annet ledd skal begrepet &#xAB;trafikkstasjoner/vegkontor&#xBB; endres til &#xAB;trafikkstasjoner/regionvegkontor&#xBB;.</article>
+        <article class="defaultP" margin-top="true">I &#xA7; 10 fjerde ledd skal begrepet &#xAB;trafikkstasjon/vegkontor&#xBB; endres til &#xAB;trafikkstasjon/regionvegkontor&#xBB;.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2003-02-20-207/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft straks.</article>
+      </section>
+    </main>
+  </body>
+</html>

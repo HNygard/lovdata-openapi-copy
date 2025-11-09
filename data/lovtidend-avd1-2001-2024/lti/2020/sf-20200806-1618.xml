@@ -1,1 +1,81 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift om smitteverntiltak mv. ved koronautbruddet (covid-19-forskriften)</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2020-08-06-1618</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2020-08-06-1618</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Helse- og omsorgsdepartementet</li></ul></dd><dt class="subunit">Etat</dt><dd class="subunit"><ul><li>Helserettsavd.</li></ul></dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2020-08-06</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2020-03-27-470</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/1994-08-05-55/§4-1</li><li>lov/1994-08-05-55/§4-3</li><li>forskrift/2020-03-27-470/§20</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2020-08-06 16:10</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2020-1187</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i covid-19-forskriften</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om smitteverntiltak mv. ved koronautbruddet (covid-19-forskriften)</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Helse- og omsorgsdepartementet 6. august 2020 med hjemmel i lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer § 4-1 første ledd bokstav c, jf. andre og sjette ledd, og § 4-3, jf. forskrift 27. mars 2020 nr. 470 om smitteverntiltak mv. ved koronautbruddet (covid-19-forskriften) § 20.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2020-08-06-1618</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om smitteverntiltak mv. ved koronautbruddet (covid-19-forskriften)<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2020-08-06-1618" id="dokument"><h1>Forskrift om endring i forskrift om smitteverntiltak mv. ved koronautbruddet (covid-19-forskriften)</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2020-08-06-1618/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift 27. mars 2020 nr. 470 om smitteverntiltak mv. ved koronautbruddet (covid-19-forskriften) gjøres følgende endringer:</article> <article class="defaultP" margin-top="true">§ 5 fjerde ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-2">Personer som stiger på og av fartøy med inntil 100 passasjerer og mannskap ombord i en havn i Norge, og som kun oppholder seg i fartøyet under reisen, er unntatt fra karanteneplikten etter første ledd selv om fartøyet under reisen har krysset Norges territorialgrenser. Dette gjelder likevel ikke dersom fartøyet underveis har hatt ilandstigning eller ombordstigning av passasjerer eller mannskap i annen norsk havn eller i utenlandsk havn. I slike tilfeller omfattes cruiset av § 10b.</article> <article class="defaultP" margin-top="true">§ 10b fjerde ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-3">Denne bestemmelsen gjelder ikke for norske fartøy som foretar reiser omfattet av § 5 fjerde ledd eller kystcruise som omfattes av § 10a.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2020-08-06-1618/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Forskriften trer i kraft straks.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift om smitteverntiltak mv. ved koronautbruddet (covid-19-forskriften)</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2020-08-06-1618</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2020-08-06-1618</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Helse- og omsorgsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="subunit">Etat</dt>
+        <dd class="subunit">
+          <ul>
+            <li>Helserettsavd.</li>
+          </ul>
+        </dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2020-08-06</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2020-03-27-470</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/1994-08-05-55/&#xA7;4-1</li>
+            <li>lov/1994-08-05-55/&#xA7;4-3</li>
+            <li>forskrift/2020-03-27-470/&#xA7;20</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2020-08-06 16:10</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2020-1187</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i covid-19-forskriften</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om smitteverntiltak mv. ved koronautbruddet (covid-19-forskriften)</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Helse- og omsorgsdepartementet 6. august 2020 med hjemmel i lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer &#xA7; 4-1 f&#xF8;rste ledd bokstav c, jf. andre og sjette ledd, og &#xA7; 4-3, jf. forskrift 27. mars 2020 nr. 470 om smitteverntiltak mv. ved koronautbruddet (covid-19-forskriften) &#xA7; 20.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2020-08-06-1618</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om smitteverntiltak mv. ved koronautbruddet (covid-19-forskriften)<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2020-08-06-1618" id="dokument">
+      <h1>Forskrift om endring i forskrift om smitteverntiltak mv. ved koronautbruddet (covid-19-forskriften)</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2020-08-06-1618/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift 27. mars 2020 nr. 470 om smitteverntiltak mv. ved koronautbruddet (covid-19-forskriften) gj&#xF8;res f&#xF8;lgende endringer:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 5 fjerde ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">Personer som stiger p&#xE5; og av fart&#xF8;y med inntil 100 passasjerer og mannskap ombord i en havn i Norge, og som kun oppholder seg i fart&#xF8;yet under reisen, er unntatt fra karanteneplikten etter f&#xF8;rste ledd selv om fart&#xF8;yet under reisen har krysset Norges territorialgrenser. Dette gjelder likevel ikke dersom fart&#xF8;yet underveis har hatt ilandstigning eller ombordstigning av passasjerer eller mannskap i annen norsk havn eller i utenlandsk havn. I slike tilfeller omfattes cruiset av &#xA7; 10b.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 10b fjerde ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-3">Denne bestemmelsen gjelder ikke for norske fart&#xF8;y som foretar reiser omfattet av &#xA7; 5 fjerde ledd eller kystcruise som omfattes av &#xA7; 10a.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2020-08-06-1618/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Forskriften trer i kraft straks.</article>
+      </section>
+    </main>
+  </body>
+</html>

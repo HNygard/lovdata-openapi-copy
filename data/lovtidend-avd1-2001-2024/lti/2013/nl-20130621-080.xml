@@ -1,1 +1,74 @@
-<!DOCTYPE html><html lang="no"><head><title>Lov om endringer i helseregisterloven (Kreftregisteret)</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">LOV-2013-06-21-80</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/lov/2013-06-21-80</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Helse- og omsorgsdepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2013 hefte 9 s 1513</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">Kongen bestemmer.</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>lov/2001-05-18-24</li></ul></dd><dt class="legalArea">Rettsområde</dt><dd class="legalArea"><ul><li>Helse- og omsorgsrett &gt; Pasientrettigheter</li> <li>14.08</li> <li>IKT- og medierett &gt; Personopplysninger</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2013-06-21 15:35</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2013-0616</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endringslov til helseregisterloven</dd><dt class="title">Tittel</dt><dd class="title">Lov om endringer i helseregisterloven (Kreftregisteret)</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Prop.160 L (2012–2013), Innst.485 L (2012–2013), Lovvedtak 122 (2012–2013). Stortingets første og andre gangs behandling hhv. 17. og 21. juni 2013. Fremmet av Helse- og omsorgsdepartementet.</dd><dt class="refid">RefID</dt><dd class="refid">lov/2013-06-21-80</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Lov om endringer i helseregisterloven (Kreftregisteret)<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/lov/2013-06-21-80" id="dokument"><h1>Lov om endringer i helseregisterloven (Kreftregisteret)</h1><article class="defaultP" data-text-size="small">Endring i følgende lov:<ul class="defaultList" data-text-size="small"><li><article class="listArticle" data-text-size="small" id="punkt-1"><article class="legalP" id="punkt-1-ledd-1">Lov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger (helseregisterloven).</article></article></li></ul></article><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2013-06-21-80/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I lov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger gjøres følgende endringer:</article> <article class="defaultP" margin-top="true">§ 8 nytt sjuende ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-2">Kreftregisteret kan inneholde helseopplysninger om personer som har deltatt i undersøkelsesprogram for tidlig diagnose og kontroll for kreftsykdom. Ved negativt funn kan opplysninger om navn, fødselsnummer, adresse, bostedskommune og sivilstand registreres permanent, med mindre den registrerte reserverer seg mot det. Dersom den registrerte har reservert seg, skal opplysningene slettes etter at de er kvalitetssikret og senest seks måneder etter innsamlingen.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2013-06-21-80/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Loven gjelder fra det tidspunkt Kongen bestemmer. Endringen i helseregisterloven § 8 gjelder også for opplysninger som er innsamlet før loven trer i kraft.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Lov om endringer i helseregisterloven (Kreftregisteret)</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">LOV-2013-06-21-80</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/lov/2013-06-21-80</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Helse- og omsorgsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2013 hefte 9 s 1513</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">Kongen bestemmer.</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>lov/2001-05-18-24</li>
+          </ul>
+        </dd>
+        <dt class="legalArea">Rettsomr&#xE5;de</dt>
+        <dd class="legalArea">
+          <ul>
+            <li>Helse- og omsorgsrett &gt; Pasientrettigheter</li>
+            <li>14.08</li>
+            <li>IKT- og medierett &gt; Personopplysninger</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2013-06-21 15:35</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2013-0616</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endringslov til helseregisterloven</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Lov om endringer i helseregisterloven (Kreftregisteret)</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Prop.160 L (2012&#x2013;2013), Innst.485 L (2012&#x2013;2013), Lovvedtak 122 (2012&#x2013;2013). Stortingets f&#xF8;rste og andre gangs behandling hhv. 17. og 21. juni 2013. Fremmet av Helse- og omsorgsdepartementet.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">lov/2013-06-21-80</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Lov om endringer i helseregisterloven (Kreftregisteret)<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/lov/2013-06-21-80" id="dokument">
+      <h1>Lov om endringer i helseregisterloven (Kreftregisteret)</h1>
+      <article class="defaultP" data-text-size="small">Endring i f&#xF8;lgende lov:<ul class="defaultList" data-text-size="small"><li><article class="listArticle" data-text-size="small" id="punkt-1"><article class="legalP" id="punkt-1-ledd-1">Lov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger (helseregisterloven).</article></article></li></ul></article>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2013-06-21-80/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I lov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger gj&#xF8;res f&#xF8;lgende endringer:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 8 nytt sjuende ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">Kreftregisteret kan inneholde helseopplysninger om personer som har deltatt i unders&#xF8;kelsesprogram for tidlig diagnose og kontroll for kreftsykdom. Ved negativt funn kan opplysninger om navn, f&#xF8;dselsnummer, adresse, bostedskommune og sivilstand registreres permanent, med mindre den registrerte reserverer seg mot det. Dersom den registrerte har reservert seg, skal opplysningene slettes etter at de er kvalitetssikret og senest seks m&#xE5;neder etter innsamlingen.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2013-06-21-80/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Loven gjelder fra det tidspunkt Kongen bestemmer. Endringen i helseregisterloven &#xA7; 8 gjelder ogs&#xE5; for opplysninger som er innsamlet f&#xF8;r loven trer i kraft.</article>
+      </section>
+    </main>
+  </body>
+</html>

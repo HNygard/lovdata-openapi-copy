@@ -1,1 +1,83 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om samordning av personskadetrygd med ventetillegg fra folketrygden</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-1988-12-16-1133</dd><dt class="dokid">DokumentID</dt><dd class="dokid">SF/forskrift/1988-12-16-1133</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Arbeids- og inkluderingsdepartementet</li></ul></dd><dt class="subunit">Etat</dt><dd class="subunit"><ul><li>Pensjonsavd.</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 1988 1107</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">1989-01-01</dd><dt class="lastChangeInForce">Ikrafttredelse av siste endring</dt><dd class="lastChangeInForce">2020-01-01</dd><dt class="lastChangedBy">Sist endret ved</dt><dd class="lastChangedBy"><a href="forskrift/2019-12-20-2150">forskrift/2019-12-20-2150</a> fra 2020-01-01</dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li><a href="lov/1957-07-06-26/§30">lov/1957-07-06-26/§30</a></li></ul></dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Forskrift om samordning av personskadetrygd med ventetillegg</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om samordning av personskadetrygd med ventetillegg fra folketrygden</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> I medhold av lov av 6. juli 1957 om samordning av pensjons- og trygdeytelser (samordningsloven) § 30 fastsetter Sosialdepartementet 16. desember 1988 forskrift om samordning av personskadetrygd, krigspensjon og yrkesskadetrygd med ventetillegg fra folketrygden. <br /><strong>Endret</strong> ved <a href="forskrift/2019-12-20-2150">forskrift 20 des 2019 nr. 2150</a> (i kraft 1 jan 2020).</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/1988-12-16-1133</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li><a href="#dokument">Forskrift om samordning av personskadetrygd med ventetillegg fra folketrygden</a><ul class="tocSubUl"><li><a href="#paragraf-1">§ 1.</a></li><li><a href="#paragraf-2">§ 2.</a></li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="SF/forskrift/1988-12-16-1133" id="dokument"><h1>Forskrift om samordning av personskadetrygd med ventetillegg fra folketrygden</h1><article class="legalArticle" data-lovdata-URL="SF/forskrift/1988-12-16-1133/§1" data-name="§1" id="paragraf-1"><h2 class="legalArticleHeader"><span class="legalArticleValue">§ 1</span>.</h2><article class="legalP" id="paragraf-1-ledd-1">Personskadetrygden settes ned med ventetillegg fra folketrygden. Fradraget begrenses for grunnpensjonens del til et bereknet ventetillegg av det samordningsfradrag som gjøres etter bestemmelsen i <a href="lov/1957-07-06-26/§20">samordningslovens § 20</a> (i forhold til 3/4 av folketrygdens grunnbeløp).</article></article><article class="legalArticle" data-lovdata-URL="SF/forskrift/1988-12-16-1133/§2" data-name="§2" id="paragraf-2"><h2 class="legalArticleHeader"><span class="legalArticleValue">§ 2</span>.</h2><article class="legalP" id="paragraf-2-ledd-1">Endringen trer i kraft 1. januar 1989.</article></article></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om samordning av personskadetrygd med ventetillegg fra folketrygden</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-1988-12-16-1133</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">SF/forskrift/1988-12-16-1133</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Arbeids- og inkluderingsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="subunit">Etat</dt>
+        <dd class="subunit">
+          <ul>
+            <li>Pensjonsavd.</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 1988 1107</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">1989-01-01</dd>
+        <dt class="lastChangeInForce">Ikrafttredelse av siste endring</dt>
+        <dd class="lastChangeInForce">2020-01-01</dd>
+        <dt class="lastChangedBy">Sist endret ved</dt>
+        <dd class="lastChangedBy"><a href="forskrift/2019-12-20-2150">forskrift/2019-12-20-2150</a> fra 2020-01-01</dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>
+              <a href="lov/1957-07-06-26/&#xA7;30">lov/1957-07-06-26/&#xA7;30</a>
+            </li>
+          </ul>
+        </dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Forskrift om samordning av personskadetrygd med ventetillegg</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om samordning av personskadetrygd med ventetillegg fra folketrygden</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> I medhold av lov av 6. juli 1957 om samordning av pensjons- og trygdeytelser (samordningsloven) &#xA7; 30 fastsetter Sosialdepartementet 16. desember 1988 forskrift om samordning av personskadetrygd, krigspensjon og yrkesskadetrygd med ventetillegg fra folketrygden. <br/><strong>Endret</strong> ved <a href="forskrift/2019-12-20-2150">forskrift 20 des 2019 nr. 2150</a> (i kraft 1 jan 2020).</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/1988-12-16-1133</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>
+              <a href="#dokument">Forskrift om samordning av personskadetrygd med ventetillegg fra folketrygden</a>
+              <ul class="tocSubUl">
+                <li>
+                  <a href="#paragraf-1">&#xA7; 1.</a>
+                </li>
+                <li>
+                  <a href="#paragraf-2">&#xA7; 2.</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="SF/forskrift/1988-12-16-1133" id="dokument">
+      <h1>Forskrift om samordning av personskadetrygd med ventetillegg fra folketrygden</h1>
+      <article class="legalArticle" data-lovdata-URL="SF/forskrift/1988-12-16-1133/&#xA7;1" data-name="&#xA7;1" id="paragraf-1">
+        <h2 class="legalArticleHeader"><span class="legalArticleValue">&#xA7; 1</span>.</h2>
+        <article class="legalP" id="paragraf-1-ledd-1">Personskadetrygden settes ned med ventetillegg fra folketrygden. Fradraget begrenses for grunnpensjonens del til et bereknet ventetillegg av det samordningsfradrag som gj&#xF8;res etter bestemmelsen i <a href="lov/1957-07-06-26/&#xA7;20">samordningslovens &#xA7; 20</a> (i forhold til 3/4 av folketrygdens grunnbel&#xF8;p).</article>
+      </article>
+      <article class="legalArticle" data-lovdata-URL="SF/forskrift/1988-12-16-1133/&#xA7;2" data-name="&#xA7;2" id="paragraf-2">
+        <h2 class="legalArticleHeader"><span class="legalArticleValue">&#xA7; 2</span>.</h2>
+        <article class="legalP" id="paragraf-2-ledd-1">Endringen trer i kraft 1. januar 1989.</article>
+      </article>
+    </main>
+  </body>
+</html>

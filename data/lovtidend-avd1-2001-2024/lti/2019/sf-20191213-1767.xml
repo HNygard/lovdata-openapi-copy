@@ -1,1 +1,83 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift om nummerressurser for elektroniske kommunikasjonsnett og -tjenester (nummerforskriften)</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2019-12-13-1767</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2019-12-13-1767</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Kommunal- og moderniseringsdepartementet</li></ul></dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2020-01-01</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2004-02-16-426</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/2003-07-04-83/§7-1</li><li>forskrift/2019-06-21-788</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2019-12-16 16:30</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2019-1132</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i nummerforskriften</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om nummerressurser for elektroniske kommunikasjonsnett og -tjenester (nummerforskriften)</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Nasjonal kommunikasjonsmyndighet 13. desember 2019 med hjemmel i lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomloven) § 7-1 første ledd, jf. delegeringsvedtak 21. juni 2019 nr. 788.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2019-12-13-1767</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om nummerressurser for elektroniske kommunikasjonsnett og -tjenester (nummerforskriften)<ul class="tocSubUl"><li>I<ul class="tocSubUl"><li>§ 20f. Takstprinsipper ved anrop til visse spesialnummer</li></ul></li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2019-12-13-1767" id="dokument"><h1>Forskrift om endring i forskrift om nummerressurser for elektroniske kommunikasjonsnett og -tjenester (nummerforskriften)</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2019-12-13-1767/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift 16. februar 2004 nr. 426 om nummerressurser for elektroniske kommunikasjonsnett og -tjenester (nummerforskriften) gjøres følgende endringer:</article> <article class="defaultP" margin-top="true">§ 3 bokstav e) til h) skal lyde:<ul class="defaultList"><li data-li-identifier="e)" data-name="e)"><article class="listArticle" id="kapittel-1-ledd-1-punkt-1"><article class="legalP" id="kapittel-1-ledd-1-punkt-1-ledd-1"><i>fastnettnummer:</i> nummer fra nasjonal nummerplan som brukes til fasttelefontjeneste</article></article></li><li data-li-identifier="f)" data-name="f)"><article class="listArticle" id="kapittel-1-ledd-1-punkt-2"><article class="legalP" id="kapittel-1-ledd-1-punkt-2-ledd-1"><i>spesialnummer:</i> nummer fra nasjonal nummerplan som brukes til særskilte tjenester</article></article></li><li data-li-identifier="g)" data-name="g)"><article class="listArticle" id="kapittel-1-ledd-1-punkt-3"><article class="legalP" id="kapittel-1-ledd-1-punkt-3-ledd-1"><i>mobilnummer:</i> nummer fra nasjonal nummerplan som brukes til mobiltelefontjeneste med tilleggstjenester</article></article></li><li data-li-identifier="h)" data-name="h)"><article class="listArticle" id="kapittel-1-ledd-1-punkt-4"><article class="legalP" id="kapittel-1-ledd-1-punkt-4-ledd-1"><i>nummer for maskin-til-maskin og tingenes Internett (M2M/IoT) kommunikasjon:</i> nummer fra nasjonal nummerplan som brukes til automatiserte eller delautomatiserte kommunikasjonstjenester for tale eller datatrafikk der nummeret har liten eller ingen selvstendig betydning for brukeren</article></article></li></ul></article> <article class="defaultP" margin-top="true">§ 16 annet ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-2">Hovedkategoriene i nasjonal nummerplan for telefon m.m. (E.164) er følgende:<p class="leddfortsettelse">00: Internasjonalt prefiks</p><p class="leddfortsettelse">01: Reservert for fremtidige endringer i nummerplanen</p><p class="leddfortsettelse">02000–09999: 5-sifrede spesialnummer</p><p class="leddfortsettelse">100–115: 3-sifrede standardiserte spesialnummer</p><p class="leddfortsettelse">116&#xa0;000–116&#xa0;999: 6-sifrede EØS-harmoniserte nummer</p><p class="leddfortsettelse">117–179: 3-sifrede standardiserte spesialnummer</p><p class="leddfortsettelse">1800–1899: 4-sifrede nummer for nummeropplysningstjenester</p><p class="leddfortsettelse">190–199: 3-sifrede tilbyderspesifikke spesialnummer</p><p class="leddfortsettelse">20&#xa0;00&#xa0;00&#xa0;00–39&#xa0;99&#xa0;99&#xa0;99: 8-sifrede fastnettnummer</p><p class="leddfortsettelse">40&#xa0;00&#xa0;00&#xa0;00–49&#xa0;99&#xa0;99&#xa0;99: 8-sifrede mobilnummer</p><p class="leddfortsettelse">50&#xa0;00&#xa0;00&#xa0;00–57&#xa0;99&#xa0;99&#xa0;99: 8-sifrede fastnettnummer</p><p class="leddfortsettelse">58&#xa0;00&#xa0;00&#xa0;00&#xa0;00&#xa0;00–58&#xa0;99&#xa0;99&#xa0;99&#xa0;99&#xa0;99: 12-sifrede nummer for M2M/IoT-kommunikasjon 59&#xa0;00&#xa0;00&#xa0;00–59&#xa0;99&#xa0; 99&#xa0;99: 8-sifrede nummer for M2M/IoT-kommunikasjon</p><p class="leddfortsettelse">60&#xa0;00&#xa0;00&#xa0;00–79&#xa0;99&#xa0;99&#xa0;99: 8-sifrede fastnettnummer</p><p class="leddfortsettelse">800&#xa0;00&#xa0;000–899&#xa0;99&#xa0;999: 8-sifrede spesialnummerserier</p><p class="leddfortsettelse">90&#xa0;00&#xa0;00&#xa0;00–99&#xa0;99&#xa0;99&#xa0;99: 8-sifrede mobilnummer.</p></article> <article class="defaultP" margin-top="true">Overskriften til § 20f skal lyde:</article><article class="futureLegalArticle" data-name="§20f" id="kapittel-1-foreslåttparagraf-1"><span class="futureLegalArticleHeader"><span class="legalArticleValue">§ 20f</span>. <span class="legalArticleTitle">Takstprinsipper ved anrop til visse spesialnummer</span></span></article> <article class="defaultP" margin-top="true">§ 20f første ledd bokstav b skal lyde:</article><article class="legalP" id="kapittel-1-ledd-3">02000–09999, 100–109, 114–115, 117–179, 190–199, 810&#xa0;00&#xa0;000–810&#xa0;99&#xa0;999, 815&#xa0;00&#xa0;000–815&#xa0;99&#xa0;999, 850&#xa0;00&#xa0; 000–859&#xa0;99&#xa0;999: Anrop til nummer i disse seriene skal ikke koste mer enn hva anrop til mobilnummer koster for anropende sluttbruker. Dersom anrop ikke faktureres basert på faktisk forbruk, skal samme faktureringsmetode som ellers benyttes legges til grunn for de nevnte nummerseriene. Dette gjelder både for anrop fra fastnett og mobilnett.</article> <article class="defaultP" margin-top="true">Overskriften til § 22 skal lyde</article><article class="legalP" id="kapittel-1-ledd-4"><i>Tillatelse og bruk av 5-sifrede spesialnummer (02000–09999)</i></article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2019-12-13-1767/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft 1. januar 2020.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift om nummerressurser for elektroniske kommunikasjonsnett og -tjenester (nummerforskriften)</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2019-12-13-1767</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2019-12-13-1767</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Kommunal- og moderniseringsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2020-01-01</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2004-02-16-426</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/2003-07-04-83/&#xA7;7-1</li>
+            <li>forskrift/2019-06-21-788</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2019-12-16 16:30</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2019-1132</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i nummerforskriften</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om nummerressurser for elektroniske kommunikasjonsnett og -tjenester (nummerforskriften)</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Nasjonal kommunikasjonsmyndighet 13. desember 2019 med hjemmel i lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomloven) &#xA7; 7-1 f&#xF8;rste ledd, jf. delegeringsvedtak 21. juni 2019 nr. 788.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2019-12-13-1767</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om nummerressurser for elektroniske kommunikasjonsnett og -tjenester (nummerforskriften)<ul class="tocSubUl"><li>I<ul class="tocSubUl"><li>&#xA7; 20f. Takstprinsipper ved anrop til visse spesialnummer</li></ul></li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2019-12-13-1767" id="dokument">
+      <h1>Forskrift om endring i forskrift om nummerressurser for elektroniske kommunikasjonsnett og -tjenester (nummerforskriften)</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2019-12-13-1767/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift 16. februar 2004 nr. 426 om nummerressurser for elektroniske kommunikasjonsnett og -tjenester (nummerforskriften) gj&#xF8;res f&#xF8;lgende endringer:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 3 bokstav e) til h) skal lyde:<ul class="defaultList"><li data-li-identifier="e)" data-name="e)"><article class="listArticle" id="kapittel-1-ledd-1-punkt-1"><article class="legalP" id="kapittel-1-ledd-1-punkt-1-ledd-1"><i>fastnettnummer:</i> nummer fra nasjonal nummerplan som brukes til fasttelefontjeneste</article></article></li><li data-li-identifier="f)" data-name="f)"><article class="listArticle" id="kapittel-1-ledd-1-punkt-2"><article class="legalP" id="kapittel-1-ledd-1-punkt-2-ledd-1"><i>spesialnummer:</i> nummer fra nasjonal nummerplan som brukes til s&#xE6;rskilte tjenester</article></article></li><li data-li-identifier="g)" data-name="g)"><article class="listArticle" id="kapittel-1-ledd-1-punkt-3"><article class="legalP" id="kapittel-1-ledd-1-punkt-3-ledd-1"><i>mobilnummer:</i> nummer fra nasjonal nummerplan som brukes til mobiltelefontjeneste med tilleggstjenester</article></article></li><li data-li-identifier="h)" data-name="h)"><article class="listArticle" id="kapittel-1-ledd-1-punkt-4"><article class="legalP" id="kapittel-1-ledd-1-punkt-4-ledd-1"><i>nummer for maskin-til-maskin og tingenes Internett (M2M/IoT) kommunikasjon:</i> nummer fra nasjonal nummerplan som brukes til automatiserte eller delautomatiserte kommunikasjonstjenester for tale eller datatrafikk der nummeret har liten eller ingen selvstendig betydning for brukeren</article></article></li></ul></article>
+        <article class="defaultP" margin-top="true">&#xA7; 16 annet ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">Hovedkategoriene i nasjonal nummerplan for telefon m.m. (E.164) er f&#xF8;lgende:<p class="leddfortsettelse">00: Internasjonalt prefiks</p><p class="leddfortsettelse">01: Reservert for fremtidige endringer i nummerplanen</p><p class="leddfortsettelse">02000&#x2013;09999: 5-sifrede spesialnummer</p><p class="leddfortsettelse">100&#x2013;115: 3-sifrede standardiserte spesialnummer</p><p class="leddfortsettelse">116&#xA0;000&#x2013;116&#xA0;999: 6-sifrede E&#xD8;S-harmoniserte nummer</p><p class="leddfortsettelse">117&#x2013;179: 3-sifrede standardiserte spesialnummer</p><p class="leddfortsettelse">1800&#x2013;1899: 4-sifrede nummer for nummeropplysningstjenester</p><p class="leddfortsettelse">190&#x2013;199: 3-sifrede tilbyderspesifikke spesialnummer</p><p class="leddfortsettelse">20&#xA0;00&#xA0;00&#xA0;00&#x2013;39&#xA0;99&#xA0;99&#xA0;99: 8-sifrede fastnettnummer</p><p class="leddfortsettelse">40&#xA0;00&#xA0;00&#xA0;00&#x2013;49&#xA0;99&#xA0;99&#xA0;99: 8-sifrede mobilnummer</p><p class="leddfortsettelse">50&#xA0;00&#xA0;00&#xA0;00&#x2013;57&#xA0;99&#xA0;99&#xA0;99: 8-sifrede fastnettnummer</p><p class="leddfortsettelse">58&#xA0;00&#xA0;00&#xA0;00&#xA0;00&#xA0;00&#x2013;58&#xA0;99&#xA0;99&#xA0;99&#xA0;99&#xA0;99: 12-sifrede nummer for M2M/IoT-kommunikasjon 59&#xA0;00&#xA0;00&#xA0;00&#x2013;59&#xA0;99&#xA0; 99&#xA0;99: 8-sifrede nummer for M2M/IoT-kommunikasjon</p><p class="leddfortsettelse">60&#xA0;00&#xA0;00&#xA0;00&#x2013;79&#xA0;99&#xA0;99&#xA0;99: 8-sifrede fastnettnummer</p><p class="leddfortsettelse">800&#xA0;00&#xA0;000&#x2013;899&#xA0;99&#xA0;999: 8-sifrede spesialnummerserier</p><p class="leddfortsettelse">90&#xA0;00&#xA0;00&#xA0;00&#x2013;99&#xA0;99&#xA0;99&#xA0;99: 8-sifrede mobilnummer.</p></article>
+        <article class="defaultP" margin-top="true">Overskriften til &#xA7; 20f skal lyde:</article>
+        <article class="futureLegalArticle" data-name="&#xA7;20f" id="kapittel-1-foresl&#xE5;ttparagraf-1">
+          <span class="futureLegalArticleHeader"><span class="legalArticleValue">&#xA7; 20f</span>. <span class="legalArticleTitle">Takstprinsipper ved anrop til visse spesialnummer</span></span>
+        </article>
+        <article class="defaultP" margin-top="true">&#xA7; 20f f&#xF8;rste ledd bokstav b skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-3">02000&#x2013;09999, 100&#x2013;109, 114&#x2013;115, 117&#x2013;179, 190&#x2013;199, 810&#xA0;00&#xA0;000&#x2013;810&#xA0;99&#xA0;999, 815&#xA0;00&#xA0;000&#x2013;815&#xA0;99&#xA0;999, 850&#xA0;00&#xA0; 000&#x2013;859&#xA0;99&#xA0;999: Anrop til nummer i disse seriene skal ikke koste mer enn hva anrop til mobilnummer koster for anropende sluttbruker. Dersom anrop ikke faktureres basert p&#xE5; faktisk forbruk, skal samme faktureringsmetode som ellers benyttes legges til grunn for de nevnte nummerseriene. Dette gjelder b&#xE5;de for anrop fra fastnett og mobilnett.</article>
+        <article class="defaultP" margin-top="true">Overskriften til &#xA7; 22 skal lyde</article>
+        <article class="legalP" id="kapittel-1-ledd-4">
+          <i>Tillatelse og bruk av 5-sifrede spesialnummer (02000&#x2013;09999)</i>
+        </article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2019-12-13-1767/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft 1. januar 2020.</article>
+      </section>
+    </main>
+  </body>
+</html>

@@ -1,1 +1,83 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift om prospekt for verdipapirfond.</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2001-07-31-864</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2001-07-31-864</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Finansdepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2001 hefte 9</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2001-08-01</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/1994-07-28-750</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/1981-06-12-52/§1-4</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2001-08-03</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2001-0932</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i forskrift om verdipapirfondprospekt</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om prospekt for verdipapirfond.</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Fastsatt av Finansdepartementet 31. juli 2001 med hjemmel i lov av 12. juni 1981 nr. 52 om verdipapirfond § 1-4 annet ledd, jf. EØS-avtalen art. 36 og vedlegg IX pkt. 30 (direktiv 85/611/EØF og direktiv 88/220/EØF).</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2001-07-31-864</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om prospekt for verdipapirfond.<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2001-07-31-864" id="dokument"><h1>Forskrift om endring i forskrift om prospekt for verdipapirfond.</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2001-07-31-864/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift av 28. juli 1994 nr. 750 om prospekt for verdipapirfond gjøres følgende endringer:</article> <article class="defaultP" margin-top="true">Hjemmelsfeltet skal lyde:</article><article class="legalP" id="kapittel-1-ledd-2">Fastsatt av Finansdepartementet 28. juli 1994 med hjemmel i lov av 12. juni 1981 nr. 52 om verdipapirfond § 7-2 fjerde ledd, jf. EØS-avtalens art. 36 og vedlegg IX pkt. 30 (direktiv 85/611/EØF og direktiv 88/220/EØF).</article> <article class="defaultP" margin-top="true">§ 3 nr. 2.6 annet strekpunkt skal lyde:</article><article class="marginIdArticle" id="kapittel-1-punkt-1"><ul class="defaultList"><li data-li-identifier="-" data-name="-"><article class="listArticle" id="kapittel-1-punkt-1-punkt-1"><article class="legalP" id="kapittel-1-punkt-1-punkt-1-ledd-1">under hvilke omstendigheter fondet kan avvikles eller overføres til et annet forvaltningsselskap og om meddelelse til andelseierne, jf. vpfl. § 4-13.</article></article></li></ul></article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2001-07-31-864/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft 1. august 2001.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift om prospekt for verdipapirfond.</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2001-07-31-864</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2001-07-31-864</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Finansdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2001 hefte 9</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2001-08-01</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/1994-07-28-750</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/1981-06-12-52/&#xA7;1-4</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2001-08-03</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2001-0932</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i forskrift om verdipapirfondprospekt</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om prospekt for verdipapirfond.</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Fastsatt av Finansdepartementet 31. juli 2001 med hjemmel i lov av 12. juni 1981 nr. 52 om verdipapirfond &#xA7; 1-4 annet ledd, jf. E&#xD8;S-avtalen art. 36 og vedlegg IX pkt. 30 (direktiv 85/611/E&#xD8;F og direktiv 88/220/E&#xD8;F).</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2001-07-31-864</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om prospekt for verdipapirfond.<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2001-07-31-864" id="dokument">
+      <h1>Forskrift om endring i forskrift om prospekt for verdipapirfond.</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2001-07-31-864/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift av 28. juli 1994 nr. 750 om prospekt for verdipapirfond gj&#xF8;res f&#xF8;lgende endringer:</article>
+        <article class="defaultP" margin-top="true">Hjemmelsfeltet skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">Fastsatt av Finansdepartementet 28. juli 1994 med hjemmel i lov av 12. juni 1981 nr. 52 om verdipapirfond &#xA7; 7-2 fjerde ledd, jf. E&#xD8;S-avtalens art. 36 og vedlegg IX pkt. 30 (direktiv 85/611/E&#xD8;F og direktiv 88/220/E&#xD8;F).</article>
+        <article class="defaultP" margin-top="true">&#xA7; 3 nr. 2.6 annet strekpunkt skal lyde:</article>
+        <article class="marginIdArticle" id="kapittel-1-punkt-1">
+          <ul class="defaultList">
+            <li data-li-identifier="-" data-name="-">
+              <article class="listArticle" id="kapittel-1-punkt-1-punkt-1">
+                <article class="legalP" id="kapittel-1-punkt-1-punkt-1-ledd-1">under hvilke omstendigheter fondet kan avvikles eller overf&#xF8;res til et annet forvaltningsselskap og om meddelelse til andelseierne, jf. vpfl. &#xA7; 4-13.</article>
+              </article>
+            </li>
+          </ul>
+        </article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2001-07-31-864/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft 1. august 2001.</article>
+      </section>
+    </main>
+  </body>
+</html>

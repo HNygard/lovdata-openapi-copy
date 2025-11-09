@@ -1,1 +1,73 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift om gjennomføringen av bestemmelsene om inntektsprøving av forskott.</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2003-12-22-1777</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2003-12-22-1777</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Sosialdepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2003 hefte 18 s 3006</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2004-01-01</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2003-02-06-125</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/1989-02-17-2/§4</li><li>lov/1989-02-17-2/§5</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2004-01-06</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2003-1525</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i forskr om inntektsprøving av forskott</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om gjennomføringen av bestemmelsene om inntektsprøving av forskott.</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Fastsatt av Sosialdepartementet 22. desember 2003 med hjemmel i lov av 17. februar 1989 nr. 2 om bidragsforskott (forskotteringsloven) § 4 tredje ledd og § 5 tredje ledd.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2003-12-22-1777</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om gjennomføringen av bestemmelsene om inntektsprøving av forskott.<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2003-12-22-1777" id="dokument"><h1>Forskrift om endring i forskrift om gjennomføringen av bestemmelsene om inntektsprøving av forskott.</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2003-12-22-1777/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift av 6. februar 2003 nr. 125 om gjennomføringen av bestemmelsene om inntektsprøving av forskott gjøres følgende endring:</article> <article class="defaultP" margin-top="true">§ 3 bokstavene a og b skal lyde:<ul class="defaultList"><li data-li-identifier="a." data-name="a."><article class="listArticle" id="kapittel-1-ledd-1-punkt-1"><article class="legalP" id="kapittel-1-ledd-1-punkt-1-ledd-1">100 prosent av fullt forskott, når forskottsmottakers årsinntekt ikke overstiger kr 128.000, jf. § 5 første ledd.</article></article></li><li data-li-identifier="b." data-name="b."><article class="listArticle" id="kapittel-1-ledd-1-punkt-2"><article class="legalP" id="kapittel-1-ledd-1-punkt-2-ledd-1">75 prosent av fullt forskott, når forskottsmottakers årsinntekt er høyere enn kr 128.000, men ikke høyere enn inntektsgrensen for full forsørgelsesevne etter § 5. Med ett barn skal denne grensen være kr 237.700 for en enslig forskottsmottaker og kr 208.300 for en mottaker som bor sammen med ektefelle eller samboer. Grensen økes med kr 35.200 for hvert eget barn utover ett.</article></article></li></ul></article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2003-12-22-1777/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Endringen trer i kraft 1. januar 2004.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift om gjennomf&#xF8;ringen av bestemmelsene om inntektspr&#xF8;ving av forskott.</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2003-12-22-1777</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2003-12-22-1777</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Sosialdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2003 hefte 18 s 3006</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2004-01-01</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2003-02-06-125</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/1989-02-17-2/&#xA7;4</li>
+            <li>lov/1989-02-17-2/&#xA7;5</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2004-01-06</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2003-1525</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i forskr om inntektspr&#xF8;ving av forskott</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om gjennomf&#xF8;ringen av bestemmelsene om inntektspr&#xF8;ving av forskott.</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Fastsatt av Sosialdepartementet 22. desember 2003 med hjemmel i lov av 17. februar 1989 nr. 2 om bidragsforskott (forskotteringsloven) &#xA7; 4 tredje ledd og &#xA7; 5 tredje ledd.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2003-12-22-1777</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om gjennomf&#xF8;ringen av bestemmelsene om inntektspr&#xF8;ving av forskott.<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2003-12-22-1777" id="dokument">
+      <h1>Forskrift om endring i forskrift om gjennomf&#xF8;ringen av bestemmelsene om inntektspr&#xF8;ving av forskott.</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2003-12-22-1777/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift av 6. februar 2003 nr. 125 om gjennomf&#xF8;ringen av bestemmelsene om inntektspr&#xF8;ving av forskott gj&#xF8;res f&#xF8;lgende endring:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 3 bokstavene a og b skal lyde:<ul class="defaultList"><li data-li-identifier="a." data-name="a."><article class="listArticle" id="kapittel-1-ledd-1-punkt-1"><article class="legalP" id="kapittel-1-ledd-1-punkt-1-ledd-1">100 prosent av fullt forskott, n&#xE5;r forskottsmottakers &#xE5;rsinntekt ikke overstiger kr 128.000, jf. &#xA7; 5 f&#xF8;rste ledd.</article></article></li><li data-li-identifier="b." data-name="b."><article class="listArticle" id="kapittel-1-ledd-1-punkt-2"><article class="legalP" id="kapittel-1-ledd-1-punkt-2-ledd-1">75 prosent av fullt forskott, n&#xE5;r forskottsmottakers &#xE5;rsinntekt er h&#xF8;yere enn kr 128.000, men ikke h&#xF8;yere enn inntektsgrensen for full fors&#xF8;rgelsesevne etter &#xA7; 5. Med ett barn skal denne grensen v&#xE6;re kr 237.700 for en enslig forskottsmottaker og kr 208.300 for en mottaker som bor sammen med ektefelle eller samboer. Grensen &#xF8;kes med kr 35.200 for hvert eget barn utover ett.</article></article></li></ul></article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2003-12-22-1777/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Endringen trer i kraft 1. januar 2004.</article>
+      </section>
+    </main>
+  </body>
+</html>

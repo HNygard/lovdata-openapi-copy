@@ -1,1 +1,57 @@
-<!DOCTYPE html><html lang="no"><head><title>Res. om Kongevaabenet.</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-1905-12-30-1</dd><dt class="dokid">DokumentID</dt><dd class="dokid">SF/forskrift/1905-12-30-1</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Utenriksdepartementet</li></ul></dd><dt class="subunit">Etat</dt><dd class="subunit"><ul><li>Protokollavd.</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">II 1905 s 562</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">1905-12-30</dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Res. om Kongevaabenet</dd><dt class="title">Tittel</dt><dd class="title">Res. om Kongevaabenet.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/1905-12-30-1</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li><a href="#dokument">Res. om Kongevaabenet.</a></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="SF/forskrift/1905-12-30-1" id="dokument"><h1>Res. om Kongevaabenet.</h1><article class="legalP" id="ledd-1">Kongelig Resolution, hvorved bestemmes, at det til offentlig Brug bestemte Kongevaaben skal – som i et fremlagt Udkast – bestaa af Rigsvaabenets Skjold<sup class="footnotereference" data-footnotereferencevalue="1" data-unique-footnote-counter="1">1</sup> paa den kongelige Hermelinskaabe, der holdes af den norske Kongekrone. Kongevaabenets Skjold er omgivet af St. Olafsordenens Kjede. Kaaben og Kronens Hætte er purpurfarvet</article><footer class="footnotes"><article class="footnote" data-name="1" data-unique-footnote-counter="1"><span class="footnoteLabel">1</span> Jf. <a href="forskrift/1937-03-19-3728">res. 19. mars 1937 nr. 3728</a>.</article></footer></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Res. om Kongevaabenet.</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-1905-12-30-1</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">SF/forskrift/1905-12-30-1</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Utenriksdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="subunit">Etat</dt>
+        <dd class="subunit">
+          <ul>
+            <li>Protokollavd.</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">II 1905 s 562</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">1905-12-30</dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Res. om Kongevaabenet</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Res. om Kongevaabenet.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/1905-12-30-1</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>
+              <a href="#dokument">Res. om Kongevaabenet.</a>
+            </li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="SF/forskrift/1905-12-30-1" id="dokument">
+      <h1>Res. om Kongevaabenet.</h1>
+      <article class="legalP" id="ledd-1">Kongelig Resolution, hvorved bestemmes, at det til offentlig Brug bestemte Kongevaaben skal &#x2013; som i et fremlagt Udkast &#x2013; bestaa af Rigsvaabenets Skjold<sup class="footnotereference" data-footnotereferencevalue="1" data-unique-footnote-counter="1">1</sup> paa den kongelige Hermelinskaabe, der holdes af den norske Kongekrone. Kongevaabenets Skjold er omgivet af St. Olafsordenens Kjede. Kaaben og Kronens H&#xE6;tte er purpurfarvet</article>
+      <footer class="footnotes">
+        <article class="footnote" data-name="1" data-unique-footnote-counter="1"><span class="footnoteLabel">1</span> Jf. <a href="forskrift/1937-03-19-3728">res. 19. mars 1937 nr. 3728</a>.</article>
+      </footer>
+    </main>
+  </body>
+</html>

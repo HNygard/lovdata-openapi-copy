@@ -1,1 +1,69 @@
-<!DOCTYPE html><html lang="no"><head><title>Lov om endringer i pasient- og brukerrettighetsloven (utvidet rett til brukerstyrt personlig assistanse)</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">LOV-2020-06-19-79</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/lov/2020-06-19-79</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Helse- og omsorgsdepartementet</li></ul></dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">Kongen bestemmer</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>lov/1999-07-02-63</li></ul></dd><dt class="legalArea">Rettsområde</dt><dd class="legalArea"><ul><li>Helse- og omsorgsrett &gt; Pasientrettigheter</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2020-06-19 12:30</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2020-0834</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endringslov til pasient- og brukerrettighetsloven (utvidet rett til brukerstyrt personlig assistanse)</dd><dt class="title">Tittel</dt><dd class="title">Lov om endringer i pasient- og brukerrettighetsloven (utvidet rett til brukerstyrt personlig assistanse)</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Prop.93 L (2019–2020), Innst.316 L (2019–2020), Lovvedtak 112 (2019–2020). Stortingets første og andre gangs behandling hhv. 3. og 8. juni 2020. Fremmet av Helse- og omsorgsdepartementet.</dd><dt class="refid">RefID</dt><dd class="refid">lov/2020-06-19-79</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Lov om endringer i pasient- og brukerrettighetsloven (utvidet rett til brukerstyrt personlig assistanse)<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/lov/2020-06-19-79" id="dokument"><h1>Lov om endringer i pasient- og brukerrettighetsloven (utvidet rett til brukerstyrt personlig assistanse)</h1><article class="defaultP" data-text-size="small">Endringer i følgende lov:<ul class="defaultList" data-text-size="small"><li><article class="listArticle" data-text-size="small" id="punkt-1"><article class="legalP" id="punkt-1-ledd-1">Lov 2. juli 1999 nr. 63 om pasient- og brukerrettigheter (pasient- og brukerrettighetsloven).</article></article></li></ul></article><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2020-06-19-79/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="defaultP">I lov 2. juli 1999 nr. 63 om pasient- og brukerrettigheter skal § 2-1 d første ledd lyde:</article><article class="legalP" id="kapittel-1-ledd-1">Personer under 67 år med langvarig og stort behov for personlig assistanse etter helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 bokstav b har rett til å få slike tjenester organisert som brukerstyrt personlig assistanse. Retten omfatter avlastningstiltak etter helse- og omsorgstjenesteloven § 3-6 første ledd nr. 2 for personer med foreldreansvar for hjemmeboende barn under 18 år med nedsatt funksjonsevne. Helsetjenester i avlastningstiltak omfattes ikke. Retten omfatter også personer over 67 år som før fylte 67 år har fått innvilget brukerstyrt personlig assistanse etter første punktum.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2020-06-19-79/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Loven gjelder fra den tid Kongen bestemmer.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Lov om endringer i pasient- og brukerrettighetsloven (utvidet rett til brukerstyrt personlig assistanse)</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">LOV-2020-06-19-79</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/lov/2020-06-19-79</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Helse- og omsorgsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">Kongen bestemmer</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>lov/1999-07-02-63</li>
+          </ul>
+        </dd>
+        <dt class="legalArea">Rettsomr&#xE5;de</dt>
+        <dd class="legalArea">
+          <ul>
+            <li>Helse- og omsorgsrett &gt; Pasientrettigheter</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2020-06-19 12:30</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2020-0834</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endringslov til pasient- og brukerrettighetsloven (utvidet rett til brukerstyrt personlig assistanse)</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Lov om endringer i pasient- og brukerrettighetsloven (utvidet rett til brukerstyrt personlig assistanse)</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Prop.93 L (2019&#x2013;2020), Innst.316 L (2019&#x2013;2020), Lovvedtak 112 (2019&#x2013;2020). Stortingets f&#xF8;rste og andre gangs behandling hhv. 3. og 8. juni 2020. Fremmet av Helse- og omsorgsdepartementet.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">lov/2020-06-19-79</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Lov om endringer i pasient- og brukerrettighetsloven (utvidet rett til brukerstyrt personlig assistanse)<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/lov/2020-06-19-79" id="dokument">
+      <h1>Lov om endringer i pasient- og brukerrettighetsloven (utvidet rett til brukerstyrt personlig assistanse)</h1>
+      <article class="defaultP" data-text-size="small">Endringer i f&#xF8;lgende lov:<ul class="defaultList" data-text-size="small"><li><article class="listArticle" data-text-size="small" id="punkt-1"><article class="legalP" id="punkt-1-ledd-1">Lov 2. juli 1999 nr. 63 om pasient- og brukerrettigheter (pasient- og brukerrettighetsloven).</article></article></li></ul></article>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2020-06-19-79/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="defaultP">I lov 2. juli 1999 nr. 63 om pasient- og brukerrettigheter skal &#xA7; 2-1 d f&#xF8;rste ledd lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-1">Personer under 67 &#xE5;r med langvarig og stort behov for personlig assistanse etter helse- og omsorgstjenesteloven &#xA7; 3-2 f&#xF8;rste ledd nr. 6 bokstav b har rett til &#xE5; f&#xE5; slike tjenester organisert som brukerstyrt personlig assistanse. Retten omfatter avlastningstiltak etter helse- og omsorgstjenesteloven &#xA7; 3-6 f&#xF8;rste ledd nr. 2 for personer med foreldreansvar for hjemmeboende barn under 18 &#xE5;r med nedsatt funksjonsevne. Helsetjenester i avlastningstiltak omfattes ikke. Retten omfatter ogs&#xE5; personer over 67 &#xE5;r som f&#xF8;r fylte 67 &#xE5;r har f&#xE5;tt innvilget brukerstyrt personlig assistanse etter f&#xF8;rste punktum.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2020-06-19-79/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Loven gjelder fra den tid Kongen bestemmer.</article>
+      </section>
+    </main>
+  </body>
+</html>

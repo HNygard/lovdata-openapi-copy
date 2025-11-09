@@ -1,1 +1,64 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om Norsk Lysningsblad</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-1948-06-22-1</dd><dt class="dokid">DokumentID</dt><dd class="dokid">SF/forskrift/1948-06-22-1</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Digitaliserings- og forvaltningsdepartementet</li></ul></dd><dt class="subunit">Etat</dt><dd class="subunit"><ul><li>Avdeling for forvaltningsutvikling</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">II 1948 s 321</dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li><a href="lov/1946-10-11-1/§3">lov/1946-10-11-1/§3</a></li></ul></dd><dt class="lastupdated">Rettet</dt><dd class="lastupdated">2024-01-02 (departementstilhørighet)</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Forskrift om Norsk Lysningsblad</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om Norsk Lysningsblad</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Skrivelse fra Justisdepartementet.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/1948-06-22-1</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li><a href="#dokument">Forskrift om Norsk Lysningsblad</a></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="SF/forskrift/1948-06-22-1" id="dokument"><h1>Forskrift om Norsk Lysningsblad</h1><article class="legalP" id="ledd-1">I medhold av Forskrifter for Norsk Lysningsblad avsnitt II punkt 3, fastsatt av Justisdepartementet i henhold til lov om Norsk Lysningsblad av 11. oktober 1946 § 3, jfr. kgl.res. av 5. desember 1947, bestemmes at kunngjøring av ledig tjeneste eller stilling i frivillige organisasjoner kan inntas i Norsk Lysningsblad når det av kunngjøringen framgår at innehaveren må være en ordinert prest eller at det vil bli søkt om ordinasjonsløyve.</article></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om Norsk Lysningsblad</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-1948-06-22-1</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">SF/forskrift/1948-06-22-1</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Digitaliserings- og forvaltningsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="subunit">Etat</dt>
+        <dd class="subunit">
+          <ul>
+            <li>Avdeling for forvaltningsutvikling</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">II 1948 s 321</dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>
+              <a href="lov/1946-10-11-1/&#xA7;3">lov/1946-10-11-1/&#xA7;3</a>
+            </li>
+          </ul>
+        </dd>
+        <dt class="lastupdated">Rettet</dt>
+        <dd class="lastupdated">2024-01-02 (departementstilh&#xF8;righet)</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Forskrift om Norsk Lysningsblad</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om Norsk Lysningsblad</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Skrivelse fra Justisdepartementet.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/1948-06-22-1</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>
+              <a href="#dokument">Forskrift om Norsk Lysningsblad</a>
+            </li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="SF/forskrift/1948-06-22-1" id="dokument">
+      <h1>Forskrift om Norsk Lysningsblad</h1>
+      <article class="legalP" id="ledd-1">I medhold av Forskrifter for Norsk Lysningsblad avsnitt II punkt 3, fastsatt av Justisdepartementet i henhold til lov om Norsk Lysningsblad av 11. oktober 1946 &#xA7; 3, jfr. kgl.res. av 5. desember 1947, bestemmes at kunngj&#xF8;ring av ledig tjeneste eller stilling i frivillige organisasjoner kan inntas i Norsk Lysningsblad n&#xE5;r det av kunngj&#xF8;ringen framg&#xE5;r at innehaveren m&#xE5; v&#xE6;re en ordinert prest eller at det vil bli s&#xF8;kt om ordinasjonsl&#xF8;yve.</article>
+    </main>
+  </body>
+</html>

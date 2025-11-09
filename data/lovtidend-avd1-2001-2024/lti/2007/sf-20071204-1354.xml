@@ -1,1 +1,80 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om ligningsmyndigheter og skatteoppkrever for Svalbard</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2007-12-04-1354</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2007-12-04-1354</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Finansdepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2007 hefte 12 s 1648</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2008-01-01</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/1997-12-12-1296</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/1996-11-29-68/§4-2</li><li>lov/1996-11-29-68/§5-3</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2007-12-07 14:05</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2007-1048</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Forskrift om ligning og skatt på Svalbard</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om ligningsmyndigheter og skatteoppkrever for Svalbard</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Finansdepartementet 4. desember 2007 med hjemmel i lov 29. november 1996 nr. 68 om skatt til Svalbard § 4-2 og § 5-3.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2007-12-04-1354</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om ligningsmyndigheter og skatteoppkrever for Svalbard<ul class="tocSubUl"><li>I<ul class="tocSubUl"><li>§ 1. Ligningsmyndigheter for Svalbard</li><li>§ 2. Skatteoppkrever for Svalbard</li></ul></li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2007-12-04-1354" id="dokument"><h1>Forskrift om ligningsmyndigheter og skatteoppkrever for Svalbard</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2007-12-04-1354/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalArticle" data-lovdata-URL="LTI/forskrift/2007-12-04-1354/§1" data-name="§1" id="kapittel-1-paragraf-1"><h3 class="legalArticleHeader"><span class="legalArticleValue">§ 1</span>. <span class="legalArticleTitle">Ligningsmyndigheter for Svalbard</span></h3><article class="legalP" id="kapittel-1-paragraf-1-ledd-1">Skattekontoret skal ha en kontorenhet lokalisert på Svalbard.</article><article class="legalP" id="kapittel-1-paragraf-1-ledd-2">Det skal være en egen skatteklagenemnd for Svalbard. Skatteklagenemnda for Svalbard består av tre personer med varamedlemmer som velges av lokalstyret selv i Longyearbyen lokalstyre. To tredjedeler av nemndsmedlemmene skal ha utdannelse innen regnskap, økonomi eller jus, samt yrkeserfaring på disse områdene. Leder velges av nemnda. Skatteklagenemnda treffer avgjørelse skriftlig eller i fulltallig møte.</article></article><article class="legalArticle" data-lovdata-URL="LTI/forskrift/2007-12-04-1354/§2" data-name="§2" id="kapittel-1-paragraf-2"><h3 class="legalArticleHeader"><span class="legalArticleValue">§ 2</span>. <span class="legalArticleTitle">Skatteoppkrever for Svalbard</span></h3><article class="legalP" id="kapittel-1-paragraf-2-ledd-1">Skattekontoret skal være skatteoppkrever for Svalbard.</article></article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2007-12-04-1354/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Forskriften trer i kraft 1. januar 2008. Fra samme tidspunkt oppheves forskrift 12. desember 1997 nr. 1296 om ligningsmyndigheter og skatteoppkrever for Svalbard, og om overgangsregler.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om ligningsmyndigheter og skatteoppkrever for Svalbard</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2007-12-04-1354</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2007-12-04-1354</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Finansdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2007 hefte 12 s 1648</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2008-01-01</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/1997-12-12-1296</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/1996-11-29-68/&#xA7;4-2</li>
+            <li>lov/1996-11-29-68/&#xA7;5-3</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2007-12-07 14:05</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2007-1048</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Forskrift om ligning og skatt p&#xE5; Svalbard</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om ligningsmyndigheter og skatteoppkrever for Svalbard</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Finansdepartementet 4. desember 2007 med hjemmel i lov 29. november 1996 nr. 68 om skatt til Svalbard &#xA7; 4-2 og &#xA7; 5-3.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2007-12-04-1354</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om ligningsmyndigheter og skatteoppkrever for Svalbard<ul class="tocSubUl"><li>I<ul class="tocSubUl"><li>&#xA7; 1. Ligningsmyndigheter for Svalbard</li><li>&#xA7; 2. Skatteoppkrever for Svalbard</li></ul></li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2007-12-04-1354" id="dokument">
+      <h1>Forskrift om ligningsmyndigheter og skatteoppkrever for Svalbard</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2007-12-04-1354/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalArticle" data-lovdata-URL="LTI/forskrift/2007-12-04-1354/&#xA7;1" data-name="&#xA7;1" id="kapittel-1-paragraf-1">
+          <h3 class="legalArticleHeader"><span class="legalArticleValue">&#xA7; 1</span>. <span class="legalArticleTitle">Ligningsmyndigheter for Svalbard</span></h3>
+          <article class="legalP" id="kapittel-1-paragraf-1-ledd-1">Skattekontoret skal ha en kontorenhet lokalisert p&#xE5; Svalbard.</article>
+          <article class="legalP" id="kapittel-1-paragraf-1-ledd-2">Det skal v&#xE6;re en egen skatteklagenemnd for Svalbard. Skatteklagenemnda for Svalbard best&#xE5;r av tre personer med varamedlemmer som velges av lokalstyret selv i Longyearbyen lokalstyre. To tredjedeler av nemndsmedlemmene skal ha utdannelse innen regnskap, &#xF8;konomi eller jus, samt yrkeserfaring p&#xE5; disse omr&#xE5;dene. Leder velges av nemnda. Skatteklagenemnda treffer avgj&#xF8;relse skriftlig eller i fulltallig m&#xF8;te.</article>
+        </article>
+        <article class="legalArticle" data-lovdata-URL="LTI/forskrift/2007-12-04-1354/&#xA7;2" data-name="&#xA7;2" id="kapittel-1-paragraf-2">
+          <h3 class="legalArticleHeader"><span class="legalArticleValue">&#xA7; 2</span>. <span class="legalArticleTitle">Skatteoppkrever for Svalbard</span></h3>
+          <article class="legalP" id="kapittel-1-paragraf-2-ledd-1">Skattekontoret skal v&#xE6;re skatteoppkrever for Svalbard.</article>
+        </article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2007-12-04-1354/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Forskriften trer i kraft 1. januar 2008. Fra samme tidspunkt oppheves forskrift 12. desember 1997 nr. 1296 om ligningsmyndigheter og skatteoppkrever for Svalbard, og om overgangsregler.</article>
+      </section>
+    </main>
+  </body>
+</html>

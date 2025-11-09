@@ -1,1 +1,104 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrifter om skattefrie fondsavsetninger.</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-1972-04-28-4</dd><dt class="dokid">DokumentID</dt><dd class="dokid">SF/forskrift/1972-04-28-4</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Finansdepartementet</li></ul></dd><dt class="subunit">Etat</dt><dd class="subunit"><ul><li>Skattelovavd.</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 1972 s 559, II 1972 s 385</dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li><a href="lov/1962-12-14-1/§3">lov/1962-12-14-1/§3</a></li><li><a href="lov/1962-12-14-1/§4">lov/1962-12-14-1/§4</a></li><li><a href="lov/1962-12-14-1/§6">lov/1962-12-14-1/§6</a></li></ul></dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Forskrift om fondsavsetninger, 1968</dd><dt class="title">Tittel</dt><dd class="title">Forskrifter om skattefrie fondsavsetninger.</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Fastsatt med hjemmel i lov av 14. desember 1962 om skattefrie fondsavsetninger, jfr. §§ 3, 4 og 6.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/1972-04-28-4</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li><a href="#dokument">Forskrifter om skattefrie fondsavsetninger.</a><ul class="tocSubUl"><li><a href="#kapittel-1">I</a></li><li><a href="#kapittel-2">II</a></li><li><a href="#kapittel-3">III</a></li><li><a href="#kapittel-4">IV</a></li><li><a href="#kapittel-5">V</a></li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="SF/forskrift/1972-04-28-4" id="dokument"><h1>Forskrifter om skattefrie fondsavsetninger.</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="SF/forskrift/1972-04-28-4/KAPITTEL_1"><h2>I</h2><article class="legalP" id="kapittel-1-ledd-1">Midler som i henhold til lov av 14. desember 1962 om skattefrie fondsavsetninger, kapittel I, er avsatt av inntekt i 1968, frigis i sin helhet.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="SF/forskrift/1972-04-28-4/KAPITTEL_2"><h2>II</h2><article class="legalP" id="kapittel-2-ledd-1">Midler som i henhold til nevnte lov er avsatt av inntekt i 1969 frigis for foretak (selskap eller firma) hvor industri eller bergverk er de næringer som normalt gir foretaket størst andel av bearbeidingsverdien.</article></section><section class="section" data-name="kapIII" id="kapittel-3" data-lovdata-URL="SF/forskrift/1972-04-28-4/KAPITTEL_3"><h2>III</h2><article class="legalP" id="kapittel-3-ledd-1">Skattepliktige kan istedenfor å nytte de frigitte midler til kjøp av nytt driftsmiddel kreve å bli skattlagt for 75 pst. av midlene eller foreta en tilsvarende ekstraordinær avskriving av kostprisen for eldre driftsmidler uten fradrag ved inntektslikningen.</article></section><section class="section" data-name="kapIV" id="kapittel-4" data-lovdata-URL="SF/forskrift/1972-04-28-4/KAPITTEL_4"><h2>IV</h2><article class="legalP" id="kapittel-4-ledd-1">Av avsetninger for inntektsårene 1968 og 1969 som nå er frigitt, vil det ikke bli ytet rentegodtgjørelse for beløp som er innestående på konto i Norges Bank etter 30. juni 1972.</article></section><section class="section" data-name="kapV" id="kapittel-5" data-lovdata-URL="SF/forskrift/1972-04-28-4/KAPITTEL_5"><h2>V</h2><article class="legalP" id="kapittel-5-ledd-1">Når midler som blir frigitt skal nyttes til kjøp av nytt driftsmiddel, må driftsmidlet være kjøpt innen 1 år etter utløpet av det år midlene ble utbetalt fra Norges Bank.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrifter om skattefrie fondsavsetninger.</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-1972-04-28-4</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">SF/forskrift/1972-04-28-4</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Finansdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="subunit">Etat</dt>
+        <dd class="subunit">
+          <ul>
+            <li>Skattelovavd.</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 1972 s 559, II 1972 s 385</dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>
+              <a href="lov/1962-12-14-1/&#xA7;3">lov/1962-12-14-1/&#xA7;3</a>
+            </li>
+            <li>
+              <a href="lov/1962-12-14-1/&#xA7;4">lov/1962-12-14-1/&#xA7;4</a>
+            </li>
+            <li>
+              <a href="lov/1962-12-14-1/&#xA7;6">lov/1962-12-14-1/&#xA7;6</a>
+            </li>
+          </ul>
+        </dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Forskrift om fondsavsetninger, 1968</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrifter om skattefrie fondsavsetninger.</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Fastsatt med hjemmel i lov av 14. desember 1962 om skattefrie fondsavsetninger, jfr. &#xA7;&#xA7; 3, 4 og 6.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/1972-04-28-4</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>
+              <a href="#dokument">Forskrifter om skattefrie fondsavsetninger.</a>
+              <ul class="tocSubUl">
+                <li>
+                  <a href="#kapittel-1">I</a>
+                </li>
+                <li>
+                  <a href="#kapittel-2">II</a>
+                </li>
+                <li>
+                  <a href="#kapittel-3">III</a>
+                </li>
+                <li>
+                  <a href="#kapittel-4">IV</a>
+                </li>
+                <li>
+                  <a href="#kapittel-5">V</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="SF/forskrift/1972-04-28-4" id="dokument">
+      <h1>Forskrifter om skattefrie fondsavsetninger.</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="SF/forskrift/1972-04-28-4/KAPITTEL_1">
+        <h2>I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">Midler som i henhold til lov av 14. desember 1962 om skattefrie fondsavsetninger, kapittel I, er avsatt av inntekt i 1968, frigis i sin helhet.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="SF/forskrift/1972-04-28-4/KAPITTEL_2">
+        <h2>II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Midler som i henhold til nevnte lov er avsatt av inntekt i 1969 frigis for foretak (selskap eller firma) hvor industri eller bergverk er de n&#xE6;ringer som normalt gir foretaket st&#xF8;rst andel av bearbeidingsverdien.</article>
+      </section>
+      <section class="section" data-name="kapIII" id="kapittel-3" data-lovdata-URL="SF/forskrift/1972-04-28-4/KAPITTEL_3">
+        <h2>III</h2>
+        <article class="legalP" id="kapittel-3-ledd-1">Skattepliktige kan istedenfor &#xE5; nytte de frigitte midler til kj&#xF8;p av nytt driftsmiddel kreve &#xE5; bli skattlagt for 75 pst. av midlene eller foreta en tilsvarende ekstraordin&#xE6;r avskriving av kostprisen for eldre driftsmidler uten fradrag ved inntektslikningen.</article>
+      </section>
+      <section class="section" data-name="kapIV" id="kapittel-4" data-lovdata-URL="SF/forskrift/1972-04-28-4/KAPITTEL_4">
+        <h2>IV</h2>
+        <article class="legalP" id="kapittel-4-ledd-1">Av avsetninger for inntekts&#xE5;rene 1968 og 1969 som n&#xE5; er frigitt, vil det ikke bli ytet rentegodtgj&#xF8;relse for bel&#xF8;p som er innest&#xE5;ende p&#xE5; konto i Norges Bank etter 30. juni 1972.</article>
+      </section>
+      <section class="section" data-name="kapV" id="kapittel-5" data-lovdata-URL="SF/forskrift/1972-04-28-4/KAPITTEL_5">
+        <h2>V</h2>
+        <article class="legalP" id="kapittel-5-ledd-1">N&#xE5;r midler som blir frigitt skal nyttes til kj&#xF8;p av nytt driftsmiddel, m&#xE5; driftsmidlet v&#xE6;re kj&#xF8;pt innen 1 &#xE5;r etter utl&#xF8;pet av det &#xE5;r midlene ble utbetalt fra Norges Bank.</article>
+      </section>
+    </main>
+  </body>
+</html>

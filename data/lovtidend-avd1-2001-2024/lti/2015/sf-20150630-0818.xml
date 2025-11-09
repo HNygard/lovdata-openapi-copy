@@ -1,1 +1,80 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift om sikkerhetsstyringssystem for norske skip og flyttbare innretninger</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2015-06-30-818</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2015-06-30-818</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Nærings- og fiskeridepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2015 hefte 8 s 1379</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2015-07-01</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2014-09-05-1191</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/2007-02-16-9/§6</li><li>lov/2007-02-16-9/§7</li><li>lov/2007-02-16-9/§42</li><li>lov/2007-02-16-9/§51</li><li>forskrift/2007-02-16-171</li><li>forskrift/2007-05-31-590</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2015-07-07 15:00</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2015-0707</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i forskrift om sikkerhetsstyringssystem</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om sikkerhetsstyringssystem for norske skip og flyttbare innretninger</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Sjøfartsdirektoratet 30. juni 2015 med hjemmel i lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) § 6, § 7, § 42 og § 51, jf. delegeringsvedtak 16. februar 2007 nr. 171 og delegeringsvedtak 31. mai 2007 nr. 590.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2015-06-30-818</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om sikkerhetsstyringssystem for norske skip og flyttbare innretninger<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2015-06-30-818" id="dokument"><h1>Forskrift om endring i forskrift om sikkerhetsstyringssystem for norske skip og flyttbare innretninger</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2015-06-30-818/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift 5. september 2014 nr. 1191 om sikkerhetsstyringssystem for norske skip og flyttbare innretninger gjøres følgende endringer:</article> <article class="defaultP" margin-top="true">§ 3 første ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-2">Fartøy og flyttbare innretninger skal opereres av et rederi som har godkjenningsbevis for sikkerhetsstyring (DOC). Kopi av godkjenningsbeviset skal oppbevares om bord.</article> <article class="defaultP" margin-top="true">§ 7 andre ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-3">Fiskefartøy skal følge forskriften fra og med 1. juli 2016.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2015-06-30-818/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Forskriften trer i kraft 1. juli 2015.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift om sikkerhetsstyringssystem for norske skip og flyttbare innretninger</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2015-06-30-818</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2015-06-30-818</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>N&#xE6;rings- og fiskeridepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2015 hefte 8 s 1379</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2015-07-01</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2014-09-05-1191</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/2007-02-16-9/&#xA7;6</li>
+            <li>lov/2007-02-16-9/&#xA7;7</li>
+            <li>lov/2007-02-16-9/&#xA7;42</li>
+            <li>lov/2007-02-16-9/&#xA7;51</li>
+            <li>forskrift/2007-02-16-171</li>
+            <li>forskrift/2007-05-31-590</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2015-07-07 15:00</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2015-0707</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i forskrift om sikkerhetsstyringssystem</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om sikkerhetsstyringssystem for norske skip og flyttbare innretninger</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Sj&#xF8;fartsdirektoratet 30. juni 2015 med hjemmel i lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) &#xA7; 6, &#xA7; 7, &#xA7; 42 og &#xA7; 51, jf. delegeringsvedtak 16. februar 2007 nr. 171 og delegeringsvedtak 31. mai 2007 nr. 590.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2015-06-30-818</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om sikkerhetsstyringssystem for norske skip og flyttbare innretninger<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2015-06-30-818" id="dokument">
+      <h1>Forskrift om endring i forskrift om sikkerhetsstyringssystem for norske skip og flyttbare innretninger</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2015-06-30-818/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift 5. september 2014 nr. 1191 om sikkerhetsstyringssystem for norske skip og flyttbare innretninger gj&#xF8;res f&#xF8;lgende endringer:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 3 f&#xF8;rste ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">Fart&#xF8;y og flyttbare innretninger skal opereres av et rederi som har godkjenningsbevis for sikkerhetsstyring (DOC). Kopi av godkjenningsbeviset skal oppbevares om bord.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 7 andre ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-3">Fiskefart&#xF8;y skal f&#xF8;lge forskriften fra og med 1. juli 2016.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2015-06-30-818/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Forskriften trer i kraft 1. juli 2015.</article>
+      </section>
+    </main>
+  </body>
+</html>

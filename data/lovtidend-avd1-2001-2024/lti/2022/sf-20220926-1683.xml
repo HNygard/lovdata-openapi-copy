@@ -1,1 +1,77 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i kirkeordning for Den norske kirke</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2022-09-26-1683</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2022-09-26-1683</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Barne- og familiedepartementet</li></ul></dd><dt class="subunit">Etat</dt><dd class="subunit"><ul><li>Kirkemøtet</li></ul></dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2022-09-26</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2019-03-30-2307</li></ul></dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/2020-04-24-31/§12</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2022-10-03 15:00</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2022-1313</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i kirkeordning for Den norske kirke</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Kirkemøtet 26. september 2022 med hjemmel i lov 24. april 2020 nr. 31 om tros- og livssynssamfunn (trossamfunnsloven) § 12 annet ledd.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2022-09-26-1683</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i kirkeordning for Den norske kirke<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2022-09-26-1683" id="dokument"><h1>Forskrift om endring i kirkeordning for Den norske kirke</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2022-09-26-1683/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="defaultP">I kirkeordning 30. mars 2019 nr. 2307 for Den norske kirke gjøres følgende endringer:</article> <article class="defaultP" margin-top="true">§ 6 annet ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-1">Biskopen kan etter søknad fra et medlem samtykke i at dette får sin tilknytning overført til et annet sokn enn det vedkommende er bosatt i. Biskopen kan samtykke i at et medlem beholder valgbarheten i et sokn ut valgperioden, selv om vedkommende flytter eller får sin tilknytning overført.</article> <article class="defaultP" margin-top="true">§ 9 første ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-2">Menighetsrådet består av soknepresten og – etter menighetsmøtets bestemmelse – fire, seks, åtte eller ti andre medlemmer og et antall varamedlemmer som velges ved flertalls- eller forholdsvalg for fire år etter regler fastsatt av Kirkemøtet. Endring av tallet på de medlemmer som skal velges, må være vedtatt i menighetsmøtet før valget kunngjøres.</article> <article class="defaultP" margin-top="true">§ 24 annet ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-3">Presten og de leke medlemmene velges for fire år. For medlemmene valgt ved flertallsvalg etter bokstav d, velges det like mange varamedlemmer. For medlemmene valgt ved forholdsvalg etter bokstav d, skal hver liste tildeles like mange varamedlemmer som den får medlemmer, med tillegg av tre. For medlemmene valgt etter bokstav b, c, e og f, velges det to varamedlemmer. Kirkemøtet gir nærmere regler om valget, herunder regler som presiserer hvem som er stemmeberettiget og valgbar etter første ledd bokstavene b, c, d, e og f.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2022-09-26-1683/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft straks.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i kirkeordning for Den norske kirke</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2022-09-26-1683</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2022-09-26-1683</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Barne- og familiedepartementet</li>
+          </ul>
+        </dd>
+        <dt class="subunit">Etat</dt>
+        <dd class="subunit">
+          <ul>
+            <li>Kirkem&#xF8;tet</li>
+          </ul>
+        </dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2022-09-26</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2019-03-30-2307</li>
+          </ul>
+        </dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/2020-04-24-31/&#xA7;12</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2022-10-03 15:00</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2022-1313</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i kirkeordning for Den norske kirke</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Kirkem&#xF8;tet 26. september 2022 med hjemmel i lov 24. april 2020 nr. 31 om tros- og livssynssamfunn (trossamfunnsloven) &#xA7; 12 annet ledd.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2022-09-26-1683</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i kirkeordning for Den norske kirke<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2022-09-26-1683" id="dokument">
+      <h1>Forskrift om endring i kirkeordning for Den norske kirke</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2022-09-26-1683/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="defaultP">I kirkeordning 30. mars 2019 nr. 2307 for Den norske kirke gj&#xF8;res f&#xF8;lgende endringer:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 6 annet ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-1">Biskopen kan etter s&#xF8;knad fra et medlem samtykke i at dette f&#xE5;r sin tilknytning overf&#xF8;rt til et annet sokn enn det vedkommende er bosatt i. Biskopen kan samtykke i at et medlem beholder valgbarheten i et sokn ut valgperioden, selv om vedkommende flytter eller f&#xE5;r sin tilknytning overf&#xF8;rt.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 9 f&#xF8;rste ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">Menighetsr&#xE5;det best&#xE5;r av soknepresten og &#x2013; etter menighetsm&#xF8;tets bestemmelse &#x2013; fire, seks, &#xE5;tte eller ti andre medlemmer og et antall varamedlemmer som velges ved flertalls- eller forholdsvalg for fire &#xE5;r etter regler fastsatt av Kirkem&#xF8;tet. Endring av tallet p&#xE5; de medlemmer som skal velges, m&#xE5; v&#xE6;re vedtatt i menighetsm&#xF8;tet f&#xF8;r valget kunngj&#xF8;res.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 24 annet ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-3">Presten og de leke medlemmene velges for fire &#xE5;r. For medlemmene valgt ved flertallsvalg etter bokstav d, velges det like mange varamedlemmer. For medlemmene valgt ved forholdsvalg etter bokstav d, skal hver liste tildeles like mange varamedlemmer som den f&#xE5;r medlemmer, med tillegg av tre. For medlemmene valgt etter bokstav b, c, e og f, velges det to varamedlemmer. Kirkem&#xF8;tet gir n&#xE6;rmere regler om valget, herunder regler som presiserer hvem som er stemmeberettiget og valgbar etter f&#xF8;rste ledd bokstavene b, c, d, e og f.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2022-09-26-1683/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft straks.</article>
+      </section>
+    </main>
+  </body>
+</html>

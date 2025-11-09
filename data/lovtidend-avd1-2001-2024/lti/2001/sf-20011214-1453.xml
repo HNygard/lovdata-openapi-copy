@@ -1,1 +1,76 @@
-<!DOCTYPE html><html lang="no"><head><title>Norsk farmakopé.</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2001-12-14-1453</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2001-12-14-1453</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Sosialdepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2001 hefte 15</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2002-01-01</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2000-12-14-1300</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/1992-12-04-132/§5</li><li>forskrift/1995-07-20-698</li><li>forskrift/1995-06-08-521</li><li>forskrift/1994-12-16-4659</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2001-12-20</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2001-1393</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Norsk farmakopé</dd><dt class="title">Tittel</dt><dd class="title">Norsk farmakopé.</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Fastsatt av Statens legemiddelverk 14. desember 2001 med hjemmel i lov av 4. desember 1992 nr. 132 om legemidler m.v. (legemiddelloven) § 5, forskrift av 20. juli 1995 nr. 698 om legemidlers kvalitet, standarder m.m., jf. kgl.res. av 8. juni 1995 nr. 521 og delegeringsvedtak av 16. desember 1994.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2001-12-14-1453</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Norsk farmakopé.</li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2001-12-14-1453" id="dokument"><h1>Norsk farmakopé.</h1><article class="legalP" id="ledd-1">Statens legemiddelverk godkjenner følgende som del av norsk farmakopé fra 1. januar 2002:<ul class="defaultList"><li data-li-identifier="-" data-name="-"><article class="listArticle" id="ledd-1-punkt-1"><article class="legalP" id="ledd-1-punkt-1-ledd-1">Norske legemiddelstandarder 2002 (NLS 2002).</article></article></li></ul></article><article class="legalP" id="ledd-2">NLS 2002 opptar endringer til Ph. Eur. som følge av vedtak i Den europeiske farmakopékommisjon ved Helsekomiteens resolusjoner AP-CSP (01) 1 – 5.</article><article class="legalP" id="ledd-3">De viktigste endringene fremgår av forordet i NLS 2002.</article><article class="legalP" id="ledd-4">Fra 1. januar 2002 består gyldig norsk farmakopé av:<ul class="defaultList"><li data-li-identifier="-" data-name="-"><article class="listArticle" id="ledd-4-punkt-1"><article class="legalP" id="ledd-4-punkt-1-ledd-1">European Pharmacopoeia 4th Edition 2002.</article></article></li><li data-li-identifier="-" data-name="-"><article class="listArticle" id="ledd-4-punkt-2"><article class="legalP" id="ledd-4-punkt-2-ledd-1">NLS 2002.</article></article></li></ul></article><article class="legalP" id="ledd-5">European Pharmacopoeia 4th Edition, 1st Supplement trer i kraft 1. april 2002.</article><article class="legalP" id="ledd-6">European Pharmacopoeia 4th Edition, 2nd Supplement trer i kraft 1. juli 2002.</article><article class="legalP" id="ledd-7">NLS 2002 koster ordinært kr 375, studentpris kr 75.</article><article class="legalP" id="ledd-8">Boken kan bestilles fra Gyldendal Norsk Forlag, Direktesalg, 4894 Grimstad, ordretelefon 81522855, ordrefaks 37250901 eller e-post direktesalg@gyldendal.no.</article><article class="legalP" id="ledd-9">NLS 2002 vil foreligge i januar 2002.</article><article class="legalP" id="ledd-10">Norsk farmakopé av 14. desember 2001 nr. 1453 opphever Norsk farmakopé av 14. desember 2000 nr. 1300.</article></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Norsk farmakop&#xE9;.</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2001-12-14-1453</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2001-12-14-1453</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Sosialdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2001 hefte 15</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2002-01-01</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2000-12-14-1300</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/1992-12-04-132/&#xA7;5</li>
+            <li>forskrift/1995-07-20-698</li>
+            <li>forskrift/1995-06-08-521</li>
+            <li>forskrift/1994-12-16-4659</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2001-12-20</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2001-1393</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Norsk farmakop&#xE9;</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Norsk farmakop&#xE9;.</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Fastsatt av Statens legemiddelverk 14. desember 2001 med hjemmel i lov av 4. desember 1992 nr. 132 om legemidler m.v. (legemiddelloven) &#xA7; 5, forskrift av 20. juli 1995 nr. 698 om legemidlers kvalitet, standarder m.m., jf. kgl.res. av 8. juni 1995 nr. 521 og delegeringsvedtak av 16. desember 1994.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2001-12-14-1453</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Norsk farmakop&#xE9;.</li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2001-12-14-1453" id="dokument">
+      <h1>Norsk farmakop&#xE9;.</h1>
+      <article class="legalP" id="ledd-1">Statens legemiddelverk godkjenner f&#xF8;lgende som del av norsk farmakop&#xE9; fra 1. januar 2002:<ul class="defaultList"><li data-li-identifier="-" data-name="-"><article class="listArticle" id="ledd-1-punkt-1"><article class="legalP" id="ledd-1-punkt-1-ledd-1">Norske legemiddelstandarder 2002 (NLS 2002).</article></article></li></ul></article>
+      <article class="legalP" id="ledd-2">NLS 2002 opptar endringer til Ph. Eur. som f&#xF8;lge av vedtak i Den europeiske farmakop&#xE9;kommisjon ved Helsekomiteens resolusjoner AP-CSP (01) 1 &#x2013; 5.</article>
+      <article class="legalP" id="ledd-3">De viktigste endringene fremg&#xE5;r av forordet i NLS 2002.</article>
+      <article class="legalP" id="ledd-4">Fra 1. januar 2002 best&#xE5;r gyldig norsk farmakop&#xE9; av:<ul class="defaultList"><li data-li-identifier="-" data-name="-"><article class="listArticle" id="ledd-4-punkt-1"><article class="legalP" id="ledd-4-punkt-1-ledd-1">European Pharmacopoeia 4th Edition 2002.</article></article></li><li data-li-identifier="-" data-name="-"><article class="listArticle" id="ledd-4-punkt-2"><article class="legalP" id="ledd-4-punkt-2-ledd-1">NLS 2002.</article></article></li></ul></article>
+      <article class="legalP" id="ledd-5">European Pharmacopoeia 4th Edition, 1st Supplement trer i kraft 1. april 2002.</article>
+      <article class="legalP" id="ledd-6">European Pharmacopoeia 4th Edition, 2nd Supplement trer i kraft 1. juli 2002.</article>
+      <article class="legalP" id="ledd-7">NLS 2002 koster ordin&#xE6;rt kr 375, studentpris kr 75.</article>
+      <article class="legalP" id="ledd-8">Boken kan bestilles fra Gyldendal Norsk Forlag, Direktesalg, 4894 Grimstad, ordretelefon 81522855, ordrefaks 37250901 eller e-post direktesalg@gyldendal.no.</article>
+      <article class="legalP" id="ledd-9">NLS 2002 vil foreligge i januar 2002.</article>
+      <article class="legalP" id="ledd-10">Norsk farmakop&#xE9; av 14. desember 2001 nr. 1453 opphever Norsk farmakop&#xE9; av 14. desember 2000 nr. 1300.</article>
+    </main>
+  </body>
+</html>

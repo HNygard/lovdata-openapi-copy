@@ -1,1 +1,77 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift til lov om Bankenes sikringsfond (forlengelse av overgangsordning)</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2020-12-14-2750</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2020-12-14-2750</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Finansdepartementet</li></ul></dd><dt class="subunit">Etat</dt><dd class="subunit"><ul><li>Finansmarkedsavdelingen</li></ul></dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2020-12-14</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2018-12-19-2145</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/2018-03-23-3/§8</li><li>lov/2018-03-23-2/kapiv</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2020-12-15 14:55</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2020-1794</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i forskrift til lov om Bankenes sikringsfond (forlengelse av overgangsordning)</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift til lov om Bankenes sikringsfond (forlengelse av overgangsordning)</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Finansdepartementet 14. desember 2020 med hjemmel i lov 23. mars 2018 nr. 3 om bankenes sikringsfond § 8 og lov 23. mars 2018 nr. 2 om endringer i finansforetaksloven mv. (innskuddsgaranti og krisehåndtering av banker) del IV nr. 4.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2020-12-14-2750</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift til lov om Bankenes sikringsfond (forlengelse av overgangsordning)<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2020-12-14-2750" id="dokument"><h1>Forskrift om endring i forskrift til lov om Bankenes sikringsfond (forlengelse av overgangsordning)</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2020-12-14-2750/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift 19. desember 2018 nr. 2145 til lov om Bankenes sikringsfond skal § 4 tredje ledd lyde:</article><article class="legalP" id="kapittel-1-ledd-2">Overføringen av eiendeler og forpliktelser forvaltet av Bankenes sikringsfond i medhold av tidligere gjeldende kapittel 19 i finansforetaksloven, skal skje innen 31. desember 2021, med regnskapsmessig virkning fra 1. januar 2021. Fordelingen av eiendeler og forpliktelser skal baseres på verdier pr. 1. januar 2019 med etterfølgende verdiutvikling, tillagt innkrevet bidrag til krisetiltaksfondet, fratrukket kostnad ved administrasjon av fondet. Midler som disponeres av krisehåndteringsmyndigheten skal regnskapsmessig presenteres som egenkapital i Bankenes sikringsfond inntil overføringen er foretatt.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2020-12-14-2750/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Endringen trer i kraft straks.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift til lov om Bankenes sikringsfond (forlengelse av overgangsordning)</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2020-12-14-2750</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2020-12-14-2750</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Finansdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="subunit">Etat</dt>
+        <dd class="subunit">
+          <ul>
+            <li>Finansmarkedsavdelingen</li>
+          </ul>
+        </dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2020-12-14</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2018-12-19-2145</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/2018-03-23-3/&#xA7;8</li>
+            <li>lov/2018-03-23-2/kapiv</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2020-12-15 14:55</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2020-1794</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i forskrift til lov om Bankenes sikringsfond (forlengelse av overgangsordning)</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift til lov om Bankenes sikringsfond (forlengelse av overgangsordning)</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Finansdepartementet 14. desember 2020 med hjemmel i lov 23. mars 2018 nr. 3 om bankenes sikringsfond &#xA7; 8 og lov 23. mars 2018 nr. 2 om endringer i finansforetaksloven mv. (innskuddsgaranti og kriseh&#xE5;ndtering av banker) del IV nr. 4.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2020-12-14-2750</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift til lov om Bankenes sikringsfond (forlengelse av overgangsordning)<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2020-12-14-2750" id="dokument">
+      <h1>Forskrift om endring i forskrift til lov om Bankenes sikringsfond (forlengelse av overgangsordning)</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2020-12-14-2750/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift 19. desember 2018 nr. 2145 til lov om Bankenes sikringsfond skal &#xA7; 4 tredje ledd lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">Overf&#xF8;ringen av eiendeler og forpliktelser forvaltet av Bankenes sikringsfond i medhold av tidligere gjeldende kapittel 19 i finansforetaksloven, skal skje innen 31. desember 2021, med regnskapsmessig virkning fra 1. januar 2021. Fordelingen av eiendeler og forpliktelser skal baseres p&#xE5; verdier pr. 1. januar 2019 med etterf&#xF8;lgende verdiutvikling, tillagt innkrevet bidrag til krisetiltaksfondet, fratrukket kostnad ved administrasjon av fondet. Midler som disponeres av kriseh&#xE5;ndteringsmyndigheten skal regnskapsmessig presenteres som egenkapital i Bankenes sikringsfond inntil overf&#xF8;ringen er foretatt.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2020-12-14-2750/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Endringen trer i kraft straks.</article>
+      </section>
+    </main>
+  </body>
+</html>

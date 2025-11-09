@@ -1,1 +1,75 @@
-<!DOCTYPE html><html lang="no"><head><title>Lov om endring i markedsføringsloven</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">LOV-2013-06-21-57</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/lov/2013-06-21-57</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Barne- og likestillingsdepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2013 hefte 9 s 1474</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">Kongen bestemmer.</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>lov/2009-01-09-2</li></ul></dd><dt class="legalArea">Rettsområde</dt><dd class="legalArea"><ul><li>EU/EØS-rett &gt; Energi</li> <li>Forbruker-, kjøps- og konkurranserett &gt; Markedsføring</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2013-06-21 15:35</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2013-0512</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endringslov til markedsføringsloven</dd><dt class="title">Tittel</dt><dd class="title">Lov om endring i markedsføringsloven</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Prop.76 L (2012–2013), Innst.274 L (2012–2013), Lovvedtak 80 (2012–2013). Stortingets første og andre gangs behandling hhv. 6. og 10. juni 2013. Fremmet av Barne-, likestillings- og inkluderingsdepartementet.</dd><dt class="refid">RefID</dt><dd class="refid">lov/2013-06-21-57</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Lov om endring i markedsføringsloven<ul class="tocSubUl"><li>I<ul class="tocSubUl"><li>§ 18. Tilleggsfordel ved markedsføring til forbrukere</li></ul></li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/lov/2013-06-21-57" id="dokument"><h1>Lov om endring i markedsføringsloven</h1><article class="defaultP" data-text-size="small">Endring i følgende lov:<ul class="defaultList" data-text-size="small"><li><article class="listArticle" data-text-size="small" id="punkt-1"><article class="legalP" id="punkt-1-ledd-1">Lov 9. januar 2009 nr. 2 om kontroll med markedsføring og avtalevilkår mv. (markedsføringsloven).</article></article></li></ul></article><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2013-06-21-57/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I lov 9. januar 2009 nr. 2 om kontroll med markedsføring og avtalevilkår mv. skal § 18 lyde:</article><article class="futureLegalArticle" data-name="§18" id="kapittel-1-foreslåttparagraf-1"><span class="futureLegalArticleHeader">§ 18. <span class="legalArticleTitle">Tilleggsfordel ved markedsføring til forbrukere</span></span><article class="legalP" id="kapittel-1-foreslåttparagraf-1-ledd-1">Næringsdrivende som i markedsføring tilbyr forbrukerne en tilleggsfordel eller en mulighet for å oppnå en slik fordel, eksempelvis i form av rabatter, gaver, deltakelse i konkurranser eller spill, skal sikre at vilkårene for å benytte seg av tilbudet er klare og lett tilgjengelige for forbrukerne.</article></article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2013-06-21-57/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Loven gjelder fra den tid Kongen bestemmer.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Lov om endring i markedsf&#xF8;ringsloven</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">LOV-2013-06-21-57</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/lov/2013-06-21-57</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Barne- og likestillingsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2013 hefte 9 s 1474</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">Kongen bestemmer.</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>lov/2009-01-09-2</li>
+          </ul>
+        </dd>
+        <dt class="legalArea">Rettsomr&#xE5;de</dt>
+        <dd class="legalArea">
+          <ul>
+            <li>EU/E&#xD8;S-rett &gt; Energi</li>
+            <li>Forbruker-, kj&#xF8;ps- og konkurranserett &gt; Markedsf&#xF8;ring</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2013-06-21 15:35</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2013-0512</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endringslov til markedsf&#xF8;ringsloven</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Lov om endring i markedsf&#xF8;ringsloven</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Prop.76 L (2012&#x2013;2013), Innst.274 L (2012&#x2013;2013), Lovvedtak 80 (2012&#x2013;2013). Stortingets f&#xF8;rste og andre gangs behandling hhv. 6. og 10. juni 2013. Fremmet av Barne-, likestillings- og inkluderingsdepartementet.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">lov/2013-06-21-57</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Lov om endring i markedsf&#xF8;ringsloven<ul class="tocSubUl"><li>I<ul class="tocSubUl"><li>&#xA7; 18. Tilleggsfordel ved markedsf&#xF8;ring til forbrukere</li></ul></li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/lov/2013-06-21-57" id="dokument">
+      <h1>Lov om endring i markedsf&#xF8;ringsloven</h1>
+      <article class="defaultP" data-text-size="small">Endring i f&#xF8;lgende lov:<ul class="defaultList" data-text-size="small"><li><article class="listArticle" data-text-size="small" id="punkt-1"><article class="legalP" id="punkt-1-ledd-1">Lov 9. januar 2009 nr. 2 om kontroll med markedsf&#xF8;ring og avtalevilk&#xE5;r mv. (markedsf&#xF8;ringsloven).</article></article></li></ul></article>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2013-06-21-57/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I lov 9. januar 2009 nr. 2 om kontroll med markedsf&#xF8;ring og avtalevilk&#xE5;r mv. skal &#xA7; 18 lyde:</article>
+        <article class="futureLegalArticle" data-name="&#xA7;18" id="kapittel-1-foresl&#xE5;ttparagraf-1">
+          <span class="futureLegalArticleHeader">&#xA7; 18. <span class="legalArticleTitle">Tilleggsfordel ved markedsf&#xF8;ring til forbrukere</span></span>
+          <article class="legalP" id="kapittel-1-foresl&#xE5;ttparagraf-1-ledd-1">N&#xE6;ringsdrivende som i markedsf&#xF8;ring tilbyr forbrukerne en tilleggsfordel eller en mulighet for &#xE5; oppn&#xE5; en slik fordel, eksempelvis i form av rabatter, gaver, deltakelse i konkurranser eller spill, skal sikre at vilk&#xE5;rene for &#xE5; benytte seg av tilbudet er klare og lett tilgjengelige for forbrukerne.</article>
+        </article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2013-06-21-57/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Loven gjelder fra den tid Kongen bestemmer.</article>
+      </section>
+    </main>
+  </body>
+</html>

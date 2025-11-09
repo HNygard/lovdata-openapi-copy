@@ -1,1 +1,80 @@
-<!DOCTYPE html><html lang="nb"><head><title>Forskrift om endring i forskrift om minimum sikkerhetskrav til visse tunneler på fylkesvegnettet og kommunalt vegnett i Oslo (tunnelsikkerhetsforskrift for fylkesveg m.m.)</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2025-03-26-541</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2025-03-26-541</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Samferdselsdepartementet</li></ul></dd><dt class="subunit">Etat</dt><dd class="subunit"><ul><li>Veg-, by- og trafikksikkerhetsavdelingen</li></ul></dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2025-03-26</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2014-12-10-1566</li></ul></dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/1963-06-21-23/§13</li><li>lov/1963-06-21-23/§16</li><li>lov/1963-06-21-23/§62</li><li>forskrift/2007-05-15-518</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2025-03-27 15:45</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2025-0318</dd><dt class="a11yStatus">Tilgjengelighetsstatus</dt><dd class="a11yStatus">Mangler vurdering.</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i tunnelsikkerhetsforskrift for fylkesveg m.m.</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om minimum sikkerhetskrav til visse tunneler på fylkesvegnettet og kommunalt vegnett i Oslo (tunnelsikkerhetsforskrift for fylkesveg m.m.)</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Samferdselsdepartementet 26. mars 2025 med hjemmel i lov 21. juni 1963 nr. 23 om vegar (veglova) § 13, § 16 og § 62 første ledd, jf. delegeringsvedtak 15. mai 2007 nr. 518.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2025-03-26-541</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om minimum sikkerhetskrav til visse tunneler på fylkesvegnettet og kommunalt vegnett i Oslo (tunnelsikkerhetsforskrift for fylkesveg m.m.)<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2025-03-26-541" id="dokument"><h1>Forskrift om endring i forskrift om minimum sikkerhetskrav til visse tunneler på fylkesvegnettet og kommunalt vegnett i Oslo (tunnelsikkerhetsforskrift for fylkesveg m.m.)</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2025-03-26-541/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="defaultP">I forskrift 10. desember 2014 nr. 1566 om minimum sikkerhetskrav til visse tunneler på fylkesvegnettet og kommunalt vegnett i Oslo (tunnelsikkerhetsforskrift for fylkesveg m.m.) gjøres følgende endring:</article> <article class="defaultP" margin-top="true">§ 12 tredje ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-1">Utbedring av tunneler for å oppfylle kravene til sikkerhetsnivå, skal utføres etter en tidsplan og skal være fullført innen 1. januar 2040. Fylkeskommuner med stor tunnelmasse kan etter søknad til Vegdirektoratet gis forlenget frist med inntil ti år.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2025-03-26-541/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Forskriften trer i kraft straks.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="nb">
+  <head>
+    <title>Forskrift om endring i forskrift om minimum sikkerhetskrav til visse tunneler p&#xE5; fylkesvegnettet og kommunalt vegnett i Oslo (tunnelsikkerhetsforskrift for fylkesveg m.m.)</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2025-03-26-541</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2025-03-26-541</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Samferdselsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="subunit">Etat</dt>
+        <dd class="subunit">
+          <ul>
+            <li>Veg-, by- og trafikksikkerhetsavdelingen</li>
+          </ul>
+        </dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2025-03-26</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2014-12-10-1566</li>
+          </ul>
+        </dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/1963-06-21-23/&#xA7;13</li>
+            <li>lov/1963-06-21-23/&#xA7;16</li>
+            <li>lov/1963-06-21-23/&#xA7;62</li>
+            <li>forskrift/2007-05-15-518</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2025-03-27 15:45</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2025-0318</dd>
+        <dt class="a11yStatus">Tilgjengelighetsstatus</dt>
+        <dd class="a11yStatus">Mangler vurdering.</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i tunnelsikkerhetsforskrift for fylkesveg m.m.</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om minimum sikkerhetskrav til visse tunneler p&#xE5; fylkesvegnettet og kommunalt vegnett i Oslo (tunnelsikkerhetsforskrift for fylkesveg m.m.)</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Samferdselsdepartementet 26. mars 2025 med hjemmel i lov 21. juni 1963 nr. 23 om vegar (veglova) &#xA7; 13, &#xA7; 16 og &#xA7; 62 f&#xF8;rste ledd, jf. delegeringsvedtak 15. mai 2007 nr. 518.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2025-03-26-541</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om minimum sikkerhetskrav til visse tunneler p&#xE5; fylkesvegnettet og kommunalt vegnett i Oslo (tunnelsikkerhetsforskrift for fylkesveg m.m.)<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2025-03-26-541" id="dokument">
+      <h1>Forskrift om endring i forskrift om minimum sikkerhetskrav til visse tunneler p&#xE5; fylkesvegnettet og kommunalt vegnett i Oslo (tunnelsikkerhetsforskrift for fylkesveg m.m.)</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2025-03-26-541/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="defaultP">I forskrift 10. desember 2014 nr. 1566 om minimum sikkerhetskrav til visse tunneler p&#xE5; fylkesvegnettet og kommunalt vegnett i Oslo (tunnelsikkerhetsforskrift for fylkesveg m.m.) gj&#xF8;res f&#xF8;lgende endring:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 12 tredje ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-1">Utbedring av tunneler for &#xE5; oppfylle kravene til sikkerhetsniv&#xE5;, skal utf&#xF8;res etter en tidsplan og skal v&#xE6;re fullf&#xF8;rt innen 1. januar 2040. Fylkeskommuner med stor tunnelmasse kan etter s&#xF8;knad til Vegdirektoratet gis forlenget frist med inntil ti &#xE5;r.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2025-03-26-541/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Forskriften trer i kraft straks.</article>
+      </section>
+    </main>
+  </body>
+</html>

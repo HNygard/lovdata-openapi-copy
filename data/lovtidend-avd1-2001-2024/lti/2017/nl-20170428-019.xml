@@ -1,1 +1,81 @@
-<!DOCTYPE html><html lang="no"><head><title>Lov om endringer i tvisteloven (sikkerhet for sakskostnader)</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">LOV-2017-04-28-19</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/lov/2017-04-28-19</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Justis- og beredskapsdepartementet</li></ul></dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">Kongen bestemmer</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>lov/2005-06-17-90</li></ul></dd><dt class="legalArea">Rettsområde</dt><dd class="legalArea"><ul><li>Sivil- og straffeprosess &gt; Sivilprosess/tvisteloven</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2017-04-28 14:45</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2017-0321</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endringslov til tvisteloven</dd><dt class="title">Tittel</dt><dd class="title">Lov om endringer i tvisteloven (sikkerhet for sakskostnader)</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Prop.42 L (2016–2017), Innst.209 L (2016–2017), Lovvedtak 67 (2016–2017). Stortingets første og andre gangs behandling hhv. 23. og 28. mars 2017. Fremmet av Justis- og beredskapsdepartementet.</dd><dt class="refid">RefID</dt><dd class="refid">lov/2017-04-28-19</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Lov om endringer i tvisteloven (sikkerhet for sakskostnader)<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/lov/2017-04-28-19" id="dokument"><h1>Lov om endringer i tvisteloven (sikkerhet for sakskostnader)</h1><article class="defaultP" data-text-size="small">Endringer i følgende lov:<ul class="defaultList" data-text-size="small"><li><article class="listArticle" data-text-size="small" id="punkt-1"><article class="legalP" id="punkt-1-ledd-1">Lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister (tvisteloven).</article></article></li></ul></article><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2017-04-28-19/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister gjøres følgende endringer:</article> <article class="defaultP" margin-top="true">§ 20-11 første ledd skal lyde:</article><article class="numberedLegalP" data-numerator="1" id="kapittel-1-nummer-1">(1) Saksøkte kan kreve at en saksøker som ikke har bopel i Norge, stiller sikkerhet for mulig ansvar for sakskostnader i instansen. Sikkerhet kan ikke kreves hvis saksøker har bopel i en EØS-stat, hvis det ville stride mot en folkerettslig forpliktelse til å likebehandle parter bosatt i utlandet og parter bosatt i Norge, eller dersom det ville virke uforholdsmessig ut fra sakens art, partsforholdet og forholdene for øvrig.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2017-04-28-19/KAPITTEL_2"><h2 data-text-align="center">II</h2><ul class="defaultList"><li data-li-identifier="1." data-name="1."><article class="listArticle" id="kapittel-2-punkt-1"><article class="legalP" id="kapittel-2-punkt-1-ledd-1">Loven trer i kraft fra den tid Kongen bestemmer.</article></article></li><li data-li-identifier="2." data-name="2."><article class="listArticle" id="kapittel-2-punkt-2"><article class="legalP" id="kapittel-2-punkt-2-ledd-1">Loven har virkning for søksmål eller anke som tas ut etter at loven har trådt i kraft.</article></article></li></ul></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Lov om endringer i tvisteloven (sikkerhet for sakskostnader)</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">LOV-2017-04-28-19</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/lov/2017-04-28-19</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Justis- og beredskapsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">Kongen bestemmer</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>lov/2005-06-17-90</li>
+          </ul>
+        </dd>
+        <dt class="legalArea">Rettsomr&#xE5;de</dt>
+        <dd class="legalArea">
+          <ul>
+            <li>Sivil- og straffeprosess &gt; Sivilprosess/tvisteloven</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2017-04-28 14:45</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2017-0321</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endringslov til tvisteloven</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Lov om endringer i tvisteloven (sikkerhet for sakskostnader)</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Prop.42 L (2016&#x2013;2017), Innst.209 L (2016&#x2013;2017), Lovvedtak 67 (2016&#x2013;2017). Stortingets f&#xF8;rste og andre gangs behandling hhv. 23. og 28. mars 2017. Fremmet av Justis- og beredskapsdepartementet.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">lov/2017-04-28-19</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Lov om endringer i tvisteloven (sikkerhet for sakskostnader)<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/lov/2017-04-28-19" id="dokument">
+      <h1>Lov om endringer i tvisteloven (sikkerhet for sakskostnader)</h1>
+      <article class="defaultP" data-text-size="small">Endringer i f&#xF8;lgende lov:<ul class="defaultList" data-text-size="small"><li><article class="listArticle" data-text-size="small" id="punkt-1"><article class="legalP" id="punkt-1-ledd-1">Lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister (tvisteloven).</article></article></li></ul></article>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2017-04-28-19/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister gj&#xF8;res f&#xF8;lgende endringer:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 20-11 f&#xF8;rste ledd skal lyde:</article>
+        <article class="numberedLegalP" data-numerator="1" id="kapittel-1-nummer-1">(1) Saks&#xF8;kte kan kreve at en saks&#xF8;ker som ikke har bopel i Norge, stiller sikkerhet for mulig ansvar for sakskostnader i instansen. Sikkerhet kan ikke kreves hvis saks&#xF8;ker har bopel i en E&#xD8;S-stat, hvis det ville stride mot en folkerettslig forpliktelse til &#xE5; likebehandle parter bosatt i utlandet og parter bosatt i Norge, eller dersom det ville virke uforholdsmessig ut fra sakens art, partsforholdet og forholdene for &#xF8;vrig.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2017-04-28-19/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <ul class="defaultList">
+          <li data-li-identifier="1." data-name="1.">
+            <article class="listArticle" id="kapittel-2-punkt-1">
+              <article class="legalP" id="kapittel-2-punkt-1-ledd-1">Loven trer i kraft fra den tid Kongen bestemmer.</article>
+            </article>
+          </li>
+          <li data-li-identifier="2." data-name="2.">
+            <article class="listArticle" id="kapittel-2-punkt-2">
+              <article class="legalP" id="kapittel-2-punkt-2-ledd-1">Loven har virkning for s&#xF8;ksm&#xE5;l eller anke som tas ut etter at loven har tr&#xE5;dt i kraft.</article>
+            </article>
+          </li>
+        </ul>
+      </section>
+    </main>
+  </body>
+</html>

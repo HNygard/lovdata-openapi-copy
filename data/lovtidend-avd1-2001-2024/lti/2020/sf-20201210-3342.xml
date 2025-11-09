@@ -1,1 +1,81 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift for sivil transportberedskap</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2020-12-10-3342</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2020-12-10-3342</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Samferdselsdepartementet</li></ul></dd><dt class="subunit">Etat</dt><dd class="subunit"><ul><li>Veg-, by- og trafikksikkerhetsavdelingen</li></ul></dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2021-06-01</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2005-06-14-548</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/2002-06-21-45/§37</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2021-05-25 15:50</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2021-0800</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i forskrift for sivil transportberedskap</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift for sivil transportberedskap</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Samferdselsdepartementet 10. desember 2020 med hjemmel i lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova) § 37.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2020-12-10-3342</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift for sivil transportberedskap<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2020-12-10-3342" id="dokument"><h1>Forskrift om endring i forskrift for sivil transportberedskap</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2020-12-10-3342/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift 14. juni 2005 nr. 548 for sivil transportberedskap gjøres følgende endringer:</article> <article class="defaultP" margin-top="true">§ 3 andre og tredje ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-2">Fylkeskommunen skal samarbeide med statsforvalter, politiet, transportnæringen og andre sivile og militære myndigheter for en best mulig koordinert sivil transportberedskap.</article><article class="legalP" id="kapittel-1-ledd-3">Fylkeskommunen skal bidra med transportfaglige råd, og på anmodning fra departement, statsforvalter, politiet eller andre sivile eller militære myndigheter formidle kontakt med løyvehavere, andre som eier eller bruker motorvogner for gods- eller persontransport eller målepliktig fartøy og verksteder.</article> <article class="defaultP" margin-top="true">§ 4 første ledd bokstav d skal lyde:<ul class="defaultList"><li data-li-identifier="d." data-name="d."><article class="listArticle" id="kapittel-1-ledd-3-punkt-1"><article class="legalP" id="kapittel-1-ledd-3-punkt-1-ledd-1">Delta i beredskapsøvelser etter anmodning fra departement, statsforvalter, politiet eller Forsvaret.</article></article></li></ul></article> <article class="defaultP" margin-top="true">§ 5 skal lyde:</article><article class="legalP" id="kapittel-1-ledd-4">Fylkeskommunen skal på anmodning fra Samferdselsdepartementet eller statsforvalter fremlegge dokumentasjon på at pliktene etter denne forskrift er ivaretatt.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2020-12-10-3342/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Forskriften trer i kraft 1. juni 2021.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift for sivil transportberedskap</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2020-12-10-3342</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2020-12-10-3342</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Samferdselsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="subunit">Etat</dt>
+        <dd class="subunit">
+          <ul>
+            <li>Veg-, by- og trafikksikkerhetsavdelingen</li>
+          </ul>
+        </dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2021-06-01</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2005-06-14-548</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/2002-06-21-45/&#xA7;37</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2021-05-25 15:50</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2021-0800</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i forskrift for sivil transportberedskap</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift for sivil transportberedskap</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Samferdselsdepartementet 10. desember 2020 med hjemmel i lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fart&#xF8;y (yrkestransportlova) &#xA7; 37.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2020-12-10-3342</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift for sivil transportberedskap<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2020-12-10-3342" id="dokument">
+      <h1>Forskrift om endring i forskrift for sivil transportberedskap</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2020-12-10-3342/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift 14. juni 2005 nr. 548 for sivil transportberedskap gj&#xF8;res f&#xF8;lgende endringer:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 3 andre og tredje ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">Fylkeskommunen skal samarbeide med statsforvalter, politiet, transportn&#xE6;ringen og andre sivile og milit&#xE6;re myndigheter for en best mulig koordinert sivil transportberedskap.</article>
+        <article class="legalP" id="kapittel-1-ledd-3">Fylkeskommunen skal bidra med transportfaglige r&#xE5;d, og p&#xE5; anmodning fra departement, statsforvalter, politiet eller andre sivile eller milit&#xE6;re myndigheter formidle kontakt med l&#xF8;yvehavere, andre som eier eller bruker motorvogner for gods- eller persontransport eller m&#xE5;lepliktig fart&#xF8;y og verksteder.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 4 f&#xF8;rste ledd bokstav d skal lyde:<ul class="defaultList"><li data-li-identifier="d." data-name="d."><article class="listArticle" id="kapittel-1-ledd-3-punkt-1"><article class="legalP" id="kapittel-1-ledd-3-punkt-1-ledd-1">Delta i beredskaps&#xF8;velser etter anmodning fra departement, statsforvalter, politiet eller Forsvaret.</article></article></li></ul></article>
+        <article class="defaultP" margin-top="true">&#xA7; 5 skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-4">Fylkeskommunen skal p&#xE5; anmodning fra Samferdselsdepartementet eller statsforvalter fremlegge dokumentasjon p&#xE5; at pliktene etter denne forskrift er ivaretatt.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2020-12-10-3342/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Forskriften trer i kraft 1. juni 2021.</article>
+      </section>
+    </main>
+  </body>
+</html>

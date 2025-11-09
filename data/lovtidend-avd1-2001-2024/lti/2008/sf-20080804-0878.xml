@@ -1,1 +1,72 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om unntak fra rekvirents meldeplikt til Reseptformidleren</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2008-08-04-878</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2008-08-04-878</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Helse- og omsorgsdepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2008 hefte 9 s 1397</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2008-08-04 – 2011-12-31</dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>forskrift/2007-12-21-1610/§8-1</li><li>forskrift/2007-12-21-1610/§2-1</li><li>lov/2001-05-18-24/§9</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2008-08-12 13:55</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2008-0722</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Forskrift om meldeplikt til reseptformidleren</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om unntak fra rekvirents meldeplikt til Reseptformidleren</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Helse- og omsorgsdepartementet 4. august 2008 med hjemmel i forskrift 21. desember 2007 nr. 1610 om behandling av helseopplysninger i nasjonal database for elektroniske resepter (Reseptformidlerforskriften) § 8-1, jf. § 2-1 og lov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger (helseregisterloven) § 9.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2008-08-04-878</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om unntak fra rekvirents meldeplikt til Reseptformidleren<ul class="tocSubUl"><li>§ 1. Unntak fra meldeplikt</li><li>§ 2. Tidsbegrensning</li><li>§ 3.</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2008-08-04-878" id="dokument"><h1>Forskrift om unntak fra rekvirents meldeplikt til Reseptformidleren</h1><article class="legalArticle" data-lovdata-URL="LTI/forskrift/2008-08-04-878/§1" data-name="§1" id="paragraf-1"><h2 class="legalArticleHeader"><span class="legalArticleValue">§ 1</span>. <span class="legalArticleTitle">Unntak fra meldeplikt</span></h2><article class="legalP" id="paragraf-1-ledd-1">Rekvirentens meldeplikt til reseptformidleren, jf. reseptformidlerforskriften § 2-1 første og andre ledd gjelder bare for de rekvirenter som har inngått pilotavtale med Helsedirektoratet.</article><article class="legalP" id="paragraf-1-ledd-2">Meldeplikten skal praktiseres slik det fremgår av den enkelte pilotavtale.</article></article><article class="legalArticle" data-lovdata-URL="LTI/forskrift/2008-08-04-878/§2" data-name="§2" id="paragraf-2"><h2 class="legalArticleHeader"><span class="legalArticleValue">§ 2</span>. <span class="legalArticleTitle">Tidsbegrensning</span></h2><article class="legalP" id="paragraf-2-ledd-1">Forskriften gjelder ikke utover 31. desember 2011.</article></article><article class="legalArticle" data-lovdata-URL="LTI/forskrift/2008-08-04-878/§3" data-name="§3" id="paragraf-3"><h2 class="legalArticleHeader"><span class="legalArticleValue">§ 3</span>.</h2><article class="legalP" id="paragraf-3-ledd-1">Forskriften trer i kraft straks.</article></article></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om unntak fra rekvirents meldeplikt til Reseptformidleren</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2008-08-04-878</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2008-08-04-878</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Helse- og omsorgsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2008 hefte 9 s 1397</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2008-08-04 &#x2013; 2011-12-31</dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>forskrift/2007-12-21-1610/&#xA7;8-1</li>
+            <li>forskrift/2007-12-21-1610/&#xA7;2-1</li>
+            <li>lov/2001-05-18-24/&#xA7;9</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2008-08-12 13:55</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2008-0722</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Forskrift om meldeplikt til reseptformidleren</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om unntak fra rekvirents meldeplikt til Reseptformidleren</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Helse- og omsorgsdepartementet 4. august 2008 med hjemmel i forskrift 21. desember 2007 nr. 1610 om behandling av helseopplysninger i nasjonal database for elektroniske resepter (Reseptformidlerforskriften) &#xA7; 8-1, jf. &#xA7; 2-1 og lov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger (helseregisterloven) &#xA7; 9.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2008-08-04-878</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om unntak fra rekvirents meldeplikt til Reseptformidleren<ul class="tocSubUl"><li>&#xA7; 1. Unntak fra meldeplikt</li><li>&#xA7; 2. Tidsbegrensning</li><li>&#xA7; 3.</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2008-08-04-878" id="dokument">
+      <h1>Forskrift om unntak fra rekvirents meldeplikt til Reseptformidleren</h1>
+      <article class="legalArticle" data-lovdata-URL="LTI/forskrift/2008-08-04-878/&#xA7;1" data-name="&#xA7;1" id="paragraf-1">
+        <h2 class="legalArticleHeader"><span class="legalArticleValue">&#xA7; 1</span>. <span class="legalArticleTitle">Unntak fra meldeplikt</span></h2>
+        <article class="legalP" id="paragraf-1-ledd-1">Rekvirentens meldeplikt til reseptformidleren, jf. reseptformidlerforskriften &#xA7; 2-1 f&#xF8;rste og andre ledd gjelder bare for de rekvirenter som har inng&#xE5;tt pilotavtale med Helsedirektoratet.</article>
+        <article class="legalP" id="paragraf-1-ledd-2">Meldeplikten skal praktiseres slik det fremg&#xE5;r av den enkelte pilotavtale.</article>
+      </article>
+      <article class="legalArticle" data-lovdata-URL="LTI/forskrift/2008-08-04-878/&#xA7;2" data-name="&#xA7;2" id="paragraf-2">
+        <h2 class="legalArticleHeader"><span class="legalArticleValue">&#xA7; 2</span>. <span class="legalArticleTitle">Tidsbegrensning</span></h2>
+        <article class="legalP" id="paragraf-2-ledd-1">Forskriften gjelder ikke utover 31. desember 2011.</article>
+      </article>
+      <article class="legalArticle" data-lovdata-URL="LTI/forskrift/2008-08-04-878/&#xA7;3" data-name="&#xA7;3" id="paragraf-3">
+        <h2 class="legalArticleHeader"><span class="legalArticleValue">&#xA7; 3</span>.</h2>
+        <article class="legalP" id="paragraf-3-ledd-1">Forskriften trer i kraft straks.</article>
+      </article>
+    </main>
+  </body>
+</html>

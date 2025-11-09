@@ -1,1 +1,87 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift om Meldingssystem for smittsomme sykdommer (MSIS-forskriften)</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2019-06-19-758</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2019-06-19-758</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Helse- og omsorgsdepartementet</li></ul></dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2019-06-19</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2003-06-20-740</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>forskrift/2003-06-20-740/§1-2</li><li>lov/1967-02-10/§13d</li><li>lov/1967-02-10/§37</li><li>lov/1994-08-05-55/§2-3</li><li>lov/2003-12-19-124/§14</li><li>lov/2008-06-20-44/§2</li><li>lov/2008-06-20-44/§25</li><li>lov/2014-06-20-43/§11</li><li>lov/2014-06-20-43/§13</li><li>lov/2014-06-20-43/§21</li><li>lov/2014-06-20-43/§22</li><li>lov/2014-06-20-43/§24</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2019-06-20 15:00</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2019-0508</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i MSIS-forskriften</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om Meldingssystem for smittsomme sykdommer (MSIS-forskriften)</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Helse- og omsorgsdepartementet 19. juni 2019 med hjemmel i forskrift 20. juni 2003 nr. 740 om Meldingssystem for smittsomme sykdommer (MSIS-forskriften) § 1-2 femte ledd.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2019-06-19-758</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om Meldingssystem for smittsomme sykdommer (MSIS-forskriften)<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2019-06-19-758" id="dokument"><h1>Forskrift om endring i forskrift om Meldingssystem for smittsomme sykdommer (MSIS-forskriften)</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2019-06-19-758/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift 20. juni 2003 nr. 740 om Meldingssystem for smittsomme sykdommer (MSIS-forskriften) gjøres følgende endring:</article> <article class="defaultP" margin-top="true">Vedlegg I, gruppe A, punkt 1.6 skal lyde:</article> <article class="defaultP" margin-top="true"><i>1.6 Alvorlige miljøsykdommer:</i><p class="leddfortsettelse">Legionellose</p><p class="leddfortsettelse">Shewanellainfeksjon</p><p class="leddfortsettelse">Vibrioinfeksjon.</p></article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2019-06-19-758/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Forskriften trer i kraft straks.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift om Meldingssystem for smittsomme sykdommer (MSIS-forskriften)</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2019-06-19-758</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2019-06-19-758</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Helse- og omsorgsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2019-06-19</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2003-06-20-740</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>forskrift/2003-06-20-740/&#xA7;1-2</li>
+            <li>lov/1967-02-10/&#xA7;13d</li>
+            <li>lov/1967-02-10/&#xA7;37</li>
+            <li>lov/1994-08-05-55/&#xA7;2-3</li>
+            <li>lov/2003-12-19-124/&#xA7;14</li>
+            <li>lov/2008-06-20-44/&#xA7;2</li>
+            <li>lov/2008-06-20-44/&#xA7;25</li>
+            <li>lov/2014-06-20-43/&#xA7;11</li>
+            <li>lov/2014-06-20-43/&#xA7;13</li>
+            <li>lov/2014-06-20-43/&#xA7;21</li>
+            <li>lov/2014-06-20-43/&#xA7;22</li>
+            <li>lov/2014-06-20-43/&#xA7;24</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2019-06-20 15:00</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2019-0508</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i MSIS-forskriften</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om Meldingssystem for smittsomme sykdommer (MSIS-forskriften)</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Helse- og omsorgsdepartementet 19. juni 2019 med hjemmel i forskrift 20. juni 2003 nr. 740 om Meldingssystem for smittsomme sykdommer (MSIS-forskriften) &#xA7; 1-2 femte ledd.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2019-06-19-758</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om Meldingssystem for smittsomme sykdommer (MSIS-forskriften)<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2019-06-19-758" id="dokument">
+      <h1>Forskrift om endring i forskrift om Meldingssystem for smittsomme sykdommer (MSIS-forskriften)</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2019-06-19-758/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift 20. juni 2003 nr. 740 om Meldingssystem for smittsomme sykdommer (MSIS-forskriften) gj&#xF8;res f&#xF8;lgende endring:</article>
+        <article class="defaultP" margin-top="true">Vedlegg I, gruppe A, punkt 1.6 skal lyde:</article>
+        <article class="defaultP" margin-top="true">
+          <i>1.6 Alvorlige milj&#xF8;sykdommer:</i>
+          <p class="leddfortsettelse">Legionellose</p>
+          <p class="leddfortsettelse">Shewanellainfeksjon</p>
+          <p class="leddfortsettelse">Vibrioinfeksjon.</p>
+        </article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2019-06-19-758/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Forskriften trer i kraft straks.</article>
+      </section>
+    </main>
+  </body>
+</html>

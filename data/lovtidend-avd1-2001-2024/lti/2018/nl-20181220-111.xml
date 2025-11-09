@@ -1,1 +1,73 @@
-<!DOCTYPE html><html lang="no"><head><title>Lov om endring i folkeregisterloven</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">LOV-2018-12-20-111</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/lov/2018-12-20-111</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Finansdepartementet</li></ul></dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2019-07-01</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>lov/2016-12-09-88</li></ul></dd><dt class="legalArea">Rettsområde</dt><dd class="legalArea"><ul><li>IKT- og medierett &gt; Personopplysninger</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2018-12-20 15:50</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2018-1237</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endringslov til folkeregisterloven</dd><dt class="title">Tittel</dt><dd class="title">Lov om endring i folkeregisterloven</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Prop.1 LS (2018–2019), Innst.4 L (2018–2019), Lovvedtak 34 (2018–2019). Stortingets første og andre gangs behandling hhv. 12. og 15. desember 2018. Fremmet av Finansdepartementet.</dd><dt class="refid">RefID</dt><dd class="refid">lov/2018-12-20-111</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Lov om endring i folkeregisterloven<ul class="tocSubUl"><li>I<ul class="tocSubUl"><li>§ 9-4. Bruk av personopplysninger ved utvikling og testing av IT-systemer</li></ul></li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/lov/2018-12-20-111" id="dokument"><h1>Lov om endring i folkeregisterloven</h1><article class="defaultP" data-text-size="small">Endring i følgende lov:<ul class="defaultList" data-text-size="small"><li><article class="listArticle" data-text-size="small" id="punkt-1"><article class="legalP" id="punkt-1-ledd-1">Lov 9. desember 2016 nr. 88 om folkeregistrering (folkeregisterloven).</article></article></li></ul></article><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2018-12-20-111/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I lov 9. desember 2016 nr. 88 om folkeregistrering skal ny § 9-4 lyde:</article><article class="futureLegalArticle" data-name="§9-4" id="kapittel-1-foreslåttparagraf-1"><span class="futureLegalArticleHeader">§ 9-4. <span class="legalArticleTitle">Bruk av personopplysninger ved utvikling og testing av IT-systemer</span></span><article class="legalP" id="kapittel-1-foreslåttparagraf-1-ledd-1">Folkeregistermyndigheten kan behandle innhentede personopplysninger for å utvikle og teste IT-systemer dersom det vil være umulig eller uforholdsmessig vanskelig å oppnå formålet ved å bruke anonyme eller fiktive opplysninger.</article><article class="legalP" id="kapittel-1-foreslåttparagraf-1-ledd-2">Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf.</article></article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2018-12-20-111/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Endringen under I trer i kraft 1. juli 2019.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Lov om endring i folkeregisterloven</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">LOV-2018-12-20-111</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/lov/2018-12-20-111</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Finansdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2019-07-01</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>lov/2016-12-09-88</li>
+          </ul>
+        </dd>
+        <dt class="legalArea">Rettsomr&#xE5;de</dt>
+        <dd class="legalArea">
+          <ul>
+            <li>IKT- og medierett &gt; Personopplysninger</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2018-12-20 15:50</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2018-1237</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endringslov til folkeregisterloven</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Lov om endring i folkeregisterloven</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Prop.1 LS (2018&#x2013;2019), Innst.4 L (2018&#x2013;2019), Lovvedtak 34 (2018&#x2013;2019). Stortingets f&#xF8;rste og andre gangs behandling hhv. 12. og 15. desember 2018. Fremmet av Finansdepartementet.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">lov/2018-12-20-111</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Lov om endring i folkeregisterloven<ul class="tocSubUl"><li>I<ul class="tocSubUl"><li>&#xA7; 9-4. Bruk av personopplysninger ved utvikling og testing av IT-systemer</li></ul></li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/lov/2018-12-20-111" id="dokument">
+      <h1>Lov om endring i folkeregisterloven</h1>
+      <article class="defaultP" data-text-size="small">Endring i f&#xF8;lgende lov:<ul class="defaultList" data-text-size="small"><li><article class="listArticle" data-text-size="small" id="punkt-1"><article class="legalP" id="punkt-1-ledd-1">Lov 9. desember 2016 nr. 88 om folkeregistrering (folkeregisterloven).</article></article></li></ul></article>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2018-12-20-111/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I lov 9. desember 2016 nr. 88 om folkeregistrering skal ny &#xA7; 9-4 lyde:</article>
+        <article class="futureLegalArticle" data-name="&#xA7;9-4" id="kapittel-1-foresl&#xE5;ttparagraf-1">
+          <span class="futureLegalArticleHeader">&#xA7; 9-4. <span class="legalArticleTitle">Bruk av personopplysninger ved utvikling og testing av IT-systemer</span></span>
+          <article class="legalP" id="kapittel-1-foresl&#xE5;ttparagraf-1-ledd-1">Folkeregistermyndigheten kan behandle innhentede personopplysninger for &#xE5; utvikle og teste IT-systemer dersom det vil v&#xE6;re umulig eller uforholdsmessig vanskelig &#xE5; oppn&#xE5; form&#xE5;let ved &#xE5; bruke anonyme eller fiktive opplysninger.</article>
+          <article class="legalP" id="kapittel-1-foresl&#xE5;ttparagraf-1-ledd-2">Departementet kan gi forskrift til utfylling og gjennomf&#xF8;ring av denne paragraf.</article>
+        </article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2018-12-20-111/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Endringen under I trer i kraft 1. juli 2019.</article>
+      </section>
+    </main>
+  </body>
+</html>

@@ -27,3 +27,13 @@ jq -r '.[].filename' lovdata-public-data-list.json | while read -r filename; do
     tar -xjf "cache/$filename" -C data/$filename_without_extension
 
 done
+
+echo "Formatting XML files"
+
+# Loop through every .xml file under data/ and subfolders
+for file in $(find data -type f -name "*.xml"); do
+  echo "Formatting: $file"
+  xmllint --format --output "$file" "$file"
+done
+
+echo "Done."

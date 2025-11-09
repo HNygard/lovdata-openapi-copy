@@ -13,7 +13,7 @@ Data is licensed under NLOD 2.0 - https://data.norge.no/nlod/en/2.0
 
 (Source: https://api.lovdata.no/om-api-tjenesten/ - https://web.archive.org/web/20251109203129/https://api.lovdata.no/om-api-tjenesten/)
 
-## What does it do?
+## How does this scraper work?
 
 1. Gets https://api.lovdata.no/v1/publicData/list
 ```
@@ -28,5 +28,6 @@ Data is licensed under NLOD 2.0 - https://data.norge.no/nlod/en/2.0
 ]
 ```
 
-2. Download every tar ball
-3. Extract
+2. Download every tar ball (e.g. `gjeldende-lover.tar.bz2`)
+3. Extract all the files to folder `data` (e.g. `data/gjeldende-lover/nl/(...).xml`)
+4. Format all XML files (originals are all XML on one line)

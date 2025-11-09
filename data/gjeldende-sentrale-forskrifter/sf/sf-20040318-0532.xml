@@ -1,1 +1,87 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om helseføretak som statsorgan etter lov om målbruk i offentleg teneste.</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2004-03-18-532</dd><dt class="dokid">DokumentID</dt><dd class="dokid">SF/forskrift/2004-03-18-532</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Kultur- og likestillingsdepartementet</li></ul></dd><dt class="subunit">Etat</dt><dd class="subunit"><ul><li>Kulturavd.</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2004 hefte 5</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2004-03-18</dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li><a href="lov/1980-04-11-5/§3">lov/1980-04-11-5/§3</a></li><li><a href="forskrift/1980-12-05-4938">forskrift/1980-12-05-4938</a></li><li><a href="lov/2021-05-21-42/§21">lov/2021-05-21-42/§21</a></li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2004-03-19</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Forskrift om målbruk i helseføretak</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om helseføretak som statsorgan etter lov om målbruk i offentleg teneste.</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Fastsett av Kultur- og kyrkjedepartementet 18. mars 2004 med heimel i <a href="lov/1980-04-11-5">lov 11. april 1980 nr. 5</a> om målbruk i offentleg teneste <a href="lov/1980-04-11-5/§3">§ 3</a> andre ledd, jf. <a href="forskrift/1980-12-05-4938">forskrift 5. desember 1980 nr. 4938</a> om målbruk i offentleg teneste.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2004-03-18-532</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li><a href="#dokument">Forskrift om helseføretak som statsorgan etter lov om målbruk i offentleg teneste.</a><ul class="tocSubUl"><li><a href="#kapittel-1">I</a></li><li><a href="#kapittel-2">II</a></li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="SF/forskrift/2004-03-18-532" id="dokument"><h1>Forskrift om helseføretak som statsorgan etter lov om målbruk i offentleg teneste.</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="SF/forskrift/2004-03-18-532/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">Helseføretak og regionale helseføretak etter <a href="lov/2001-06-15-93">lov 15. juni 2001 nr. 93</a> om helseføretak m.m. <a href="lov/2001-06-15-93/§2">§ 2</a> er å rekna som «organ for stat» etter <a href="lov/1980-04-11-5">lov 11. april 1980 nr. 5</a> om målbruk i offentleg teneste <a href="lov/1980-04-11-5/§1">§ 1</a> og dermed som ein del av «statstenesta» etter <a href="lov/1980-04-11-5/§2">§ 2</a> første ledd i sistnemnde lov.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="SF/forskrift/2004-03-18-532/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Forskrifta trer i kraft straks.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om helsef&#xF8;retak som statsorgan etter lov om m&#xE5;lbruk i offentleg teneste.</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2004-03-18-532</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">SF/forskrift/2004-03-18-532</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Kultur- og likestillingsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="subunit">Etat</dt>
+        <dd class="subunit">
+          <ul>
+            <li>Kulturavd.</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2004 hefte 5</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2004-03-18</dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>
+              <a href="lov/1980-04-11-5/&#xA7;3">lov/1980-04-11-5/&#xA7;3</a>
+            </li>
+            <li>
+              <a href="forskrift/1980-12-05-4938">forskrift/1980-12-05-4938</a>
+            </li>
+            <li>
+              <a href="lov/2021-05-21-42/&#xA7;21">lov/2021-05-21-42/&#xA7;21</a>
+            </li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2004-03-19</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Forskrift om m&#xE5;lbruk i helsef&#xF8;retak</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om helsef&#xF8;retak som statsorgan etter lov om m&#xE5;lbruk i offentleg teneste.</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Fastsett av Kultur- og kyrkjedepartementet 18. mars 2004 med heimel i <a href="lov/1980-04-11-5">lov 11. april 1980 nr. 5</a> om m&#xE5;lbruk i offentleg teneste <a href="lov/1980-04-11-5/&#xA7;3">&#xA7; 3</a> andre ledd, jf. <a href="forskrift/1980-12-05-4938">forskrift 5. desember 1980 nr. 4938</a> om m&#xE5;lbruk i offentleg teneste.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2004-03-18-532</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>
+              <a href="#dokument">Forskrift om helsef&#xF8;retak som statsorgan etter lov om m&#xE5;lbruk i offentleg teneste.</a>
+              <ul class="tocSubUl">
+                <li>
+                  <a href="#kapittel-1">I</a>
+                </li>
+                <li>
+                  <a href="#kapittel-2">II</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="SF/forskrift/2004-03-18-532" id="dokument">
+      <h1>Forskrift om helsef&#xF8;retak som statsorgan etter lov om m&#xE5;lbruk i offentleg teneste.</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="SF/forskrift/2004-03-18-532/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">Helsef&#xF8;retak og regionale helsef&#xF8;retak etter <a href="lov/2001-06-15-93">lov 15. juni 2001 nr. 93</a> om helsef&#xF8;retak m.m. <a href="lov/2001-06-15-93/&#xA7;2">&#xA7; 2</a> er &#xE5; rekna som &#xAB;organ for stat&#xBB; etter <a href="lov/1980-04-11-5">lov 11. april 1980 nr. 5</a> om m&#xE5;lbruk i offentleg teneste <a href="lov/1980-04-11-5/&#xA7;1">&#xA7; 1</a> og dermed som ein del av &#xAB;statstenesta&#xBB; etter <a href="lov/1980-04-11-5/&#xA7;2">&#xA7; 2</a> f&#xF8;rste ledd i sistnemnde lov.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="SF/forskrift/2004-03-18-532/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Forskrifta trer i kraft straks.</article>
+      </section>
+    </main>
+  </body>
+</html>

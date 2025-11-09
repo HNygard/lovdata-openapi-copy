@@ -1,1 +1,82 @@
-<!DOCTYPE html><html lang="nb"><head><title>Forskrift om endring i HPAI-soneforskrift</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2022-12-07-2099</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2022-12-07-2099</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Landbruks- og matdepartementet</li></ul></dd><dt class="subunit">Etat</dt><dd class="subunit"><ul><li>Mattilsynet</li></ul></dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2022-12-07</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2022-10-21-1779</li></ul></dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/2003-12-19-124/§16</li><li>lov/2003-12-19-124/§19</li><li>forskrift/2003-12-19-1790</li><li>forskrift/2004-05-05-884</li><li>forskrift/2006-04-07-444</li><li>forskrift/2022-04-06-631/§25</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2022-12-07 14:45</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2022-1573</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i HPAI-soneforskrift</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i HPAI-soneforskrift</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Mattilsynet 7. desember 2022 med hjemmel i forskrift 6. april 2022 nr. 631 om dyrehelse (dyrehelseforskriften) § 25, jf. lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 16 og § 19, jf. delegeringsvedtak 19. desember 2003 nr. 1790, delegeringsvedtak 5. mai 2004 nr. 884 og delegeringsvedtak 7. april 2006 nr. 444.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2022-12-07-2099</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i HPAI-soneforskrift<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2022-12-07-2099" id="dokument"><h1>Forskrift om endring i HPAI-soneforskrift</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2022-12-07-2099/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="defaultP">I forskrift 21. oktober 2022 nr. 1779 om opprettelse av restriksjonssone for å bekjempe høypatogen aviær influensa (HPAI-soneforskrift) gjøres følgende endringer:</article> <article class="defaultP" margin-top="true">§ 2 nytt andre ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-1">I restriksjonssone Kolnes består vernesonen til og med 7. desember 2022. Restriksjonssone Kolnes utgjør kun en overvåkingssone fra og med 8. desember 2022.</article> <article class="defaultP" margin-top="true">Innledende setning til vedlegget skal lyde:</article><article class="legalP" id="kapittel-1-ledd-2"><i>Restriksjonssone Kolnes:</i> Vernesone Kolnes angis med liten rød sirkel med radius på 3 km på kartet og overvåkningssonen angis med stor rød sirkel med radius på 10 km på kartet. Restriksjonssonen utgjør kun en overvåkingssone fra og med 8. desember 2022, som angitt med stor sirkel.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2022-12-07-2099/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft straks.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="nb">
+  <head>
+    <title>Forskrift om endring i HPAI-soneforskrift</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2022-12-07-2099</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2022-12-07-2099</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Landbruks- og matdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="subunit">Etat</dt>
+        <dd class="subunit">
+          <ul>
+            <li>Mattilsynet</li>
+          </ul>
+        </dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2022-12-07</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2022-10-21-1779</li>
+          </ul>
+        </dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/2003-12-19-124/&#xA7;16</li>
+            <li>lov/2003-12-19-124/&#xA7;19</li>
+            <li>forskrift/2003-12-19-1790</li>
+            <li>forskrift/2004-05-05-884</li>
+            <li>forskrift/2006-04-07-444</li>
+            <li>forskrift/2022-04-06-631/&#xA7;25</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2022-12-07 14:45</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2022-1573</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i HPAI-soneforskrift</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i HPAI-soneforskrift</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Mattilsynet 7. desember 2022 med hjemmel i forskrift 6. april 2022 nr. 631 om dyrehelse (dyrehelseforskriften) &#xA7; 25, jf. lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) &#xA7; 16 og &#xA7; 19, jf. delegeringsvedtak 19. desember 2003 nr. 1790, delegeringsvedtak 5. mai 2004 nr. 884 og delegeringsvedtak 7. april 2006 nr. 444.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2022-12-07-2099</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i HPAI-soneforskrift<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2022-12-07-2099" id="dokument">
+      <h1>Forskrift om endring i HPAI-soneforskrift</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2022-12-07-2099/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="defaultP">I forskrift 21. oktober 2022 nr. 1779 om opprettelse av restriksjonssone for &#xE5; bekjempe h&#xF8;ypatogen avi&#xE6;r influensa (HPAI-soneforskrift) gj&#xF8;res f&#xF8;lgende endringer:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 2 nytt andre ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-1">I restriksjonssone Kolnes best&#xE5;r vernesonen til og med 7. desember 2022. Restriksjonssone Kolnes utgj&#xF8;r kun en overv&#xE5;kingssone fra og med 8. desember 2022.</article>
+        <article class="defaultP" margin-top="true">Innledende setning til vedlegget skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2"><i>Restriksjonssone Kolnes:</i> Vernesone Kolnes angis med liten r&#xF8;d sirkel med radius p&#xE5; 3 km p&#xE5; kartet og overv&#xE5;kningssonen angis med stor r&#xF8;d sirkel med radius p&#xE5; 10 km p&#xE5; kartet. Restriksjonssonen utgj&#xF8;r kun en overv&#xE5;kingssone fra og med 8. desember 2022, som angitt med stor sirkel.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2022-12-07-2099/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft straks.</article>
+      </section>
+    </main>
+  </body>
+</html>

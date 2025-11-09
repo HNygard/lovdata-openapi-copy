@@ -1,1 +1,83 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2011-01-19-61</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2011-01-19-61</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Fiskeridepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2011 hefte 1 s 172</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2011-03-01</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2009-12-21-1743</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/2008-06-06-37/§34</li><li>lov/2008-06-06-37/§35</li><li>lov/2008-06-06-37/§36</li><li>lov/2008-06-06-37/§37</li><li>lov/2008-06-06-37/§39</li><li>lov/2008-06-06-37/§43</li><li>forskrift/2009-12-21-1743/§22</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2011-01-25 13:50</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2011-0060</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i forskrift om posisjonsrapportering mv.</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Fiskeridirektoratet 19. januar 2011 med hjemmel i lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 34, § 35, § 36, § 37, § 39 og § 43, jf. forskrift 21. desember 2009 nr. 1743 om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy § 22.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2011-01-19-61</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2011-01-19-61" id="dokument"><h1>Forskrift om endring i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2011-01-19-61/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift 21. desember 2009 nr. 1743 om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy gjøres følgende endringer:</article> <article class="defaultP" margin-top="true">§ 12 tredje ledd dataelementene AC, ZO, CA og ny TF skal lyde: <table><thead><tr><th data-text-align="left" data-vertical-align="bottom"><i>Blokk A<br />Dataelement</i></th><th data-text-align="left" data-vertical-align="bottom"><i>Kode</i></th><th data-text-align="left" data-vertical-align="bottom"><i>Påkrevd/Valgfritt</i></th><th data-text-align="left" data-vertical-align="bottom"><i>Forklaring</i></th></tr></thead><tbody><tr><td data-text-align="left" data-vertical-align="top">Fiskeriaktivitet</td><td data-text-align="left" data-vertical-align="top">AC</td><td data-text-align="left" data-vertical-align="top">P</td><td data-text-align="left" data-vertical-align="top">FIS = i fiske, STE = stimer (NEAFC-koder), REL = omlokalisering av fangst, SET = setting av redskap.<br />REL skal anvendes av det fartøy som pumper om bord fangst fra sjøen fisket av et annet fartøy.<br />SET skal anvendes av fartøy som fisker med garn eller line i Norges økonomiske sone og territorialfarvann, og som kun skal sette redskap.</td></tr></tbody></table><table><thead><tr><th data-text-align="left" data-vertical-align="bottom"><i>Blokk B<br />Dataelement</i></th><th data-text-align="left" data-vertical-align="bottom"><i>Kode</i></th><th data-text-align="left" data-vertical-align="bottom"><i>Påkrevd/Valgfritt</i></th><th data-text-align="left" data-vertical-align="bottom"><i>Forklaring</i></th></tr></thead><tbody><tr><td data-text-align="left" data-vertical-align="top">Start sone</td><td data-text-align="left" data-vertical-align="top">ZO</td><td data-text-align="left" data-vertical-align="top">P</td><td data-text-align="left" data-vertical-align="top">Sone der fiskeoperasjonen starter (LT, LG) (ISO alfa-3, se vedlegg 4)</td></tr><tr><td data-text-align="left" data-vertical-align="top">Fangst</td><td data-text-align="left" data-vertical-align="top">CA</td><td data-text-align="left" data-vertical-align="top">P</td><td data-text-align="left" data-vertical-align="top">Total fangst fra denne fiskeoperasjonen fordelt på fiskesort (FAO fiskesortkode) i kilo rund vekt. Parvis angitt.<br />I tillegg skal bifangst av sjøpattedyr og sjøfugl føres under denne koden fordelt etter antall og art. Liste over sjøpattedyr og sjøfugl finnes på www.fiskeridir.no.</td></tr><tr><td data-text-align="left" data-vertical-align="top">Pumpet fra</td><td data-text-align="left" data-vertical-align="top">TF</td><td data-text-align="left" data-vertical-align="top">PD</td><td data-text-align="left" data-vertical-align="top">Radiokallesignal på fartøyet det pumpes fangst fra.<br />PD: påkrevd dersom dataelementet AC i Blokk A er angitt som REL.</td></tr></tbody></table></article> <article class="defaultP" margin-top="true">§ 19 første ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-2">Melding om fangst etter § 12 kan korrigeres frem til klokken 12.00 UTC dagen etter at slik melding er sendt eller inntil melding om havneanløp er sendt, dersom returmeldingen angir meldingsstatus ACK.</article> <article class="defaultP" margin-top="true">Vedlegg 2 skal lyde:</article><article class="legalP" id="kapittel-1-ledd-3">Feilkoder er koder som brukes for å varsle, enten om at noe er feil, eller om at avsender ønsker å kansellere eller korrigere en sendt melding. Nye feilkoder opprettes kontinuerlig, blant annet i forbindelse med utarbeidelse av sjekkrutiner. Videre vil det under implementeringen av systemene utarbeides detaljerte instrukser for hva som skal gjøres når de ulike feilkodene forekommer.</article><article class="legalP" id="kapittel-1-ledd-4">Oppdatert liste over feilkoder finnes på Fiskeridirektoratets hjemmesider:<p class="leddfortsettelse">www.fiskeridir.no/fiske-og-fangst/n/feilkodelister</p></article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2011-01-19-61/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft fra og med 1. mars 2011.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfart&#xF8;y</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2011-01-19-61</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2011-01-19-61</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Fiskeridepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2011 hefte 1 s 172</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2011-03-01</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2009-12-21-1743</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/2008-06-06-37/&#xA7;34</li>
+            <li>lov/2008-06-06-37/&#xA7;35</li>
+            <li>lov/2008-06-06-37/&#xA7;36</li>
+            <li>lov/2008-06-06-37/&#xA7;37</li>
+            <li>lov/2008-06-06-37/&#xA7;39</li>
+            <li>lov/2008-06-06-37/&#xA7;43</li>
+            <li>forskrift/2009-12-21-1743/&#xA7;22</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2011-01-25 13:50</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2011-0060</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i forskrift om posisjonsrapportering mv.</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfart&#xF8;y</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Fiskeridirektoratet 19. januar 2011 med hjemmel i lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) &#xA7; 34, &#xA7; 35, &#xA7; 36, &#xA7; 37, &#xA7; 39 og &#xA7; 43, jf. forskrift 21. desember 2009 nr. 1743 om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfart&#xF8;y &#xA7; 22.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2011-01-19-61</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfart&#xF8;y<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2011-01-19-61" id="dokument">
+      <h1>Forskrift om endring i forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfart&#xF8;y</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2011-01-19-61/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift 21. desember 2009 nr. 1743 om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfart&#xF8;y gj&#xF8;res f&#xF8;lgende endringer:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 12 tredje ledd dataelementene AC, ZO, CA og ny TF skal lyde: <table><thead><tr><th data-text-align="left" data-vertical-align="bottom"><i>Blokk A<br/>Dataelement</i></th><th data-text-align="left" data-vertical-align="bottom"><i>Kode</i></th><th data-text-align="left" data-vertical-align="bottom"><i>P&#xE5;krevd/Valgfritt</i></th><th data-text-align="left" data-vertical-align="bottom"><i>Forklaring</i></th></tr></thead><tbody><tr><td data-text-align="left" data-vertical-align="top">Fiskeriaktivitet</td><td data-text-align="left" data-vertical-align="top">AC</td><td data-text-align="left" data-vertical-align="top">P</td><td data-text-align="left" data-vertical-align="top">FIS = i fiske, STE = stimer (NEAFC-koder), REL = omlokalisering av fangst, SET = setting av redskap.<br/>REL skal anvendes av det fart&#xF8;y som pumper om bord fangst fra sj&#xF8;en fisket av et annet fart&#xF8;y.<br/>SET skal anvendes av fart&#xF8;y som fisker med garn eller line i Norges &#xF8;konomiske sone og territorialfarvann, og som kun skal sette redskap.</td></tr></tbody></table><table><thead><tr><th data-text-align="left" data-vertical-align="bottom"><i>Blokk B<br/>Dataelement</i></th><th data-text-align="left" data-vertical-align="bottom"><i>Kode</i></th><th data-text-align="left" data-vertical-align="bottom"><i>P&#xE5;krevd/Valgfritt</i></th><th data-text-align="left" data-vertical-align="bottom"><i>Forklaring</i></th></tr></thead><tbody><tr><td data-text-align="left" data-vertical-align="top">Start sone</td><td data-text-align="left" data-vertical-align="top">ZO</td><td data-text-align="left" data-vertical-align="top">P</td><td data-text-align="left" data-vertical-align="top">Sone der fiskeoperasjonen starter (LT, LG) (ISO alfa-3, se vedlegg 4)</td></tr><tr><td data-text-align="left" data-vertical-align="top">Fangst</td><td data-text-align="left" data-vertical-align="top">CA</td><td data-text-align="left" data-vertical-align="top">P</td><td data-text-align="left" data-vertical-align="top">Total fangst fra denne fiskeoperasjonen fordelt p&#xE5; fiskesort (FAO fiskesortkode) i kilo rund vekt. Parvis angitt.<br/>I tillegg skal bifangst av sj&#xF8;pattedyr og sj&#xF8;fugl f&#xF8;res under denne koden fordelt etter antall og art. Liste over sj&#xF8;pattedyr og sj&#xF8;fugl finnes p&#xE5; www.fiskeridir.no.</td></tr><tr><td data-text-align="left" data-vertical-align="top">Pumpet fra</td><td data-text-align="left" data-vertical-align="top">TF</td><td data-text-align="left" data-vertical-align="top">PD</td><td data-text-align="left" data-vertical-align="top">Radiokallesignal p&#xE5; fart&#xF8;yet det pumpes fangst fra.<br/>PD: p&#xE5;krevd dersom dataelementet AC i Blokk A er angitt som REL.</td></tr></tbody></table></article>
+        <article class="defaultP" margin-top="true">&#xA7; 19 f&#xF8;rste ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">Melding om fangst etter &#xA7; 12 kan korrigeres frem til klokken 12.00 UTC dagen etter at slik melding er sendt eller inntil melding om havneanl&#xF8;p er sendt, dersom returmeldingen angir meldingsstatus ACK.</article>
+        <article class="defaultP" margin-top="true">Vedlegg 2 skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-3">Feilkoder er koder som brukes for &#xE5; varsle, enten om at noe er feil, eller om at avsender &#xF8;nsker &#xE5; kansellere eller korrigere en sendt melding. Nye feilkoder opprettes kontinuerlig, blant annet i forbindelse med utarbeidelse av sjekkrutiner. Videre vil det under implementeringen av systemene utarbeides detaljerte instrukser for hva som skal gj&#xF8;res n&#xE5;r de ulike feilkodene forekommer.</article>
+        <article class="legalP" id="kapittel-1-ledd-4">Oppdatert liste over feilkoder finnes p&#xE5; Fiskeridirektoratets hjemmesider:<p class="leddfortsettelse">www.fiskeridir.no/fiske-og-fangst/n/feilkodelister</p></article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2011-01-19-61/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft fra og med 1. mars 2011.</article>
+      </section>
+    </main>
+  </body>
+</html>

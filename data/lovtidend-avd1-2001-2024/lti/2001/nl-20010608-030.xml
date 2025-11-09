@@ -1,1 +1,69 @@
-<!DOCTYPE html><html lang="no"><head><title>Lov om endringer i lov 18. juni 1965 nr. 4 om vegtrafikk.</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">LOV-2001-06-08-30</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/lov/2001-06-08-30</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Samferdselsdepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2001 hefte 7</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2001-06-08</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>lov/1965-06-18-4</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2001-06-08</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2001-0640</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endringslov til vegtrafikkloven</dd><dt class="title">Tittel</dt><dd class="title">Lov om endringer i lov 18. juni 1965 nr. 4 om vegtrafikk.</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Ot.prp.nr.40 (2000–2001), Innst.O.nr.65 (2000–2001) og Besl.O.nr.87 (2000–2001). Odels- og lagtingsvedtak hhv. 3. og 29. mai 2001. Fremmet av Samferdselsdepartementet.</dd><dt class="refid">RefID</dt><dd class="refid">lov/2001-06-08-30</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Lov om endringer i lov 18. juni 1965 nr. 4 om vegtrafikk.<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/lov/2001-06-08-30" id="dokument"><h1>Lov om endringer i lov 18. juni 1965 nr. 4 om vegtrafikk.</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2001-06-08-30/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I lov 18. juni 1965 nr. 4 om vegtrafikk gjøres følgende endringer:</article> <article class="defaultP" margin-top="true">Ny § 13 a skal lyde:<p class="leddfortsettelse"><i>Forbud mot varslingsutstyr o.l. i motorvogn</i></p></article><article class="legalP" id="kapittel-1-ledd-2">I motorvogn er det forbudt å besitte eller bruke utstyr som har til formål å varsle om eller forstyrre trafikkontroller. Forbudet omfatter utstyr som blokkerer, mottar eller sender signaler fra eller til utstyr for kontroll og overvåkning av trafikk.</article><article class="legalP" id="kapittel-1-ledd-3">Departementet kan gi forskrifter med nærmere bestemmelser til presisering og utfylling av forbudet i første ledd.</article> <article class="defaultP" margin-top="true">Ny overskrift til § 17 skal lyde:<p class="leddfortsettelse"><i>Bruk av motorvogn mv.</i></p></article> <article class="defaultP" margin-top="true">§ 17 første ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-4">For så vidt ikke annet følger av § 16, må motorvogn eller andre registreringspliktige kjøretøyer ikke brukes uten at de er meldt til registrering og påsatt lovlige kjennemerker og det er utferdiget vognkort. Vognkortet skal alltid følge med under bruken.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2001-06-08-30/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Loven trer i kraft straks.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Lov om endringer i lov 18. juni 1965 nr. 4 om vegtrafikk.</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">LOV-2001-06-08-30</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/lov/2001-06-08-30</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Samferdselsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2001 hefte 7</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2001-06-08</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>lov/1965-06-18-4</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2001-06-08</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2001-0640</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endringslov til vegtrafikkloven</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Lov om endringer i lov 18. juni 1965 nr. 4 om vegtrafikk.</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Ot.prp.nr.40 (2000&#x2013;2001), Innst.O.nr.65 (2000&#x2013;2001) og Besl.O.nr.87 (2000&#x2013;2001). Odels- og lagtingsvedtak hhv. 3. og 29. mai 2001. Fremmet av Samferdselsdepartementet.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">lov/2001-06-08-30</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Lov om endringer i lov 18. juni 1965 nr. 4 om vegtrafikk.<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/lov/2001-06-08-30" id="dokument">
+      <h1>Lov om endringer i lov 18. juni 1965 nr. 4 om vegtrafikk.</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2001-06-08-30/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I lov 18. juni 1965 nr. 4 om vegtrafikk gj&#xF8;res f&#xF8;lgende endringer:</article>
+        <article class="defaultP" margin-top="true">Ny &#xA7; 13 a skal lyde:<p class="leddfortsettelse"><i>Forbud mot varslingsutstyr o.l. i motorvogn</i></p></article>
+        <article class="legalP" id="kapittel-1-ledd-2">I motorvogn er det forbudt &#xE5; besitte eller bruke utstyr som har til form&#xE5;l &#xE5; varsle om eller forstyrre trafikkontroller. Forbudet omfatter utstyr som blokkerer, mottar eller sender signaler fra eller til utstyr for kontroll og overv&#xE5;kning av trafikk.</article>
+        <article class="legalP" id="kapittel-1-ledd-3">Departementet kan gi forskrifter med n&#xE6;rmere bestemmelser til presisering og utfylling av forbudet i f&#xF8;rste ledd.</article>
+        <article class="defaultP" margin-top="true">Ny overskrift til &#xA7; 17 skal lyde:<p class="leddfortsettelse"><i>Bruk av motorvogn mv.</i></p></article>
+        <article class="defaultP" margin-top="true">&#xA7; 17 f&#xF8;rste ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-4">For s&#xE5; vidt ikke annet f&#xF8;lger av &#xA7; 16, m&#xE5; motorvogn eller andre registreringspliktige kj&#xF8;ret&#xF8;yer ikke brukes uten at de er meldt til registrering og p&#xE5;satt lovlige kjennemerker og det er utferdiget vognkort. Vognkortet skal alltid f&#xF8;lge med under bruken.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2001-06-08-30/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Loven trer i kraft straks.</article>
+      </section>
+    </main>
+  </body>
+</html>

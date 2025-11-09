@@ -1,1 +1,73 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om publisering av opplysninger som kan være av betydning for den som bruker eller oppholder seg i havn</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2010-12-20-1761</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2010-12-20-1761</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Fiskeridepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2010 hefte 14 s 2603</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2012-01-01</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/1984-09-24-1678</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/2009-04-17-19/§42</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2010-12-28 15:20</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2010-1235</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Forskrift om publisering av havneopplysninger</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om publisering av opplysninger som kan være av betydning for den som bruker eller oppholder seg i havn</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Fiskeri- og kystdepartementet 20. desember 2010 med hjemmel i lov 17. april 2009 nr. 19 om havner og farvann § 42.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2010-12-20-1761</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om publisering av opplysninger som kan være av betydning for den som bruker eller oppholder seg i havn<ul class="tocSubUl"><li>§ 1. (krav om publisering)</li><li>§ 2. (ikrafttredelse)</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2010-12-20-1761" id="dokument"><h1>Forskrift om publisering av opplysninger som kan være av betydning for den som bruker eller oppholder seg i havn</h1><article class="legalArticle" data-lovdata-URL="LTI/forskrift/2010-12-20-1761/§1" data-name="§1" id="paragraf-1"><h2 class="legalArticleHeader"><span class="legalArticleValue">§ 1</span>. <span class="legalArticleTitle">(krav om publisering)</span></h2><article class="legalP" id="paragraf-1-ledd-1">Den som tilbyr havne- og transporttjenester skal utarbeide og publisere en samlet oversikt over gjeldende bestemmelser, pris og andre opplysninger som kan være av betydning for den som bruker eller oppholder seg i havnen, herunder bestemmelser om fartsbegrensning i sjø, orden i og bruk av farvann og havner og anløpsavgift.</article><article class="legalP" id="paragraf-1-ledd-2">Den oversikt kommunene utarbeider skal omfatte gjeldende bestemmelser, pris og andre opplysninger som gjelder i alle havner som kommunen helt eller delvis eier eller driver, og øvrige bestemmelser og opplysninger som kan være av betydning for den som bruker eller oppholder seg i havn, herunder bestemmelser om fartsbegrensning i sjø, orden i og bruk av farvann og havner og anløpsavgift.</article></article><article class="legalArticle" data-lovdata-URL="LTI/forskrift/2010-12-20-1761/§2" data-name="§2" id="paragraf-2"><h2 class="legalArticleHeader"><span class="legalArticleValue">§ 2</span>. <span class="legalArticleTitle">(ikrafttredelse)</span></h2><article class="legalP" id="paragraf-2-ledd-1">Forskriften trer i kraft 1. januar 2012.</article><article class="legalP" id="paragraf-2-ledd-2">Fra samme tidspunkt oppheves forskrift 24. september 1984 nr. 1678 i medhold av lov om havner og farvann.</article></article></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om publisering av opplysninger som kan v&#xE6;re av betydning for den som bruker eller oppholder seg i havn</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2010-12-20-1761</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2010-12-20-1761</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Fiskeridepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2010 hefte 14 s 2603</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2012-01-01</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/1984-09-24-1678</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/2009-04-17-19/&#xA7;42</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2010-12-28 15:20</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2010-1235</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Forskrift om publisering av havneopplysninger</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om publisering av opplysninger som kan v&#xE6;re av betydning for den som bruker eller oppholder seg i havn</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Fiskeri- og kystdepartementet 20. desember 2010 med hjemmel i lov 17. april 2009 nr. 19 om havner og farvann &#xA7; 42.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2010-12-20-1761</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om publisering av opplysninger som kan v&#xE6;re av betydning for den som bruker eller oppholder seg i havn<ul class="tocSubUl"><li>&#xA7; 1. (krav om publisering)</li><li>&#xA7; 2. (ikrafttredelse)</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2010-12-20-1761" id="dokument">
+      <h1>Forskrift om publisering av opplysninger som kan v&#xE6;re av betydning for den som bruker eller oppholder seg i havn</h1>
+      <article class="legalArticle" data-lovdata-URL="LTI/forskrift/2010-12-20-1761/&#xA7;1" data-name="&#xA7;1" id="paragraf-1">
+        <h2 class="legalArticleHeader"><span class="legalArticleValue">&#xA7; 1</span>. <span class="legalArticleTitle">(krav om publisering)</span></h2>
+        <article class="legalP" id="paragraf-1-ledd-1">Den som tilbyr havne- og transporttjenester skal utarbeide og publisere en samlet oversikt over gjeldende bestemmelser, pris og andre opplysninger som kan v&#xE6;re av betydning for den som bruker eller oppholder seg i havnen, herunder bestemmelser om fartsbegrensning i sj&#xF8;, orden i og bruk av farvann og havner og anl&#xF8;psavgift.</article>
+        <article class="legalP" id="paragraf-1-ledd-2">Den oversikt kommunene utarbeider skal omfatte gjeldende bestemmelser, pris og andre opplysninger som gjelder i alle havner som kommunen helt eller delvis eier eller driver, og &#xF8;vrige bestemmelser og opplysninger som kan v&#xE6;re av betydning for den som bruker eller oppholder seg i havn, herunder bestemmelser om fartsbegrensning i sj&#xF8;, orden i og bruk av farvann og havner og anl&#xF8;psavgift.</article>
+      </article>
+      <article class="legalArticle" data-lovdata-URL="LTI/forskrift/2010-12-20-1761/&#xA7;2" data-name="&#xA7;2" id="paragraf-2">
+        <h2 class="legalArticleHeader"><span class="legalArticleValue">&#xA7; 2</span>. <span class="legalArticleTitle">(ikrafttredelse)</span></h2>
+        <article class="legalP" id="paragraf-2-ledd-1">Forskriften trer i kraft 1. januar 2012.</article>
+        <article class="legalP" id="paragraf-2-ledd-2">Fra samme tidspunkt oppheves forskrift 24. september 1984 nr. 1678 i medhold av lov om havner og farvann.</article>
+      </article>
+    </main>
+  </body>
+</html>

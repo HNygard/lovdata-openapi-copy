@@ -1,1 +1,64 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om oppkreving av eksportavgift.</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-1981-06-05-8828</dd><dt class="dokid">DokumentID</dt><dd class="dokid">SF/forskrift/1981-06-05-8828</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Utenriksdepartementet</li></ul></dd><dt class="subunit">Etat</dt><dd class="subunit"><ul><li>Utenriksøk.avd. III</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 1981 616</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">1981-06-05</dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li><a href="lov/1956-03-23-3/§1">lov/1956-03-23-3/§1</a></li></ul></dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Forskrift om oppkreving av eksportavgift</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om oppkreving av eksportavgift.</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Fastsatt ved kgl.res. av 5. juni 1981. Fremmet av Handelsdepartementet.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/1981-06-05-8828</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li><a href="#dokument">Forskrift om oppkreving av eksportavgift.</a></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="SF/forskrift/1981-06-05-8828" id="dokument"><h1>Forskrift om oppkreving av eksportavgift.</h1><article class="legalP" id="ledd-1">I medhold av <a href="lov/1956-03-23-3">lov 23. mars 1956 nr. 3</a> om avgift på eksport til fremme av Norges eksportinteresser, <a href="lov/1956-03-23-3/§1">§ 1</a> tredje ledd fastsettes at varer som sendes fra Norge for lagring i utlandet eller som utføres i kommisjon/konsignasjon skal svare eksportavgift selv om en endelig salgskontrakt ikke foreligger.</article></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om oppkreving av eksportavgift.</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-1981-06-05-8828</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">SF/forskrift/1981-06-05-8828</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Utenriksdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="subunit">Etat</dt>
+        <dd class="subunit">
+          <ul>
+            <li>Utenriks&#xF8;k.avd. III</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 1981 616</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">1981-06-05</dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>
+              <a href="lov/1956-03-23-3/&#xA7;1">lov/1956-03-23-3/&#xA7;1</a>
+            </li>
+          </ul>
+        </dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Forskrift om oppkreving av eksportavgift</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om oppkreving av eksportavgift.</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Fastsatt ved kgl.res. av 5. juni 1981. Fremmet av Handelsdepartementet.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/1981-06-05-8828</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>
+              <a href="#dokument">Forskrift om oppkreving av eksportavgift.</a>
+            </li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="SF/forskrift/1981-06-05-8828" id="dokument">
+      <h1>Forskrift om oppkreving av eksportavgift.</h1>
+      <article class="legalP" id="ledd-1">I medhold av <a href="lov/1956-03-23-3">lov 23. mars 1956 nr. 3</a> om avgift p&#xE5; eksport til fremme av Norges eksportinteresser, <a href="lov/1956-03-23-3/&#xA7;1">&#xA7; 1</a> tredje ledd fastsettes at varer som sendes fra Norge for lagring i utlandet eller som utf&#xF8;res i kommisjon/konsignasjon skal svare eksportavgift selv om en endelig salgskontrakt ikke foreligger.</article>
+    </main>
+  </body>
+</html>

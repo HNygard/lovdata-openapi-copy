@@ -1,1 +1,72 @@
-<!DOCTYPE html><html lang="no"><head><title>Lov om endring i folkeregisterloven</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">LOV-2021-06-18-110</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/lov/2021-06-18-110</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Finansdepartementet</li></ul></dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2021-06-18</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>lov/2016-12-09-88</li></ul></dd><dt class="legalArea">Rettsområde</dt><dd class="legalArea"><ul><li>Familie-, person- og barnerett &gt; Personrett. Personvern</li> <li>IKT- og medierett &gt; Personopplysninger</li> <li>Forvaltnings- og kommunalrett &gt; Statistikk. Registrering</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2021-06-18 12:50</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2021-1055</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endringslov til folkeregisterloven</dd><dt class="title">Tittel</dt><dd class="title">Lov om endring i folkeregisterloven</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Prop.194 LS (2020–2021), Innst.599 L (2020–2021), Lovvedtak 188 (2020–2021). Stortingets første og andre gongs behandling hv. 11. og 14. juni 2021. Fremja av Finansdepartementet.</dd><dt class="refid">RefID</dt><dd class="refid">lov/2021-06-18-110</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Lov om endring i folkeregisterloven<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/lov/2021-06-18-110" id="dokument"><h1>Lov om endring i folkeregisterloven</h1><article class="defaultP" data-text-size="small">Endring i følgjande lov:<ul class="defaultList" data-text-size="small"><li><article class="listArticle" data-text-size="small" id="punkt-1"><article class="legalP" id="punkt-1-ledd-1">Lov 9. desember 2016 nr. 88 om folkeregistrering (folkeregisterloven).</article></article></li></ul></article><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2021-06-18-110/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="defaultP">I lov 9. desember 2016 nr. 88 om folkeregistrering vert det gjort følgjande endring:</article> <article class="defaultP" margin-top="true">§ 9-1 andre ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-1">Taushetsplikten omfatter ikke opplysninger om en persons fulle navn, fødselsdato, kjønn, fødsels- og d-nummer, grunnlaget for registrert identitet etter § 3-2, adresse, kontaktopplysninger for dødsbo, fødested, statsborgerskap, sivilstand, vergemål, stadfestet fremtidsfullmakt og dødsdato, med mindre slike opplysninger røper et klientforhold eller andre forhold som gjør at opplysningene må anses personlige. Det samme gjelder historiske opplysninger om navn og adresse.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2021-06-18-110/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Lova tek til å gjelde straks.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Lov om endring i folkeregisterloven</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">LOV-2021-06-18-110</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/lov/2021-06-18-110</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Finansdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2021-06-18</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>lov/2016-12-09-88</li>
+          </ul>
+        </dd>
+        <dt class="legalArea">Rettsomr&#xE5;de</dt>
+        <dd class="legalArea">
+          <ul>
+            <li>Familie-, person- og barnerett &gt; Personrett. Personvern</li>
+            <li>IKT- og medierett &gt; Personopplysninger</li>
+            <li>Forvaltnings- og kommunalrett &gt; Statistikk. Registrering</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2021-06-18 12:50</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2021-1055</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endringslov til folkeregisterloven</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Lov om endring i folkeregisterloven</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Prop.194 LS (2020&#x2013;2021), Innst.599 L (2020&#x2013;2021), Lovvedtak 188 (2020&#x2013;2021). Stortingets f&#xF8;rste og andre gongs behandling hv. 11. og 14. juni 2021. Fremja av Finansdepartementet.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">lov/2021-06-18-110</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Lov om endring i folkeregisterloven<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/lov/2021-06-18-110" id="dokument">
+      <h1>Lov om endring i folkeregisterloven</h1>
+      <article class="defaultP" data-text-size="small">Endring i f&#xF8;lgjande lov:<ul class="defaultList" data-text-size="small"><li><article class="listArticle" data-text-size="small" id="punkt-1"><article class="legalP" id="punkt-1-ledd-1">Lov 9. desember 2016 nr. 88 om folkeregistrering (folkeregisterloven).</article></article></li></ul></article>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2021-06-18-110/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="defaultP">I lov 9. desember 2016 nr. 88 om folkeregistrering vert det gjort f&#xF8;lgjande endring:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 9-1 andre ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-1">Taushetsplikten omfatter ikke opplysninger om en persons fulle navn, f&#xF8;dselsdato, kj&#xF8;nn, f&#xF8;dsels- og d-nummer, grunnlaget for registrert identitet etter &#xA7; 3-2, adresse, kontaktopplysninger for d&#xF8;dsbo, f&#xF8;dested, statsborgerskap, sivilstand, vergem&#xE5;l, stadfestet fremtidsfullmakt og d&#xF8;dsdato, med mindre slike opplysninger r&#xF8;per et klientforhold eller andre forhold som gj&#xF8;r at opplysningene m&#xE5; anses personlige. Det samme gjelder historiske opplysninger om navn og adresse.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2021-06-18-110/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Lova tek til &#xE5; gjelde straks.</article>
+      </section>
+    </main>
+  </body>
+</html>

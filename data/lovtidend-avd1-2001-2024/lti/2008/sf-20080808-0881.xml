@@ -1,1 +1,77 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift om tiltak mot sjukdommer på bier</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2008-08-08-881</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2008-08-08-881</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Landbruks- og matdepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2008 hefte 9 s 1400</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2008-08-08</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2001-04-27-437</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/2003-12-19-124/§19</li><li>lov/2003-12-19-124/§33</li><li>forskrift/2003-12-19-1790</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2008-08-12 13:55</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2008-0725</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i forskrift om biesjukdommer</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om tiltak mot sjukdommer på bier</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Landbruks- og matdepartementet 8. august 2008 med hjemmel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 19 tredje ledd og § 33 første ledd, jf. delegeringsvedtak 19. desember 2003 nr. 1790.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2008-08-08-881</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om tiltak mot sjukdommer på bier<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2008-08-08-881" id="dokument"><h1>Forskrift om endring i forskrift om tiltak mot sjukdommer på bier</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2008-08-08-881/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift 27. april 2001 nr. 437 om tiltak mot sjukdommer på bier gjøres følgende endringer:</article> <article class="defaultP" margin-top="true">§ 3 definisjonen av region A skal lyde:</article> <article class="defaultP" margin-top="true"><i>Region A:</i> Nordland, Troms og Finnmark og følgende kommuner i Nord-Trøndelag: Snåsa, Overhalla, Namsos, Lierne, Grong, Høylandet, Fosnes, Nærøy, Vikna, Leka, Namsskogan og Røyrvik.</article> <article class="defaultP" margin-top="true">§ 3 definisjonen av region C skal lyde:</article> <article class="defaultP" margin-top="true"><i>Region C:</i> Østfold, Akershus, Oslo, Hedmark, Oppland, Sør-Trøndelag, Buskerud, Vestfold, Telemark, Aust-Agder, Vest-Agder og kommunene Lund og Sokndal i Rogaland og følgende kommuner i Nord-Trøndelag: Stjørdal, Meråker, Frosta, Leksvik, Levanger, Verdal, Mosvik, Inderøy, Verran, Steinkjer, Namdalseid og Flatanger.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2008-08-08-881/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft straks.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift om tiltak mot sjukdommer p&#xE5; bier</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2008-08-08-881</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2008-08-08-881</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Landbruks- og matdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2008 hefte 9 s 1400</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2008-08-08</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2001-04-27-437</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/2003-12-19-124/&#xA7;19</li>
+            <li>lov/2003-12-19-124/&#xA7;33</li>
+            <li>forskrift/2003-12-19-1790</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2008-08-12 13:55</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2008-0725</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i forskrift om biesjukdommer</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om tiltak mot sjukdommer p&#xE5; bier</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Landbruks- og matdepartementet 8. august 2008 med hjemmel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) &#xA7; 19 tredje ledd og &#xA7; 33 f&#xF8;rste ledd, jf. delegeringsvedtak 19. desember 2003 nr. 1790.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2008-08-08-881</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om tiltak mot sjukdommer p&#xE5; bier<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2008-08-08-881" id="dokument">
+      <h1>Forskrift om endring i forskrift om tiltak mot sjukdommer p&#xE5; bier</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2008-08-08-881/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift 27. april 2001 nr. 437 om tiltak mot sjukdommer p&#xE5; bier gj&#xF8;res f&#xF8;lgende endringer:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 3 definisjonen av region A skal lyde:</article>
+        <article class="defaultP" margin-top="true"><i>Region A:</i> Nordland, Troms og Finnmark og f&#xF8;lgende kommuner i Nord-Tr&#xF8;ndelag: Sn&#xE5;sa, Overhalla, Namsos, Lierne, Grong, H&#xF8;ylandet, Fosnes, N&#xE6;r&#xF8;y, Vikna, Leka, Namsskogan og R&#xF8;yrvik.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 3 definisjonen av region C skal lyde:</article>
+        <article class="defaultP" margin-top="true"><i>Region C:</i> &#xD8;stfold, Akershus, Oslo, Hedmark, Oppland, S&#xF8;r-Tr&#xF8;ndelag, Buskerud, Vestfold, Telemark, Aust-Agder, Vest-Agder og kommunene Lund og Sokndal i Rogaland og f&#xF8;lgende kommuner i Nord-Tr&#xF8;ndelag: Stj&#xF8;rdal, Mer&#xE5;ker, Frosta, Leksvik, Levanger, Verdal, Mosvik, Inder&#xF8;y, Verran, Steinkjer, Namdalseid og Flatanger.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2008-08-08-881/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft straks.</article>
+      </section>
+    </main>
+  </body>
+</html>

@@ -1,1 +1,96 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift om elsikkerhet i elektronisk kommunikasjonsnett</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2007-07-09-885</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2007-07-09-885</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Samferdselsdepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2007 hefte 7 s 1132</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2007-07-09</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2005-09-27-1094</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/2003-07-04-83/§1-4</li><li>lov/2003-07-04-83/§2-3</li><li>forskrift/2003-07-04-881</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2007-07-13</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2007-0732</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. forskr om elsikkerhet i kommunikasjonsnett</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om elsikkerhet i elektronisk kommunikasjonsnett</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Fastsatt av Post- og teletilsynet 9. juli 2007 med hjemmel i lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomloven) § 1-4 og § 2-3, jf. Kronprinsreg.res. 4. juli 2003 nr. 881 om funksjonsfordeling innen myndigheten etter lov om elektronisk kommunikasjon del I punkt 2. Jf. EØS-avtalen vedlegg II kap. X nr. 1 (direktiv 73/23/EØF).</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2007-07-09-885</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om elsikkerhet i elektronisk kommunikasjonsnett<ul class="tocSubUl"><li>I<ul class="tocSubUl"><li>§ 4a. Spesielle sikkerhetskrav til forbindelsen mellom veggkontakt i elektronisk kommunikasjonsnett med koaksial tilkobling og terminalutstyr</li><li>§ 5a. Spesielle krav til markedsføring og omsetning av terminalutstyr etter § 4a</li></ul></li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2007-07-09-885" id="dokument"><h1>Forskrift om endring i forskrift om elsikkerhet i elektronisk kommunikasjonsnett</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2007-07-09-885/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift 27. september 2005 nr. 1094 om elsikkerhet i elektronisk kommunikasjonsnett gjøres følgende endringer:</article> <article class="defaultP" margin-top="true">I § 2 tredje ledd bokstav b skal «produserer og/eller markedsfører» erstattes med «produserer, markedsfører eller omsetter».</article> <article class="defaultP" margin-top="true">§ 3 nye annet og tredje ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-2">Forbindelsen mellom veggkontakt i elektronisk kommunikasjonsnett med koaksial tilkobling og terminalutstyr er en del av det elektroniske kommunikasjonsnettet.</article><article class="legalP" id="kapittel-1-ledd-3">Med ombygget elektronisk kommunikasjonsnett menes nett som ved innsetting av ny kabel eller nye komponenter gir endret kapasitet eller båndbredde. Utskifting av kabel eller komponenter pga. feil/skade anses ikke som ombygging.</article> <article class="defaultP" margin-top="true">§ 3 nåværende annet ledd blir nytt fjerde ledd.</article> <article class="defaultP" margin-top="true">§ 4 nytt fjerde ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-4">I nye og ombygde elektroniske kommunikasjonsnett som består av koaksialkabel som føres inn til en bygning, skal skjermen galvanisk skilles fra kabelens skjerm inne i bygningen. Isolasjonen skal tilfredsstille kravene i § 4a annet og fjerde ledd.</article> <article class="defaultP" margin-top="true">§ 4 nåværende fjerde ledd blir nytt femte ledd.</article> <article class="defaultP" margin-top="true">Ny § 4a skal lyde:</article><article class="futureLegalArticle" data-name="§4a" id="kapittel-1-foreslåttparagraf-1"><span class="futureLegalArticleHeader"><span class="legalArticleValue">§ 4a</span>. <span class="legalArticleTitle">Spesielle sikkerhetskrav til forbindelsen mellom veggkontakt i elektronisk kommunikasjonsnett med koaksial tilkobling og terminalutstyr</span></span><article class="legalP" id="kapittel-1-foreslåttparagraf-1-ledd-1">Dersom terminalutstyr har galvanisk forbindelse mellom elnettets jord og utstyrets kontakter for tilkobling til elektronisk kommunikasjonsnett og er direkte eller indirekte tilkoblet et elektronisk kommunikasjonsnett, skal alle forbindelser mellom det elektroniske kommunikasjonsnettets veggkontakt og utstyret tilfredsstille kravene i annet og tredje ledd.</article><article class="legalP" id="kapittel-1-foreslåttparagraf-1-ledd-2">Ved en påtrykt 50 Hz vekselspenning med effektivverdi på 230 V mellom inn- og utgang på forbindelsens skjerm skal strømmen ikke overstige en effektivverdi på 8 mA. Ved påtrykk av en kontinuerlig likespenning på 2120 V i 1 minutt mellom inn- og utgang på forbindelsens skjerm, skal strømmen under testen ikke overstige 0,7 mA.</article><article class="legalP" id="kapittel-1-foreslåttparagraf-1-ledd-3">Forbindelsens metalliske deler skal ikke kunne berøres så lenge den er i bruk.</article><article class="legalP" id="kapittel-1-foreslåttparagraf-1-ledd-4">I tillegg til kravene i annet og tredje ledd gjelder kravene i forskrift 16. februar 2004 nr. 401 om elektronisk kommunikasjonsnett og elektronisk kommunikasjonstjeneste (ekomforskriften) § 9-5 og kravene i forskrift 2. januar 1996 nr. 3 om elektromagnetisk kompatibilitet (EMC) for teleutstyr (EMC-forskriften) § 4.</article></article> <article class="defaultP" margin-top="true">Ny § 5a skal lyde:</article><article class="futureLegalArticle" data-name="§5a" id="kapittel-1-foreslåttparagraf-2"><span class="futureLegalArticleHeader"><span class="legalArticleValue">§ 5a</span>. <span class="legalArticleTitle">Spesielle krav til markedsføring og omsetning av terminalutstyr etter § 4a</span></span><article class="legalP" id="kapittel-1-foreslåttparagraf-2-ledd-1">Den som markedsfører eller omsetter terminalutstyr med galvanisk forbindelse mellom elnettets jord og utstyrets kontakter for tilkobling til elektronisk kommunikasjonsnett, plikter å ha egnet sikkerhetsutstyr tilgjengelig og selge det sammen med terminalutstyret. Sikkerhetsutstyret skal tilfredsstille krav beskrevet i § 4a og omfatte en bruksanvisning.</article><article class="legalP" id="kapittel-1-foreslåttparagraf-2-ledd-2">Post- og teletilsynet utarbeider veiledning om faremomenter og bruk av sikkerhetsutstyr.</article></article> <article class="defaultP" margin-top="true">I § 6 bokstav z skal «ITU-T K.w» erstattes med «ITU-T K.68».</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2007-07-09-885/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft straks.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift om elsikkerhet i elektronisk kommunikasjonsnett</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2007-07-09-885</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2007-07-09-885</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Samferdselsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2007 hefte 7 s 1132</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2007-07-09</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2005-09-27-1094</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/2003-07-04-83/&#xA7;1-4</li>
+            <li>lov/2003-07-04-83/&#xA7;2-3</li>
+            <li>forskrift/2003-07-04-881</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2007-07-13</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2007-0732</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. forskr om elsikkerhet i kommunikasjonsnett</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om elsikkerhet i elektronisk kommunikasjonsnett</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Fastsatt av Post- og teletilsynet 9. juli 2007 med hjemmel i lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomloven) &#xA7; 1-4 og &#xA7; 2-3, jf. Kronprinsreg.res. 4. juli 2003 nr. 881 om funksjonsfordeling innen myndigheten etter lov om elektronisk kommunikasjon del I punkt 2. Jf. E&#xD8;S-avtalen vedlegg II kap. X nr. 1 (direktiv 73/23/E&#xD8;F).</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2007-07-09-885</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om elsikkerhet i elektronisk kommunikasjonsnett<ul class="tocSubUl"><li>I<ul class="tocSubUl"><li>&#xA7; 4a. Spesielle sikkerhetskrav til forbindelsen mellom veggkontakt i elektronisk kommunikasjonsnett med koaksial tilkobling og terminalutstyr</li><li>&#xA7; 5a. Spesielle krav til markedsf&#xF8;ring og omsetning av terminalutstyr etter &#xA7; 4a</li></ul></li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2007-07-09-885" id="dokument">
+      <h1>Forskrift om endring i forskrift om elsikkerhet i elektronisk kommunikasjonsnett</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2007-07-09-885/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift 27. september 2005 nr. 1094 om elsikkerhet i elektronisk kommunikasjonsnett gj&#xF8;res f&#xF8;lgende endringer:</article>
+        <article class="defaultP" margin-top="true">I &#xA7; 2 tredje ledd bokstav b skal &#xAB;produserer og/eller markedsf&#xF8;rer&#xBB; erstattes med &#xAB;produserer, markedsf&#xF8;rer eller omsetter&#xBB;.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 3 nye annet og tredje ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">Forbindelsen mellom veggkontakt i elektronisk kommunikasjonsnett med koaksial tilkobling og terminalutstyr er en del av det elektroniske kommunikasjonsnettet.</article>
+        <article class="legalP" id="kapittel-1-ledd-3">Med ombygget elektronisk kommunikasjonsnett menes nett som ved innsetting av ny kabel eller nye komponenter gir endret kapasitet eller b&#xE5;ndbredde. Utskifting av kabel eller komponenter pga. feil/skade anses ikke som ombygging.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 3 n&#xE5;v&#xE6;rende annet ledd blir nytt fjerde ledd.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 4 nytt fjerde ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-4">I nye og ombygde elektroniske kommunikasjonsnett som best&#xE5;r av koaksialkabel som f&#xF8;res inn til en bygning, skal skjermen galvanisk skilles fra kabelens skjerm inne i bygningen. Isolasjonen skal tilfredsstille kravene i &#xA7; 4a annet og fjerde ledd.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 4 n&#xE5;v&#xE6;rende fjerde ledd blir nytt femte ledd.</article>
+        <article class="defaultP" margin-top="true">Ny &#xA7; 4a skal lyde:</article>
+        <article class="futureLegalArticle" data-name="&#xA7;4a" id="kapittel-1-foresl&#xE5;ttparagraf-1">
+          <span class="futureLegalArticleHeader"><span class="legalArticleValue">&#xA7; 4a</span>. <span class="legalArticleTitle">Spesielle sikkerhetskrav til forbindelsen mellom veggkontakt i elektronisk kommunikasjonsnett med koaksial tilkobling og terminalutstyr</span></span>
+          <article class="legalP" id="kapittel-1-foresl&#xE5;ttparagraf-1-ledd-1">Dersom terminalutstyr har galvanisk forbindelse mellom elnettets jord og utstyrets kontakter for tilkobling til elektronisk kommunikasjonsnett og er direkte eller indirekte tilkoblet et elektronisk kommunikasjonsnett, skal alle forbindelser mellom det elektroniske kommunikasjonsnettets veggkontakt og utstyret tilfredsstille kravene i annet og tredje ledd.</article>
+          <article class="legalP" id="kapittel-1-foresl&#xE5;ttparagraf-1-ledd-2">Ved en p&#xE5;trykt 50 Hz vekselspenning med effektivverdi p&#xE5; 230 V mellom inn- og utgang p&#xE5; forbindelsens skjerm skal str&#xF8;mmen ikke overstige en effektivverdi p&#xE5; 8 mA. Ved p&#xE5;trykk av en kontinuerlig likespenning p&#xE5; 2120 V i 1 minutt mellom inn- og utgang p&#xE5; forbindelsens skjerm, skal str&#xF8;mmen under testen ikke overstige 0,7 mA.</article>
+          <article class="legalP" id="kapittel-1-foresl&#xE5;ttparagraf-1-ledd-3">Forbindelsens metalliske deler skal ikke kunne ber&#xF8;res s&#xE5; lenge den er i bruk.</article>
+          <article class="legalP" id="kapittel-1-foresl&#xE5;ttparagraf-1-ledd-4">I tillegg til kravene i annet og tredje ledd gjelder kravene i forskrift 16. februar 2004 nr. 401 om elektronisk kommunikasjonsnett og elektronisk kommunikasjonstjeneste (ekomforskriften) &#xA7; 9-5 og kravene i forskrift 2. januar 1996 nr. 3 om elektromagnetisk kompatibilitet (EMC) for teleutstyr (EMC-forskriften) &#xA7; 4.</article>
+        </article>
+        <article class="defaultP" margin-top="true">Ny &#xA7; 5a skal lyde:</article>
+        <article class="futureLegalArticle" data-name="&#xA7;5a" id="kapittel-1-foresl&#xE5;ttparagraf-2">
+          <span class="futureLegalArticleHeader"><span class="legalArticleValue">&#xA7; 5a</span>. <span class="legalArticleTitle">Spesielle krav til markedsf&#xF8;ring og omsetning av terminalutstyr etter &#xA7; 4a</span></span>
+          <article class="legalP" id="kapittel-1-foresl&#xE5;ttparagraf-2-ledd-1">Den som markedsf&#xF8;rer eller omsetter terminalutstyr med galvanisk forbindelse mellom elnettets jord og utstyrets kontakter for tilkobling til elektronisk kommunikasjonsnett, plikter &#xE5; ha egnet sikkerhetsutstyr tilgjengelig og selge det sammen med terminalutstyret. Sikkerhetsutstyret skal tilfredsstille krav beskrevet i &#xA7; 4a og omfatte en bruksanvisning.</article>
+          <article class="legalP" id="kapittel-1-foresl&#xE5;ttparagraf-2-ledd-2">Post- og teletilsynet utarbeider veiledning om faremomenter og bruk av sikkerhetsutstyr.</article>
+        </article>
+        <article class="defaultP" margin-top="true">I &#xA7; 6 bokstav z skal &#xAB;ITU-T K.w&#xBB; erstattes med &#xAB;ITU-T K.68&#xBB;.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2007-07-09-885/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft straks.</article>
+      </section>
+    </main>
+  </body>
+</html>

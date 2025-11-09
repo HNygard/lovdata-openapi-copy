@@ -1,1 +1,77 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift om vederlag for opphold i institusjon m.v.</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2001-01-05-34</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2001-01-05-34</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Sosialdepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2001 hefte 1</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2001-01-05</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/1995-04-26-392</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/1982-11-19-66/§2-3</li><li>lov/1982-11-19-66/§6-9</li><li>lov/1991-12-13-81/§11-2</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2001-02-02</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2001-0057</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. forskrift vederlag, opphold i institusjon</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om vederlag for opphold i institusjon m.v.</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Fastsatt ved kgl.res. 5. januar 2001 med hjemmel i lov av 19. november 1982 nr. 66 om helsetjenesten i kommunene § 2-3 og § 6-9 og lov av 13. desember 1991 nr. 81 om sosiale tjenester mv. § 11-2. Fremmet av Sosial- og helsedepartementet.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2001-01-05-34</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om vederlag for opphold i institusjon m.v.<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2001-01-05-34" id="dokument"><h1>Forskrift om endring i forskrift om vederlag for opphold i institusjon m.v.</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2001-01-05-34/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift av 26. april 1995 nr. 392 om vederlag for opphold i institusjon m.v. gjøres følgende endringer:</article> <article class="defaultP" margin-top="true">§ 3 annet ledd skal lyde:</article><article class="legalP" id="kapittel-1-ledd-2">Av inntekter inntil folketrygdens grunnbeløp, fratrukket et fribeløp på kroner 6.000 pr. år, kan det kreves betalt 75% årlig. Betalingen skal begrenses slik at enhver har i behold til eget bruk minst 25% av folketrygdens grunnbeløp i tillegg til fordelen av fribeløpet. Av inntekter utover folketrygdens grunnbeløp betales inntil 85%.</article> <article class="defaultP" margin-top="true">§ 4 skal lyde:</article><article class="legalP" id="kapittel-1-ledd-3">Kommunen kan ta betaling med inntil kroner 118 pr. døgn for korttidsopphold og med inntil kroner 59 for det enkelte dag- eller nattopphold.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2001-01-05-34/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft straks.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift om vederlag for opphold i institusjon m.v.</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2001-01-05-34</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2001-01-05-34</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Sosialdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2001 hefte 1</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2001-01-05</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/1995-04-26-392</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/1982-11-19-66/&#xA7;2-3</li>
+            <li>lov/1982-11-19-66/&#xA7;6-9</li>
+            <li>lov/1991-12-13-81/&#xA7;11-2</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2001-02-02</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2001-0057</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. forskrift vederlag, opphold i institusjon</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om vederlag for opphold i institusjon m.v.</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Fastsatt ved kgl.res. 5. januar 2001 med hjemmel i lov av 19. november 1982 nr. 66 om helsetjenesten i kommunene &#xA7; 2-3 og &#xA7; 6-9 og lov av 13. desember 1991 nr. 81 om sosiale tjenester mv. &#xA7; 11-2. Fremmet av Sosial- og helsedepartementet.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2001-01-05-34</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om vederlag for opphold i institusjon m.v.<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2001-01-05-34" id="dokument">
+      <h1>Forskrift om endring i forskrift om vederlag for opphold i institusjon m.v.</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2001-01-05-34/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift av 26. april 1995 nr. 392 om vederlag for opphold i institusjon m.v. gj&#xF8;res f&#xF8;lgende endringer:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 3 annet ledd skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">Av inntekter inntil folketrygdens grunnbel&#xF8;p, fratrukket et fribel&#xF8;p p&#xE5; kroner 6.000 pr. &#xE5;r, kan det kreves betalt 75% &#xE5;rlig. Betalingen skal begrenses slik at enhver har i behold til eget bruk minst 25% av folketrygdens grunnbel&#xF8;p i tillegg til fordelen av fribel&#xF8;pet. Av inntekter utover folketrygdens grunnbel&#xF8;p betales inntil 85%.</article>
+        <article class="defaultP" margin-top="true">&#xA7; 4 skal lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-3">Kommunen kan ta betaling med inntil kroner 118 pr. d&#xF8;gn for korttidsopphold og med inntil kroner 59 for det enkelte dag- eller nattopphold.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2001-01-05-34/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft straks.</article>
+      </section>
+    </main>
+  </body>
+</html>

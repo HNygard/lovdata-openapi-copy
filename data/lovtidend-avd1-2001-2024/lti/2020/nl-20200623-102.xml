@@ -1,1 +1,69 @@
-<!DOCTYPE html><html lang="no"><head><title>Lov om endring i folketrygdloven</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">LOV-2020-06-23-102</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/lov/2020-06-23-102</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Finansdepartementet</li></ul></dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2020-06-23, frå inntektsåret 2021</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>lov/1997-02-28-19</li></ul></dd><dt class="legalArea">Rettsområde</dt><dd class="legalArea"><ul><li>Pensjons- og trygderett</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2020-06-23 12:20</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2020-0924</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endringslov til folketrygdloven</dd><dt class="title">Tittel</dt><dd class="title">Lov om endring i folketrygdloven</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Prop.107 LS (2019–2020), Innst.361 L (2019–2020), Lovvedtak 142 (2019–2020). Stortingets første og andre gongs behandling hv. 16. og 19. juni 2020. Fremja av Finansdepartementet.</dd><dt class="refid">RefID</dt><dd class="refid">lov/2020-06-23-102</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Lov om endring i folketrygdloven<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/lov/2020-06-23-102" id="dokument"><h1>Lov om endring i folketrygdloven</h1><article class="defaultP" data-text-size="small">Endring i følgjande lov:<ul class="defaultList" data-text-size="small"><li><article class="listArticle" data-text-size="small" id="punkt-1"><article class="legalP" id="punkt-1-ledd-1">Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven).</article></article></li></ul></article><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2020-06-23-102/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="defaultP">I lov 28. februar 1997 nr. 19 om folketrygd gjer ein følgjande endring:</article> <article class="defaultP" margin-top="true">§ 23-3 andre ledd nr. 1 bokstav a skal lyde:<ul class="defaultList"><li data-li-identifier="a)" data-name="a)"><article class="listArticle" id="kapittel-1-punkt-1"><article class="legalP" id="kapittel-1-punkt-1-ledd-1">pensjon i og utenfor arbeidsforhold, føderåd, livrente som er ledd i pensjonsordning i arbeidsforhold og engangs- og avløsningsbeløp for slike ytelser, engangsutbetaling fra pensjonsordning etter innskuddspensjonsloven, engangsutbetaling fra individuell pensjonsavtale som er i samsvar med regler gitt av departementet, engangsutbetaling fra pensjonsavtale etter lov om individuell pensjonsordning og støtte etter lov om supplerande stønad til personar med kort butid i Noreg til personer som har fylt 67 år,</article></article></li></ul></article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2020-06-23-102/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Endringa under I tek til å gjelde straks med verknad frå og med inntektsåret 2021.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Lov om endring i folketrygdloven</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">LOV-2020-06-23-102</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/lov/2020-06-23-102</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Finansdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2020-06-23, fr&#xE5; inntekts&#xE5;ret 2021</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>lov/1997-02-28-19</li>
+          </ul>
+        </dd>
+        <dt class="legalArea">Rettsomr&#xE5;de</dt>
+        <dd class="legalArea">
+          <ul>
+            <li>Pensjons- og trygderett</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2020-06-23 12:20</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2020-0924</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endringslov til folketrygdloven</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Lov om endring i folketrygdloven</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Prop.107 LS (2019&#x2013;2020), Innst.361 L (2019&#x2013;2020), Lovvedtak 142 (2019&#x2013;2020). Stortingets f&#xF8;rste og andre gongs behandling hv. 16. og 19. juni 2020. Fremja av Finansdepartementet.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">lov/2020-06-23-102</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Lov om endring i folketrygdloven<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/lov/2020-06-23-102" id="dokument">
+      <h1>Lov om endring i folketrygdloven</h1>
+      <article class="defaultP" data-text-size="small">Endring i f&#xF8;lgjande lov:<ul class="defaultList" data-text-size="small"><li><article class="listArticle" data-text-size="small" id="punkt-1"><article class="legalP" id="punkt-1-ledd-1">Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven).</article></article></li></ul></article>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2020-06-23-102/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="defaultP">I lov 28. februar 1997 nr. 19 om folketrygd gjer ein f&#xF8;lgjande endring:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 23-3 andre ledd nr. 1 bokstav a skal lyde:<ul class="defaultList"><li data-li-identifier="a)" data-name="a)"><article class="listArticle" id="kapittel-1-punkt-1"><article class="legalP" id="kapittel-1-punkt-1-ledd-1">pensjon i og utenfor arbeidsforhold, f&#xF8;der&#xE5;d, livrente som er ledd i pensjonsordning i arbeidsforhold og engangs- og avl&#xF8;sningsbel&#xF8;p for slike ytelser, engangsutbetaling fra pensjonsordning etter innskuddspensjonsloven, engangsutbetaling fra individuell pensjonsavtale som er i samsvar med regler gitt av departementet, engangsutbetaling fra pensjonsavtale etter lov om individuell pensjonsordning og st&#xF8;tte etter lov om supplerande st&#xF8;nad til personar med kort butid i Noreg til personer som har fylt 67 &#xE5;r,</article></article></li></ul></article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2020-06-23-102/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Endringa under I tek til &#xE5; gjelde straks med verknad fr&#xE5; og med inntekts&#xE5;ret 2021.</article>
+      </section>
+    </main>
+  </body>
+</html>

@@ -1,1 +1,93 @@
-<!DOCTYPE html><html lang="no"><head><title>Endringer i departementsstrukturen og i ansvarsfordelingen mellom departementer</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2016-03-18-269</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2016-03-18-269</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Statsministerens kontor</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2016 hefte 4 s 629.</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2016-04-01</dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2016-03-18 15:50</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2016-0248</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i departementsstrukturen og ansvarsfordeling</dd><dt class="title">Tittel</dt><dd class="title">Endringer i departementsstrukturen og i ansvarsfordelingen mellom departementer</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt ved kgl.res. 18. mars 2016. Fremmet av Statsministerens kontor.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2016-03-18-269</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Endringer i departementsstrukturen og i ansvarsfordelingen mellom departementer<ul class="tocSubUl"><li>Vedlegg. Oversikt over lover som Justis- og beredskapsdepartementet skal ha overført forvaltningsansvaret for</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2016-03-18-269" id="dokument"><h1>Endringer i departementsstrukturen og i ansvarsfordelingen mellom departementer</h1><ul class="defaultList"><li data-li-identifier="1." data-name="1."><article class="listArticle" id="punkt-1"><article class="legalP" id="punkt-1-ledd-1">Justis- og beredskapsdepartementet overtar ansvaret for Integreringsavdelingen fra Barne-, likestillings- og inkluderingsdepartementet.</article></article></li><li data-li-identifier="2." data-name="2."><article class="listArticle" id="punkt-2"><article class="legalP" id="punkt-2-ledd-1">Barne-, likestillings- og inkluderingsdepartementet skifter navn til Barne- og likestillingsdepartementet, forkortet BLD.</article></article></li><li data-li-identifier="3." data-name="3."><article class="listArticle" id="punkt-3"><article class="legalP" id="punkt-3-ledd-1">Justis- og beredskapsdepartementet skal ha ansvar for overførte lover i samsvar med et vedlagt forslag.</article></article></li><li data-li-identifier="4." data-name="4."><article class="listArticle" id="punkt-4"><article class="legalP" id="punkt-4-ledd-1">Delegasjon til departementene til å foreta de endringer i forskrifter, avtaler, instrukser og bestemmelser som er en nødvendig følge av omorganiseringen.</article></article></li><li data-li-identifier="5." data-name="5."><article class="listArticle" id="punkt-5"><article class="legalP" id="punkt-5-ledd-1">Endringene trer i kraft 1. april 2016.</article></article></li></ul><section class="section" data-name="vedlegg" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2016-03-18-269/KAPITTEL_1"><h2>Vedlegg. Oversikt over lover som Justis- og beredskapsdepartementet skal ha overført forvaltningsansvaret for</h2><ul class="defaultList"><li data-li-identifier="-" data-name="-"><article class="listArticle" id="kapittel-1-punkt-1"><article class="legalP" id="kapittel-1-punkt-1-ledd-1">Lov 4. juli 2003 nr. 80 om introduksjonsordning og norskopplæring for nyankomne innvandrere (introduksjonsloven)</article></article></li><li data-li-identifier="-" data-name="-"><article class="listArticle" id="kapittel-1-punkt-2"><article class="legalP" id="kapittel-1-punkt-2-ledd-1">Lov 10. juni 2005 nr. 51 om norsk statsborgerskap (statsborgerskapsloven).</article></article></li></ul></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Endringer i departementsstrukturen og i ansvarsfordelingen mellom departementer</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2016-03-18-269</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2016-03-18-269</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Statsministerens kontor</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2016 hefte 4 s 629.</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2016-04-01</dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2016-03-18 15:50</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2016-0248</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i departementsstrukturen og ansvarsfordeling</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Endringer i departementsstrukturen og i ansvarsfordelingen mellom departementer</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt ved kgl.res. 18. mars 2016. Fremmet av Statsministerens kontor.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2016-03-18-269</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Endringer i departementsstrukturen og i ansvarsfordelingen mellom departementer<ul class="tocSubUl"><li>Vedlegg. Oversikt over lover som Justis- og beredskapsdepartementet skal ha overf&#xF8;rt forvaltningsansvaret for</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2016-03-18-269" id="dokument">
+      <h1>Endringer i departementsstrukturen og i ansvarsfordelingen mellom departementer</h1>
+      <ul class="defaultList">
+        <li data-li-identifier="1." data-name="1.">
+          <article class="listArticle" id="punkt-1">
+            <article class="legalP" id="punkt-1-ledd-1">Justis- og beredskapsdepartementet overtar ansvaret for Integreringsavdelingen fra Barne-, likestillings- og inkluderingsdepartementet.</article>
+          </article>
+        </li>
+        <li data-li-identifier="2." data-name="2.">
+          <article class="listArticle" id="punkt-2">
+            <article class="legalP" id="punkt-2-ledd-1">Barne-, likestillings- og inkluderingsdepartementet skifter navn til Barne- og likestillingsdepartementet, forkortet BLD.</article>
+          </article>
+        </li>
+        <li data-li-identifier="3." data-name="3.">
+          <article class="listArticle" id="punkt-3">
+            <article class="legalP" id="punkt-3-ledd-1">Justis- og beredskapsdepartementet skal ha ansvar for overf&#xF8;rte lover i samsvar med et vedlagt forslag.</article>
+          </article>
+        </li>
+        <li data-li-identifier="4." data-name="4.">
+          <article class="listArticle" id="punkt-4">
+            <article class="legalP" id="punkt-4-ledd-1">Delegasjon til departementene til &#xE5; foreta de endringer i forskrifter, avtaler, instrukser og bestemmelser som er en n&#xF8;dvendig f&#xF8;lge av omorganiseringen.</article>
+          </article>
+        </li>
+        <li data-li-identifier="5." data-name="5.">
+          <article class="listArticle" id="punkt-5">
+            <article class="legalP" id="punkt-5-ledd-1">Endringene trer i kraft 1. april 2016.</article>
+          </article>
+        </li>
+      </ul>
+      <section class="section" data-name="vedlegg" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2016-03-18-269/KAPITTEL_1">
+        <h2>Vedlegg. Oversikt over lover som Justis- og beredskapsdepartementet skal ha overf&#xF8;rt forvaltningsansvaret for</h2>
+        <ul class="defaultList">
+          <li data-li-identifier="-" data-name="-">
+            <article class="listArticle" id="kapittel-1-punkt-1">
+              <article class="legalP" id="kapittel-1-punkt-1-ledd-1">Lov 4. juli 2003 nr. 80 om introduksjonsordning og norskoppl&#xE6;ring for nyankomne innvandrere (introduksjonsloven)</article>
+            </article>
+          </li>
+          <li data-li-identifier="-" data-name="-">
+            <article class="listArticle" id="kapittel-1-punkt-2">
+              <article class="legalP" id="kapittel-1-punkt-2-ledd-1">Lov 10. juni 2005 nr. 51 om norsk statsborgerskap (statsborgerskapsloven).</article>
+            </article>
+          </li>
+        </ul>
+      </section>
+    </main>
+  </body>
+</html>

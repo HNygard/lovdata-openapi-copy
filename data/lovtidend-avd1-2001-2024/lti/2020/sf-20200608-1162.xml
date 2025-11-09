@@ -1,1 +1,79 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift om infrastruktur for geografisk informasjon (geodataforskriften)</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2020-06-08-1162</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2020-06-08-1162</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Kommunal- og moderniseringsdepartementet</li></ul></dd><dt class="subunit">Etat</dt><dd class="subunit"><ul><li>Planavdelingen</li></ul></dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2020-06-08</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2012-08-08-797</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/2010-09-03-56/§3</li><li>lov/2010-09-03-56/§4</li><li>lov/2010-09-03-56/§6</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2020-06-10 16:30</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2020-0861</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i geodataforskriften</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om infrastruktur for geografisk informasjon (geodataforskriften)</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Kommunal- og moderniseringsdepartementet 8. juni 2020 med hjemmel i lov 3. september 2010 nr. 56 om infrastruktur for geografisk informasjon (geodataloven) § 3, § 4 og § 6. <br /> <strong>EØS-henvisninger:</strong> EØS-avtalen vedlegg XX nr. 1j (direktiv 2007/2/EF som endret ved forordning (EU) 2019/1010) og nr. 1jb (beslutning (EU) 2019/1372).</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2020-06-08-1162</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om infrastruktur for geografisk informasjon (geodataforskriften)<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2020-06-08-1162" id="dokument"><h1>Forskrift om endring i forskrift om infrastruktur for geografisk informasjon (geodataforskriften)</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2020-06-08-1162/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift 8. august 2012 nr. 797 om infrastruktur for geografisk informasjon (geodataforskriften) skal § 14 andre og nytt tredje ledd lyde:</article><article class="legalP" id="kapittel-1-ledd-2">Rapporter og resultatindikatorer skal utarbeides i samsvar med EØS-avtalen vedlegg XX nr. 1jb (gjennomføringsbeslutning (EU) 2019/1372) om gjennomføring av europaparlaments- og rådsdirektiv 2007/2/EF med hensyn til overvåking og rapportering med de tilpasninger som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig.</article><article class="legalP" id="kapittel-1-ledd-3">Deltakende virksomheter og virksomheter etter § 1 andre ledd skal bidra med nødvendig informasjon om egen virksomhet og eget ansvarsområde. Statens kartverk kan gi pålegg og sette krav til virksomhetenes rapportering. Slike pålegg kan ikke påklages.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2020-06-08-1162/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Forskriften trer i kraft straks.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift om infrastruktur for geografisk informasjon (geodataforskriften)</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2020-06-08-1162</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2020-06-08-1162</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Kommunal- og moderniseringsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="subunit">Etat</dt>
+        <dd class="subunit">
+          <ul>
+            <li>Planavdelingen</li>
+          </ul>
+        </dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2020-06-08</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2012-08-08-797</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/2010-09-03-56/&#xA7;3</li>
+            <li>lov/2010-09-03-56/&#xA7;4</li>
+            <li>lov/2010-09-03-56/&#xA7;6</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2020-06-10 16:30</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2020-0861</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i geodataforskriften</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om infrastruktur for geografisk informasjon (geodataforskriften)</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Kommunal- og moderniseringsdepartementet 8. juni 2020 med hjemmel i lov 3. september 2010 nr. 56 om infrastruktur for geografisk informasjon (geodataloven) &#xA7; 3, &#xA7; 4 og &#xA7; 6. <br/> <strong>E&#xD8;S-henvisninger:</strong> E&#xD8;S-avtalen vedlegg XX nr. 1j (direktiv 2007/2/EF som endret ved forordning (EU) 2019/1010) og nr. 1jb (beslutning (EU) 2019/1372).</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2020-06-08-1162</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om infrastruktur for geografisk informasjon (geodataforskriften)<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2020-06-08-1162" id="dokument">
+      <h1>Forskrift om endring i forskrift om infrastruktur for geografisk informasjon (geodataforskriften)</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2020-06-08-1162/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift 8. august 2012 nr. 797 om infrastruktur for geografisk informasjon (geodataforskriften) skal &#xA7; 14 andre og nytt tredje ledd lyde:</article>
+        <article class="legalP" id="kapittel-1-ledd-2">Rapporter og resultatindikatorer skal utarbeides i samsvar med E&#xD8;S-avtalen vedlegg XX nr. 1jb (gjennomf&#xF8;ringsbeslutning (EU) 2019/1372) om gjennomf&#xF8;ring av europaparlaments- og r&#xE5;dsdirektiv 2007/2/EF med hensyn til overv&#xE5;king og rapportering med de tilpasninger som f&#xF8;lger av vedlegg XX, protokoll 1 til avtalen og avtalen for &#xF8;vrig.</article>
+        <article class="legalP" id="kapittel-1-ledd-3">Deltakende virksomheter og virksomheter etter &#xA7; 1 andre ledd skal bidra med n&#xF8;dvendig informasjon om egen virksomhet og eget ansvarsomr&#xE5;de. Statens kartverk kan gi p&#xE5;legg og sette krav til virksomhetenes rapportering. Slike p&#xE5;legg kan ikke p&#xE5;klages.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2020-06-08-1162/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Forskriften trer i kraft straks.</article>
+      </section>
+    </main>
+  </body>
+</html>

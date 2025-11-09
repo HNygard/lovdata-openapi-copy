@@ -1,1 +1,80 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift om landtransport av farlig gods</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2022-09-01-1531</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2022-09-01-1531</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Justis- og beredskapsdepartementet</li></ul></dd><dt class="subunit">Etat</dt><dd class="subunit"><ul><li>Direktoratet for samfunnssikkerhet og beredskap</li></ul></dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2022-09-01</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2009-04-01-384</li></ul></dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/2002-06-14-20/§43</li><li>forskrift/2003-09-01-1161</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2022-09-02 14:40</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2022-1173</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om landtransport av farlig gods</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Direktoratet for samfunnssikkerhet og beredskap 1. september 2022 med hjemmel i lov 14. juni 2002 nr. 20 om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann- og eksplosjonsvernloven) § 43 bokstav d, jf. delegeringsvedtak 1. september 2003 nr. 1161.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2022-09-01-1531</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om landtransport av farlig gods<ul class="tocSubUl"><li>I<ul class="tocSubUl"><li>§ 14. Transport av brannfarlige væsker i klasse 3 som foretas av utenlandske militære styrker</li></ul></li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2022-09-01-1531" id="dokument"><h1>Forskrift om endring i forskrift om landtransport av farlig gods</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2022-09-01-1531/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="defaultP">I forskrift 1. april 2009 nr. 384 om landtransport av farlig gods gjøres følgende endring:</article> <article class="defaultP" margin-top="true">Ny § 14 skal lyde:</article><article class="futureLegalArticle" data-name="§14" id="kapittel-1-foreslåttparagraf-1"><span class="futureLegalArticleHeader"><span class="legalArticleValue">§ 14</span>. <span class="legalArticleTitle">Transport av brannfarlige væsker i klasse 3 som foretas av utenlandske militære styrker</span></span><article class="legalP" id="kapittel-1-foreslåttparagraf-1-ledd-1">Kravene i ADR gjelder ikke for utenlandske militære styrker som transporterer brannfarlige væsker i klasse 3, dersom de oppfyller et tilsvarende regelverk fra hjemlandet.</article><article class="legalP" id="kapittel-1-foreslåttparagraf-1-ledd-2">Kjøretøyene og tankene skal likevel være merket i samsvar med ADR.</article><article class="legalP" id="kapittel-1-foreslåttparagraf-1-ledd-3">Kjøretøyene, tankene og det tilhørende utstyret skal ha et tilsvarende sikkerhetsnivå som i ADR og gjennomførte kontroller skal kunne dokumenteres på forespørsel.</article><article class="legalP" id="kapittel-1-foreslåttparagraf-1-ledd-4">Føreren skal ha tilpasset opplæring, som også omfatter aktuelle kjøreforhold. Gjennomført opplæring skal kunne dokumenteres på forespørsel.</article></article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2022-09-01-1531/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Endringen trer i kraft straks.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift om landtransport av farlig gods</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2022-09-01-1531</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2022-09-01-1531</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Justis- og beredskapsdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="subunit">Etat</dt>
+        <dd class="subunit">
+          <ul>
+            <li>Direktoratet for samfunnssikkerhet og beredskap</li>
+          </ul>
+        </dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2022-09-01</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2009-04-01-384</li>
+          </ul>
+        </dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/2002-06-14-20/&#xA7;43</li>
+            <li>forskrift/2003-09-01-1161</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2022-09-02 14:40</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2022-1173</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om landtransport av farlig gods</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Direktoratet for samfunnssikkerhet og beredskap 1. september 2022 med hjemmel i lov 14. juni 2002 nr. 20 om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann- og eksplosjonsvernloven) &#xA7; 43 bokstav d, jf. delegeringsvedtak 1. september 2003 nr. 1161.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2022-09-01-1531</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om landtransport av farlig gods<ul class="tocSubUl"><li>I<ul class="tocSubUl"><li>&#xA7; 14. Transport av brannfarlige v&#xE6;sker i klasse 3 som foretas av utenlandske milit&#xE6;re styrker</li></ul></li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2022-09-01-1531" id="dokument">
+      <h1>Forskrift om endring i forskrift om landtransport av farlig gods</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2022-09-01-1531/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="defaultP">I forskrift 1. april 2009 nr. 384 om landtransport av farlig gods gj&#xF8;res f&#xF8;lgende endring:</article>
+        <article class="defaultP" margin-top="true">Ny &#xA7; 14 skal lyde:</article>
+        <article class="futureLegalArticle" data-name="&#xA7;14" id="kapittel-1-foresl&#xE5;ttparagraf-1">
+          <span class="futureLegalArticleHeader"><span class="legalArticleValue">&#xA7; 14</span>. <span class="legalArticleTitle">Transport av brannfarlige v&#xE6;sker i klasse 3 som foretas av utenlandske milit&#xE6;re styrker</span></span>
+          <article class="legalP" id="kapittel-1-foresl&#xE5;ttparagraf-1-ledd-1">Kravene i ADR gjelder ikke for utenlandske milit&#xE6;re styrker som transporterer brannfarlige v&#xE6;sker i klasse 3, dersom de oppfyller et tilsvarende regelverk fra hjemlandet.</article>
+          <article class="legalP" id="kapittel-1-foresl&#xE5;ttparagraf-1-ledd-2">Kj&#xF8;ret&#xF8;yene og tankene skal likevel v&#xE6;re merket i samsvar med ADR.</article>
+          <article class="legalP" id="kapittel-1-foresl&#xE5;ttparagraf-1-ledd-3">Kj&#xF8;ret&#xF8;yene, tankene og det tilh&#xF8;rende utstyret skal ha et tilsvarende sikkerhetsniv&#xE5; som i ADR og gjennomf&#xF8;rte kontroller skal kunne dokumenteres p&#xE5; foresp&#xF8;rsel.</article>
+          <article class="legalP" id="kapittel-1-foresl&#xE5;ttparagraf-1-ledd-4">F&#xF8;reren skal ha tilpasset oppl&#xE6;ring, som ogs&#xE5; omfatter aktuelle kj&#xF8;reforhold. Gjennomf&#xF8;rt oppl&#xE6;ring skal kunne dokumenteres p&#xE5; foresp&#xF8;rsel.</article>
+        </article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2022-09-01-1531/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Endringen trer i kraft straks.</article>
+      </section>
+    </main>
+  </body>
+</html>

@@ -1,1 +1,77 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om fartøykvoter og maksimalkvoter ved fiske etter kolmule i 2010</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2010-01-15-41</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2010-01-15-41</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Fiskeridepartementet</li></ul></dd><dt class="publishedIn">Publisert i</dt><dd class="publishedIn">I 2010 hefte 1 s 196</dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2010-01-15 – 2010-12-31</dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>forskrift/2009-12-16-1554/§5</li><li>forskrift/2009-12-16-1554/§11</li><li>forskrift/2006-10-13-1157/§2-8</li><li>forskrift/2006-10-13-1157/§2-12</li><li>lov/2008-06-06-37/§11</li><li>lov/2008-06-06-37/§12</li><li>lov/2008-06-06-37/§13</li><li>lov/2008-06-06-37/§14</li><li>lov/2008-06-06-37/§16</li><li>lov/2008-06-06-37/§46</li><li>lov/1999-03-26-15/§21</li><li>forskrift/2000-02-11-99</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2010-01-22 14:20</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2010-0045</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Forskrift om kolmulekvoter, 2010</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om fartøykvoter og maksimalkvoter ved fiske etter kolmule i 2010</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Fiskeridirektoratet 15. januar 2010 med hjemmel i forskrift 16. desember 2009 nr. 1554 om regulering av fisket etter kolmule i 2010 § 5 og § 11 og forskrift 13. oktober 2006 nr. 1157 om spesielle tillatelser til å drive enkelte former for fiske og fangst (konsesjonsforskriften) § 2-8 og § 2-12.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2010-01-15-41</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om fartøykvoter og maksimalkvoter ved fiske etter kolmule i 2010<ul class="tocSubUl"><li>§ 1. Fartøykvoter for fartøy med kolmuletråltillatelse</li><li>§ 2. Ikrafttredelse</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2010-01-15-41" id="dokument"><h1>Forskrift om fartøykvoter og maksimalkvoter ved fiske etter kolmule i 2010</h1><article class="legalArticle" data-lovdata-URL="LTI/forskrift/2010-01-15-41/§1" data-name="§1" id="paragraf-1"><h2 class="legalArticleHeader"><span class="legalArticleValue">§ 1</span>. <span class="legalArticleTitle">Fartøykvoter for fartøy med kolmuletråltillatelse</span></h2><article class="legalP" id="paragraf-1-ledd-1">Kolmuletrålernes fartøykvoter beregnes på grunnlag av en kvoteenhet. Delkvoteenheten for færøysk sone er på 1250 tonn.</article><article class="legalP" id="paragraf-1-ledd-2">Fartøyets individuelle kvoter beregnes ved å multiplisere kvoteenheten, eller delkvoteenhetene for de ulike områder, med fartøyets fastsatte faktor i fisket etter kolmule.</article></article><article class="legalArticle" data-lovdata-URL="LTI/forskrift/2010-01-15-41/§2" data-name="§2" id="paragraf-2"><h2 class="legalArticleHeader"><span class="legalArticleValue">§ 2</span>. <span class="legalArticleTitle">Ikrafttredelse</span></h2><article class="legalP" id="paragraf-2-ledd-1">Denne forskrift trer i kraft straks og gjelder til og med 31. desember 2010.</article></article></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om fart&#xF8;ykvoter og maksimalkvoter ved fiske etter kolmule i 2010</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2010-01-15-41</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2010-01-15-41</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Fiskeridepartementet</li>
+          </ul>
+        </dd>
+        <dt class="publishedIn">Publisert i</dt>
+        <dd class="publishedIn">I 2010 hefte 1 s 196</dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2010-01-15 &#x2013; 2010-12-31</dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>forskrift/2009-12-16-1554/&#xA7;5</li>
+            <li>forskrift/2009-12-16-1554/&#xA7;11</li>
+            <li>forskrift/2006-10-13-1157/&#xA7;2-8</li>
+            <li>forskrift/2006-10-13-1157/&#xA7;2-12</li>
+            <li>lov/2008-06-06-37/&#xA7;11</li>
+            <li>lov/2008-06-06-37/&#xA7;12</li>
+            <li>lov/2008-06-06-37/&#xA7;13</li>
+            <li>lov/2008-06-06-37/&#xA7;14</li>
+            <li>lov/2008-06-06-37/&#xA7;16</li>
+            <li>lov/2008-06-06-37/&#xA7;46</li>
+            <li>lov/1999-03-26-15/&#xA7;21</li>
+            <li>forskrift/2000-02-11-99</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2010-01-22 14:20</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2010-0045</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Forskrift om kolmulekvoter, 2010</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om fart&#xF8;ykvoter og maksimalkvoter ved fiske etter kolmule i 2010</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Fiskeridirektoratet 15. januar 2010 med hjemmel i forskrift 16. desember 2009 nr. 1554 om regulering av fisket etter kolmule i 2010 &#xA7; 5 og &#xA7; 11 og forskrift 13. oktober 2006 nr. 1157 om spesielle tillatelser til &#xE5; drive enkelte former for fiske og fangst (konsesjonsforskriften) &#xA7; 2-8 og &#xA7; 2-12.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2010-01-15-41</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om fart&#xF8;ykvoter og maksimalkvoter ved fiske etter kolmule i 2010<ul class="tocSubUl"><li>&#xA7; 1. Fart&#xF8;ykvoter for fart&#xF8;y med kolmuletr&#xE5;ltillatelse</li><li>&#xA7; 2. Ikrafttredelse</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2010-01-15-41" id="dokument">
+      <h1>Forskrift om fart&#xF8;ykvoter og maksimalkvoter ved fiske etter kolmule i 2010</h1>
+      <article class="legalArticle" data-lovdata-URL="LTI/forskrift/2010-01-15-41/&#xA7;1" data-name="&#xA7;1" id="paragraf-1">
+        <h2 class="legalArticleHeader"><span class="legalArticleValue">&#xA7; 1</span>. <span class="legalArticleTitle">Fart&#xF8;ykvoter for fart&#xF8;y med kolmuletr&#xE5;ltillatelse</span></h2>
+        <article class="legalP" id="paragraf-1-ledd-1">Kolmuletr&#xE5;lernes fart&#xF8;ykvoter beregnes p&#xE5; grunnlag av en kvoteenhet. Delkvoteenheten for f&#xE6;r&#xF8;ysk sone er p&#xE5; 1250 tonn.</article>
+        <article class="legalP" id="paragraf-1-ledd-2">Fart&#xF8;yets individuelle kvoter beregnes ved &#xE5; multiplisere kvoteenheten, eller delkvoteenhetene for de ulike omr&#xE5;der, med fart&#xF8;yets fastsatte faktor i fisket etter kolmule.</article>
+      </article>
+      <article class="legalArticle" data-lovdata-URL="LTI/forskrift/2010-01-15-41/&#xA7;2" data-name="&#xA7;2" id="paragraf-2">
+        <h2 class="legalArticleHeader"><span class="legalArticleValue">&#xA7; 2</span>. <span class="legalArticleTitle">Ikrafttredelse</span></h2>
+        <article class="legalP" id="paragraf-2-ledd-1">Denne forskrift trer i kraft straks og gjelder til og med 31. desember 2010.</article>
+      </article>
+    </main>
+  </body>
+</html>

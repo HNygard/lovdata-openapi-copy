@@ -1,1 +1,85 @@
-<!DOCTYPE html><html lang="no"><head><title>Lov om endringer i verdipapirhandelloven (EU-gjenopprettingsprospekt mv.)</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">LOV-2021-12-22-162</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/lov/2021-12-22-162</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Finansdepartementet</li></ul></dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">Kongen bestemmer</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>lov/2007-06-29-75</li></ul></dd><dt class="legalArea">Rettsområde</dt><dd class="legalArea"><ul><li>Bank, finans og regnskapsrett &gt; Børs- og verdipapir</li> <li>Selskaper, fond og foreninger &gt; Fond</li> <li>EU/EØS-rett &gt; Finansielle tjenester</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2021-12-22 11:05</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2021-2234</dd><dt class="eeaReferences">EØS-henvisning</dt><dd class="eeaReferences">EØS-avtalen vedlegg IX <br />nr. 29bd (forordning (EU) 2021/337)</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endringslov til verdipapirhandelloven</dd><dt class="title">Tittel</dt><dd class="title">Lov om endringer i verdipapirhandelloven (EU-gjenopprettingsprospekt mv.)</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation">Prop.235 LS (2020–2021), Innst.55 L (2021–2022), Lovvedtak 24 (2021–2022). Stortingets første og andre gangs behandling hhv. 14. og 17. desember 2021. Fremmet av Finansdepartementet.</dd><dt class="refid">RefID</dt><dd class="refid">lov/2021-12-22-162</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Lov om endringer i verdipapirhandelloven (EU-gjenopprettingsprospekt mv.)<ul class="tocSubUl"><li>I</li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/lov/2021-12-22-162" id="dokument"><h1>Lov om endringer i verdipapirhandelloven (EU-gjenopprettingsprospekt mv.)</h1><article class="defaultP" data-text-size="small">Endringer i følgende lov:<ul class="defaultList" data-text-size="small"><li><article class="listArticle" data-text-size="small" id="punkt-1"><article class="legalP" id="punkt-1-ledd-1">Lov 29. juni 2007 nr. 75 om verdipapirhandel (verdipapirhandelloven).</article></article></li></ul></article><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2021-12-22-162/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I lov 29. juni 2007 nr. 75 om verdipapirhandel gjøres følgende endring:</article> <article class="defaultP" margin-top="true">§ 7-1 første ledd skal lyde:</article><article class="numberedLegalP" data-numerator="1" id="kapittel-1-nummer-1">(1) EØS-avtalen vedlegg IX forordning (EU) 2017/1129 (om prospekter ved offentlige tilbud og notering på regulert marked (prospektforordningen)), som endret ved forordning (EU) 2021/337 om EU-gjenopprettingsprospekt, gjelder som lov med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.</article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2021-12-22-162/KAPITTEL_2"><h2 data-text-align="center">II</h2><ul class="defaultList"><li data-li-identifier="1." data-name="1."><article class="listArticle" id="kapittel-2-punkt-1"><article class="legalP" id="kapittel-2-punkt-1-ledd-1">Loven gjelder fra den tid Kongen bestemmer.</article></article></li><li data-li-identifier="2." data-name="2."><article class="listArticle" id="kapittel-2-punkt-2"><article class="legalP" id="kapittel-2-punkt-2-ledd-1">Departementet kan gi overgangsregler.</article></article></li></ul></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Lov om endringer i verdipapirhandelloven (EU-gjenopprettingsprospekt mv.)</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">LOV-2021-12-22-162</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/lov/2021-12-22-162</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Finansdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">Kongen bestemmer</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>lov/2007-06-29-75</li>
+          </ul>
+        </dd>
+        <dt class="legalArea">Rettsomr&#xE5;de</dt>
+        <dd class="legalArea">
+          <ul>
+            <li>Bank, finans og regnskapsrett &gt; B&#xF8;rs- og verdipapir</li>
+            <li>Selskaper, fond og foreninger &gt; Fond</li>
+            <li>EU/E&#xD8;S-rett &gt; Finansielle tjenester</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2021-12-22 11:05</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2021-2234</dd>
+        <dt class="eeaReferences">E&#xD8;S-henvisning</dt>
+        <dd class="eeaReferences">E&#xD8;S-avtalen vedlegg IX <br/>nr. 29bd (forordning (EU) 2021/337)</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endringslov til verdipapirhandelloven</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Lov om endringer i verdipapirhandelloven (EU-gjenopprettingsprospekt mv.)</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation">Prop.235 LS (2020&#x2013;2021), Innst.55 L (2021&#x2013;2022), Lovvedtak 24 (2021&#x2013;2022). Stortingets f&#xF8;rste og andre gangs behandling hhv. 14. og 17. desember 2021. Fremmet av Finansdepartementet.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">lov/2021-12-22-162</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Lov om endringer i verdipapirhandelloven (EU-gjenopprettingsprospekt mv.)<ul class="tocSubUl"><li>I</li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/lov/2021-12-22-162" id="dokument">
+      <h1>Lov om endringer i verdipapirhandelloven (EU-gjenopprettingsprospekt mv.)</h1>
+      <article class="defaultP" data-text-size="small">Endringer i f&#xF8;lgende lov:<ul class="defaultList" data-text-size="small"><li><article class="listArticle" data-text-size="small" id="punkt-1"><article class="legalP" id="punkt-1-ledd-1">Lov 29. juni 2007 nr. 75 om verdipapirhandel (verdipapirhandelloven).</article></article></li></ul></article>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/lov/2021-12-22-162/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I lov 29. juni 2007 nr. 75 om verdipapirhandel gj&#xF8;res f&#xF8;lgende endring:</article>
+        <article class="defaultP" margin-top="true">&#xA7; 7-1 f&#xF8;rste ledd skal lyde:</article>
+        <article class="numberedLegalP" data-numerator="1" id="kapittel-1-nummer-1">(1) E&#xD8;S-avtalen vedlegg IX forordning (EU) 2017/1129 (om prospekter ved offentlige tilbud og notering p&#xE5; regulert marked (prospektforordningen)), som endret ved forordning (EU) 2021/337 om EU-gjenopprettingsprospekt, gjelder som lov med de tilpasninger som f&#xF8;lger av vedlegg IX, protokoll 1 til avtalen og avtalen for &#xF8;vrig.</article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/lov/2021-12-22-162/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <ul class="defaultList">
+          <li data-li-identifier="1." data-name="1.">
+            <article class="listArticle" id="kapittel-2-punkt-1">
+              <article class="legalP" id="kapittel-2-punkt-1-ledd-1">Loven gjelder fra den tid Kongen bestemmer.</article>
+            </article>
+          </li>
+          <li data-li-identifier="2." data-name="2.">
+            <article class="listArticle" id="kapittel-2-punkt-2">
+              <article class="legalP" id="kapittel-2-punkt-2-ledd-1">Departementet kan gi overgangsregler.</article>
+            </article>
+          </li>
+        </ul>
+      </section>
+    </main>
+  </body>
+</html>

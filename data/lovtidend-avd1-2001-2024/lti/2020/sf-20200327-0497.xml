@@ -1,1 +1,78 @@
-<!DOCTYPE html><html lang="no"><head><title>Forskrift om endring i forskrift om kvalifiseringsprogram og kvalifiseringsstønad</title><base href="https://lovdata.no/" /></head><body><header class="documentHeader" id="hode"><dl class="data-document-key-info"><dt class="legacyID">Datokode</dt><dd class="legacyID">FOR-2020-03-27-497</dd><dt class="dokid">DokumentID</dt><dd class="dokid">LTI/forskrift/2020-03-27-497</dd><dt class="ministry">Departement</dt><dd class="ministry"><ul><li>Arbeids- og sosialdepartementet</li></ul></dd><dt class="dateInForce">I kraft fra</dt><dd class="dateInForce">2020-03-27, med virkning fra 2020-03-16</dd><dt class="changesToDocuments">Endrer</dt><dd class="changesToDocuments"><ul><li>forskrift/2011-12-21-1471</li></ul></dd><dt class="appliesTo">Gjelder for</dt><dd class="appliesTo">Norge</dd><dt class="basedOn">Hjemmel</dt><dd class="basedOn"><ul><li>lov/2009-12-18-131/§32</li><li>lov/2009-12-18-131/§36</li></ul></dd><dt class="dateOfPublication">Kunngjort</dt><dd class="dateOfPublication">2020-03-27 20:45</dd><dt class="journalNumber">Journalnummer</dt><dd class="journalNumber">2020-0434</dd><dt class="titleShort">Korttittel</dt><dd class="titleShort">Endr. i forskrift om kvalifiseringsprogram og kvalifiseringsstønad</dd><dt class="title">Tittel</dt><dd class="title">Forskrift om endring i forskrift om kvalifiseringsprogram og kvalifiseringsstønad</dd><dt class="miscInformation">Annet om dokumentet</dt><dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Arbeids- og sosialdepartementet 27. mars 2020 med hjemmel i lov 18. desember 2009 nr. 131 om sosiale tjenester i arbeids- og velferdsforvaltningen (sosialtjenesteloven) § 32 og § 36.</dd><dt class="refid">RefID</dt><dd class="refid">forskrift/2020-03-27-497</dd><dt class="table-of-contents">Innhold</dt><dd class="table-of-contents"><ul class="tocTopUl"><li>Forskrift om endring i forskrift om kvalifiseringsprogram og kvalifiseringsstønad<ul class="tocSubUl"><li>I<ul class="tocSubUl"><li>§ 17a. Fravær som skyldes covid-19-pandemien</li></ul></li><li>II</li></ul></li></ul></dd></dl></header><main class="documentBody" data-lovdata-URL="LTI/forskrift/2020-03-27-497" id="dokument"><h1>Forskrift om endring i forskrift om kvalifiseringsprogram og kvalifiseringsstønad</h1><section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2020-03-27-497/KAPITTEL_1"><h2 data-text-align="center">I</h2><article class="legalP" id="kapittel-1-ledd-1">I forskrift 21. desember 2011 nr. 1471 om kvalifiseringsprogram og kvalifiseringsstønad gjøres følgende endringer:</article> <article class="defaultP" margin-top="true">Nytt kapittel 2A skal lyde:</article><span class="futuretitle" id="kapittel-1-foreslåttittel-1">Kapittel 2A. Særlige regler under covid-19-pandemien</span> <article class="defaultP" margin-top="true">Ny § 17a skal lyde:</article><article class="futureLegalArticle" data-name="§17a" id="kapittel-1-foreslåttparagraf-1"><span class="futureLegalArticleHeader"><span class="legalArticleValue">§ 17a</span>. <span class="legalArticleTitle">Fravær som skyldes covid-19-pandemien</span></span><article class="legalP" id="kapittel-1-foreslåttparagraf-1-ledd-1">En programdeltaker beholder retten til kvalifiseringsstønad ved fravær som skyldes covid-19-pandemien, og slikt fravær regnes ikke med i programmets varighet.</article><article class="legalP" id="kapittel-1-foreslåttparagraf-1-ledd-2">Egenmelding, se § 6 og § 10, kan benyttes i opptil 16 kalenderdager fra første fraværsdag. § 6 andre ledd gjelder ikke.</article></article></section><section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2020-03-27-497/KAPITTEL_2"><h2 data-text-align="center">II</h2><article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft straks og gis virkning fra 16. mars 2020.</article></section></main></body></html>
+<?xml version="1.0"?>
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <title>Forskrift om endring i forskrift om kvalifiseringsprogram og kvalifiseringsst&#xF8;nad</title>
+    <base href="https://lovdata.no/"/>
+  </head>
+  <body>
+    <header class="documentHeader" id="hode">
+      <dl class="data-document-key-info">
+        <dt class="legacyID">Datokode</dt>
+        <dd class="legacyID">FOR-2020-03-27-497</dd>
+        <dt class="dokid">DokumentID</dt>
+        <dd class="dokid">LTI/forskrift/2020-03-27-497</dd>
+        <dt class="ministry">Departement</dt>
+        <dd class="ministry">
+          <ul>
+            <li>Arbeids- og sosialdepartementet</li>
+          </ul>
+        </dd>
+        <dt class="dateInForce">I kraft fra</dt>
+        <dd class="dateInForce">2020-03-27, med virkning fra 2020-03-16</dd>
+        <dt class="changesToDocuments">Endrer</dt>
+        <dd class="changesToDocuments">
+          <ul>
+            <li>forskrift/2011-12-21-1471</li>
+          </ul>
+        </dd>
+        <dt class="appliesTo">Gjelder for</dt>
+        <dd class="appliesTo">Norge</dd>
+        <dt class="basedOn">Hjemmel</dt>
+        <dd class="basedOn">
+          <ul>
+            <li>lov/2009-12-18-131/&#xA7;32</li>
+            <li>lov/2009-12-18-131/&#xA7;36</li>
+          </ul>
+        </dd>
+        <dt class="dateOfPublication">Kunngjort</dt>
+        <dd class="dateOfPublication">2020-03-27 20:45</dd>
+        <dt class="journalNumber">Journalnummer</dt>
+        <dd class="journalNumber">2020-0434</dd>
+        <dt class="titleShort">Korttittel</dt>
+        <dd class="titleShort">Endr. i forskrift om kvalifiseringsprogram og kvalifiseringsst&#xF8;nad</dd>
+        <dt class="title">Tittel</dt>
+        <dd class="title">Forskrift om endring i forskrift om kvalifiseringsprogram og kvalifiseringsst&#xF8;nad</dd>
+        <dt class="miscInformation">Annet om dokumentet</dt>
+        <dd class="miscInformation"><strong>Hjemmel:</strong> Fastsatt av Arbeids- og sosialdepartementet 27. mars 2020 med hjemmel i lov 18. desember 2009 nr. 131 om sosiale tjenester i arbeids- og velferdsforvaltningen (sosialtjenesteloven) &#xA7; 32 og &#xA7; 36.</dd>
+        <dt class="refid">RefID</dt>
+        <dd class="refid">forskrift/2020-03-27-497</dd>
+        <dt class="table-of-contents">Innhold</dt>
+        <dd class="table-of-contents">
+          <ul class="tocTopUl">
+            <li>Forskrift om endring i forskrift om kvalifiseringsprogram og kvalifiseringsst&#xF8;nad<ul class="tocSubUl"><li>I<ul class="tocSubUl"><li>&#xA7; 17a. Frav&#xE6;r som skyldes covid-19-pandemien</li></ul></li><li>II</li></ul></li>
+          </ul>
+        </dd>
+      </dl>
+    </header>
+    <main class="documentBody" data-lovdata-URL="LTI/forskrift/2020-03-27-497" id="dokument">
+      <h1>Forskrift om endring i forskrift om kvalifiseringsprogram og kvalifiseringsst&#xF8;nad</h1>
+      <section class="section" data-name="kapI" id="kapittel-1" data-lovdata-URL="LTI/forskrift/2020-03-27-497/KAPITTEL_1">
+        <h2 data-text-align="center">I</h2>
+        <article class="legalP" id="kapittel-1-ledd-1">I forskrift 21. desember 2011 nr. 1471 om kvalifiseringsprogram og kvalifiseringsst&#xF8;nad gj&#xF8;res f&#xF8;lgende endringer:</article>
+        <article class="defaultP" margin-top="true">Nytt kapittel 2A skal lyde:</article>
+        <span class="futuretitle" id="kapittel-1-foresl&#xE5;ttittel-1">Kapittel 2A. S&#xE6;rlige regler under covid-19-pandemien</span>
+        <article class="defaultP" margin-top="true">Ny &#xA7; 17a skal lyde:</article>
+        <article class="futureLegalArticle" data-name="&#xA7;17a" id="kapittel-1-foresl&#xE5;ttparagraf-1">
+          <span class="futureLegalArticleHeader"><span class="legalArticleValue">&#xA7; 17a</span>. <span class="legalArticleTitle">Frav&#xE6;r som skyldes covid-19-pandemien</span></span>
+          <article class="legalP" id="kapittel-1-foresl&#xE5;ttparagraf-1-ledd-1">En programdeltaker beholder retten til kvalifiseringsst&#xF8;nad ved frav&#xE6;r som skyldes covid-19-pandemien, og slikt frav&#xE6;r regnes ikke med i programmets varighet.</article>
+          <article class="legalP" id="kapittel-1-foresl&#xE5;ttparagraf-1-ledd-2">Egenmelding, se &#xA7; 6 og &#xA7; 10, kan benyttes i opptil 16 kalenderdager fra f&#xF8;rste frav&#xE6;rsdag. &#xA7; 6 andre ledd gjelder ikke.</article>
+        </article>
+      </section>
+      <section class="section" data-name="kapII" id="kapittel-2" data-lovdata-URL="LTI/forskrift/2020-03-27-497/KAPITTEL_2">
+        <h2 data-text-align="center">II</h2>
+        <article class="legalP" id="kapittel-2-ledd-1">Endringene trer i kraft straks og gis virkning fra 16. mars 2020.</article>
+      </section>
+    </main>
+  </body>
+</html>
